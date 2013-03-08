@@ -1,4 +1,4 @@
-============
+﻿============
 Introduzione
 ============
 Questa è una Guida per principianti che vogliono saperne di più sulla Fattura e su tutte le sue forme: cosa è, quali tipi di fattura esistono, come è composta, come si compila. In questa Guida vedremo tutti i tipi di fattura, le caratteristiche comuni e cosa le differenzia. Cominceremo parlando delle caratteristiche comuni, poi vedremo in dettaglio i vari tipi di fattura: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Non mancheranno argomenti più avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di `iscrivervi alla Newsletter <http://eepurl.com/dYI1f>`_
@@ -36,15 +36,49 @@ ELEMENTI OBBLIGATORI DELLA FATTURA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 1. Generalità del venditore (cedente) complete di Partita IVA
 
-.. image:: http://amicidelmameli.org/img/edificio.jpg
-.. image:: /temp/edificio.jpg
-
+.. image:: img/ElementiFattura1.png
 
 2. Generalità del cliente (cessionario) complete di Partita IVA
+
+.. image:: img/ElementiFattura2.png
+
 3. Numero e data della fattura
+
+.. image:: img/ElementiFattura3.png
+
 4. Descrizione dei beni o dei servizi oggetto del contratto con il cliente
+
+.. image:: img/ElementiFattura4.png
+
 5. Quantità erogate dei beni o dei servizi
+
+.. image:: img/ElementiFattura5.png
+
 6. Prezzo unitario
 7. Eventuali sconti applicati
 8. Importo complessivo per le quantità cedute per ogni tipologia di bene o servizio
 9. Aliquote IVA per ogni tipologia di bene o servizio
+
+.. image:: img/ElementiFattura6.png
+
+10. Eventuali spese accessorie
+11. L’annotazione di Imponibile e Imposta per ogni aliquota IVA applicata
+12. La descrizione con articolo di legge per ogni eventuale esenzione IVA
+13. I totali per Imponibile, Imposta ed Importi Esenti
+
+.. image:: img/ElementiFattura7.png
+
+ELEMENTI FACOLTATIVI DELLA FATTURA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Sulla fattura possono essere annotati anche vari elementi contrattuali (facoltativi) come ad esempio:
+
+1. Modalità di pagamento
+2. Riferimenti a un eventuale ordine
+3. Banca di appoggio per il pagamento
+4. Comunicazioni di vario tipo per il cliente (Annotazioni)
+
+Ed ecco il risultato finale, una fattura completa pronta per essere consegnata al cliente:
+
+.. image:: img/ElementiFattura8.png
+
+
