@@ -81,4 +81,36 @@ Ed ecco il risultato finale, una fattura completa pronta per essere consegnata a
 
 .. image:: img/ElementiFattura8.png
 
+Determinazione della base imponibile
+------------------------------------
+Molto importante al fine di realizzare una fattura corretta dal punto di vista fiscale è la determinazione della cosiddetta Base Imponibile: si tratta del valore a cui vengono applicate le imposte (calcolo dell’IVA) nelle varie aliquote.
+Riporto un esempio di base per capire meglio come si determina la base imponibile:
 
++----------------------------------------------------------------------+------------------------+ 
+| Descrizione                                                          | Importo                | 
++======================================================================+========================+ 
+| Personal Computer                                                    |                € 900,00| 
++----------------------------------------------------------------------+------------------------+ 
+| Software                                                             |                € 200,00| 
++----------------------------------------------------------------------+------------------------+ 
+| Installazione                                                        |                € 100,00| 
++----------------------------------------------------------------------+------------------------+ 
+| Sconto complessivo 10% (su € 1200,00)                                |              \-€ 120,00| 
++----------------------------------------------------------------------+------------------------+ 
+| **Base Imponibile**                                                  |          **€ 1.080,00**| 
++----------------------------------------------------------------------+------------------------+ 
+
+Di fatto la base imponibile è il netto sul quale applicare le imposte detratti gli sconti percentuali, gli sconti in valore assoluto e gli eventuali acconti già pagati (e per quali è già stata emessa una fattura con relativa imposta).
+
+Con queste informazioni di base si può realizzare una fattura corretta dal punto di vista formale e fiscale.
+
+Conservazione delle Fatture
+---------------------------
+La conservazione dei documenti emessi deve essere fatta per 5 anni ai fini tributari; vanno invece conservate 10 anni ai fini civilistici le scritture relative sul giornale di contabilità. Per questioni di prudenza viene di norma consigliata la conservazione per 10 anni anche dei documenti.
+I termini di conservazione possono essere prorogati da apposite leggi del parlamento oppure in caso di un accertamento da parte dell’amministrazione finanziaria notificato ma non definito oppure in caso di mancata presentazione del modello Unico ed in vari altri casi particolari.
+
+In caso di utilizzo di sistemi per l’acquisizione ottica, fotografica o altra tecnologia adeguata è possibile non conservare i documenti emessi in originale (cartaceo) a patto di essere in grado di riprodurre a semplice richiesta su carta in qualsiasi istante il documento originale. La normativa sulla conservazione elettronica dei documenti è comunque in continua evoluzione.
+
+Conclusione
+-----------
+Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
