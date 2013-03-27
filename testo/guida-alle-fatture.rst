@@ -2,7 +2,7 @@
 Introduzione
 ============
 Questa è una Guida per principianti che vogliono saperne di più sulla Fattura e su tutte le sue forme: cosa è, quali tipi di fattura esistono, come è composta, come si compila. In questa Guida vedremo tutti i tipi di fattura, le caratteristiche comuni e cosa le differenzia. Cominceremo parlando delle caratteristiche comuni, poi vedremo in dettaglio i vari tipi di fattura: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Non mancheranno argomenti più avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di `iscrivervi alla Newsletter <http://eepurl.com/dYI1f>`_
-iscrivervi alla Newsletter così da non perderete i futuri articoli su questo argomento del nostro seguitissimo Blog.
+così da non perderete i futuri articoli su questo argomento del nostro seguitissimo Blog.
 
 ********************
 Gli elementi di base
@@ -241,4 +241,41 @@ Per la consegna del campionario all’agente la ditta mandante emetterà un DDT 
 DOCUMENTO DI TRASPORTO E GUARDIA DI FINANZA – I CONTROLLI SU STRADA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 I controlli dei trasporti su strada spettano esclusivamente alla Guardia di Finanza, che deve verificare la corrispondenza di quanto risultante dal DDT (o dichiarato dal conducente) con le risultanze effettive; successivamente la GdF o l’Ufficio Iva potranno verificare l’eventuale corretta fatturazione.
+
+***********************************************************
+Tipologie di Fattura: Immediata, Differita, Accompagnatoria
+***********************************************************
+
+Dopo aver introdotto gli Elementi Base della Fattura ed aver visto il Documento di Trasporto, in questo articolo analizziamo le tipologie di fattura più usate: fattura immediata, fattura differita e fattura accompagnatoria.
+Come al solito per gli esempi ci serviremo del software di fatturazione `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_, che ci permette di emettere tutte le tipologie di fattura possibili e di impostare il modulo di stampa come più ci piace e come meglio si adatta alla nostra categoria merceologica.
+Successivamente vedremo altre tipologie, come la fattura pro-forma, quella di acconto, le note di credito e debito. 
+
+Fattura Immediata
+-----------------
+La fattura immediata, come indica il nome stesso, deve essere emessa e consegnata o spedita al cliente (anche a mezzo di sistemi elettronici) entro lo stesso giorno di effettuazione della vendita o prestazione del servizio. Da ciò si evince che la fattura immediata non ha carattere accompagnatorio, per cui i beni/servizi venduti devono poter essere consegnati senza alcun documento. La fattura immediata rappresenta la regola generale ed è il documento di normale uso quando non c’è obbligo di documento di accompagnamento merce.
+
+La fattura per regola viene considerata emessa all’atto della sua consegna o spedizione all’altra parte; non esiste obbligo di verificare la ricezione.
+L’emissione di fattura immediata per la cessione di beni/servizi consente di evitare il rilascio della ricevuta fiscale o dello scontrino come previsto dall’articolo 3, comma 2 del DPR 21 dicembre 1996 n° 696. Per avere questo esonero, la fattura deve essere rilasciata contestualmente alla consegna dei beni o all’ultimazione dei servizi, cioè nei termini entro cui sarebbe scattato l’obbligo della certificazione fiscale (scontrino o ricevuta fiscale).
+
+La fattura immediata non ha obblighi aggiuntivi rispetto alle informazioni standard che abbiamo indicato nei capitoli precedenti.
+
+Fattura Differita
+-----------------
+La Fattura Differita è un documento fiscale emesso in un momento diverso da quello dell’effettuazione della prestazione, come avviene ad esempio con la fattura immediata, oppure diverso dalla consegna della merce come avviene con la Fattura Accompagnatoria come vedremo di seguito.
+
+Di norma la Fattura Differita viene utilizzata per la fatturazione a fine mese di merce consegnata con DDT nel corso di un mese solare. Questo permette di avere una sola fattura a fronte di molte spedizioni/consegne di merce fatte al cliente. Si adotta questo sistema quando i propri clienti hanno una frequenza di ordini evasi nel mese abbastanza elevata. Un ottimo esempio può essere un produttore di pane che ogni giorno consegna alle rivendite sue clienti il quantitativo di pane ordinato. In questo modo ogni giorno verrà emesso il solo DDT (documento più semplice e senza implicazioni di registrazione nel libro giornale), mentre a fine mese verrà emessa una Fattura Differita riepilogativa del mese appena concluso. Alcuni Gestionali tra cui anche il Gestionale Amica consentono di creare le fatture di fine mese in modo automatico.
+
+Come regola generale la Fattura Differita può essere emessa solo in riferimento a cessione di beni consegnati con apposito DDT o bolla di accompagnamento (nei casi in cui è ancora prevista) o ricevuta fiscale o scontrino opportunamente integrati con i dati IVA. Quando viene utilizzata come riepilogativa dei DDT raggruppati deve contenere l’indicazione di numero e data del documento di trasporto o altro documento con cui è stata consegnata la merce; deve essere emessa e consegnata al cliente entro il giorno 15 del mese successivo a quello di riferimento per i documenti di trasporto.
+
+.. image:: img/TipologiaFattura1.png
+
+Fattura Accompagnatoria
+-----------------------
+La fattura accompagnatoria è un documento che possiamo definire ‘ibrido’ in quanto ha contemporaneamente le caratteristiche e gli obblighi di un DDT e di una Fattura Immediata. Viene emessa quando vi è una cessione di beni che devono essere trasferiti presso il cliente e non può essere utilizzata per fatturare esclusivamente una prestazione di servizi (in quest’ultimo caso è obbligatorio l’uso della fattura immediata).
+
+Vediamone ora un esempio in quanto si tratta del tipo di fattura più complesso proprio per le sue caratteristiche di duplice valenza.
+
+.. image:: img/TipologiaFattura2.png
+
+Essendo una fattura conterrà quindi tutti gli elementi IVA con i relativi riepiloghi per aliquota ma dovendo anche ‘sostituire’ il DDT conterrà gli elementi relativi al trasporto, come il Vettore, il peso, il numero colli, ecc… Ovviamente gli elementi obbligatori per ognuna delle due tipologie di documenti lo sono anche per la Fattura Accompagnatoria.
 
