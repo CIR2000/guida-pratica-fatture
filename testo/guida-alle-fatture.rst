@@ -517,3 +517,60 @@ La stessa procedura deve essere seguita nel caso in cui si riceva una fattura ir
 - Autofattura per acquisti di rottami, carta da macero, ecc.
 - Autofattura per acquisti di oro o argento industriale
 
+**********************************************************
+Ricevuta Fiscale e Scontrino Fiscale: istruzioni per l’uso
+**********************************************************
+In questo capitolo parliamo di Ricevuta Fiscale e Scontrino Fiscale e vediamo cosa sono, quando vanno emessi e chi è tenuto ad emetterli.
+
+Ricevuta Fiscale e Scontrino Fiscale: obbligo generalizzato
+-----------------------------------------------------------
+Per la normativa italiana tutti i soggetti non obbligati all’emissione di fattura devono rilasciare Ricevuta Fiscale oppure Scontrino Fiscale. Questi soggetti sono obbligati all’emissione di fattura solo se richiesta preventivamente dal cliente come disposto dall’art. 12 comma 1 L. 413/91.
+
+SOGGETTI TENUTI ALLA EMISSIONE DI RICEVUTA FISCALE/ SCONTRINO
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I principali soggetti non obbligati all’emissione della fattura, se non richiesta preventivamente dal cliente, sono indicati nell’art. 22 del DPR 633/72:
+
+- Commercianti con autorizzazione di vendita al dettaglio
+- Artigiani che vendono beni di propria produzione presso i laboratori (CM 32/501388-1973)
+- Soggetti che forniscono prestazioni alberghiere
+- Soggetti che forniscono prestazioni di somministrazione di alimenti e bevande
+- Imprese che prestano servizi in locali aperti al pubblico
+- Imprese che prestano servizi nell’abitazione dei clienti o in forma ambulante
+- Imprese che effettuano trasporti di persone, veicoli e bagagli al seguito
+- Istituti di credito per servizi di custodia di titoli e altri servizi
+- Soggetti che effettuano talune operazioni esenti (assicurazioni, finanziamenti, affitti e locazioni
+
+L’art. 2 e del DPR 696/1996 ha stabilito che dal 21.02.1997 non è più obbligatoria l’emissione di scontrino o di ricevuta fiscale se viene emessa fattura immediata, oppure in presenza di DDT o documenti di consegna idonei che permettano la fatturazione differita integrati con il corrispettivo dell’operazione.
+
+Scontrino Fiscale
+-----------------
+
+L’imprenditore può liberamente scegliere tra l’emissione dello scontrino e l’emissione della ricevuta, utilizzando l’uno o l’altra anche nello stesso anno fiscale senza alcun problema. Qualora scelga lo scontrino vediamo quali sono le caratteristiche; uno scontrino corretto deve contenere:
+
+1. denominazione/ragione sociale di chi lo emette
+2. indirizzo del punto vendita
+3. partita IVA
+4. dati contabili dell’operazione come corrispettivi, rimborsi, totale ecc.
+5. data, ora di emissione, numero progressivo
+6. logotipo fiscale e numero di matricola del registratore
+
+Lo scontrino deve essere emesso quando si consegna la merce, quando si completa la prestazione o quando si incassa il corrispettivo. Di norma lo scontrino può essere digitato manualmente sul Registratore di Cassa oppure realizzato automaticamente con il collegamento a lettori di codice a barre e/o programmi gestionali che integrino le funzioni per l'emissione di scontrini. Nel programma Amica 10 è possibile compilare gli scontrini in un’apposita finestra, anche attraverso lettore di codice a barre, e poi procedere alla memorizzazione per lo scarico del magazzino. Collegando un registratore di cassa fiscalizzato (l’`elenco di quelli compatibili col programma <http://gestionaleamica.com/Supporto/Faq/afmmain.aspx?faqid=110>`_  è piuttosto lungo) è anche possibile stampare direttamente lo scontrino. Vediamo sotto la finestra per gli scontrini di Amica 10.
+
+.. image:: img/RicevuteScontrini1.png
+
+Ricevuta Fiscale
+----------------
+La ricevuta fiscale deve essere emessa in duplice esemplare utilizzando modelli sostanzialmente conformi a quello approvato con DM 30.03.1992. La ricevuta fiscale deve contenere i seguenti dati:
+
+1. la numerazione progressiva attribuita per anno solare
+2. la numerazione ‘fiscale’ attribuita dalla tipografia autorizzata alla stampa ed i riferimenti alla relativa autorizzazione
+3. la data di emissione
+4. ragione sociale, sede legale, partita IVA ed indirizzo commerciale di chi la emette
+5. descrizione dei beni o servizi, quantità, corrispettivi comprensivi di IVA
+
+Sotto vediamo un Fac-Simile di ricevuta fatta con il programma `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_:
+
+.. image:: img/RicevuteScontrini2.png
+
+Basta una rapida occhiata all'immagine per rendersi conto che la ricevuta fiscale è un documento molto simile alla fattura, con i prezzi indicati IVA inclusa. La ricevuta fiscale è uno dei tanti documenti di vendita che è possibile realizzare con `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_ e con tutte le suite Amica 10.
