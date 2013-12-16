@@ -14,24 +14,30 @@ La fattura è un documento emesso da chi vende merce o servizi. Nel rispetto deg
 
 Soggetti obbligati all'emissione di fattura
 -------------------------------------------
-La disciplina relativa alle fattura è contenuta nel  Testo Unico dell’IVA (DPR 633/1972). All’art.21 viene indicato che deve essere emessa fattura dal soggetto che effettua una operazione in regime di IVA, incluse quelle Non Imponibili, Esenti ed in regimi speciali.
+La disciplina relativa alle fattura è contenuta nel `Testo Unico ’IVA`_ (DPR 633/1972). All’art.21 viene indicato che deve essere emessa fattura dal soggetto che effettua una operazione in regime di IVA, incluse le operazioni Non Imponibili, Esenti ed in regimi speciali.
 
-Sono previste comunque dalla normativa delle eccezioni per alcune categorie di soggetti e/o per la tipologia delle operazioni (beni o servizi resi con particolari caratteristiche).
+Sono previste comunque dalla normativa delle eccezioni per alcune categorie di soggetti e/o per alcune tipologie di operazioni (beni o servizi resi con particolari caratteristiche).
 
 Le categorie dispensate dall’emissione di fattura sono:
 
 - le agenzie di viaggio in regime speciale;
 - gli agricoltori ed i pescatori che sono in regime di esonero per i quali l’obbligo deve essere assolto da chi acquista (cessionario) attraverso l’istituto dell’autofattura;
-- coloro che sono identificati e sottoposti al regime dei “contribuenti minimi in franchigia” in vigore dall’1.1.2007;
-- le operazioni che rientrano in regimi particolari detti ‘monofase’ cioè con IVA assolta alla fonte come nel  caso dell’ editoria, generi di monopolio, ecc.;
+- coloro che sono identificati e sottoposti al regime dei 'contribuenti minimi in franchigia' in vigore dall’1.1.2007;
+- le operazioni che rientrano in regimi particolari detti ‘monofase’ cioè con IVA assolta alla fonte come nel caso dell’ editoria, generi di monopolio, ecc.;
 - i negozianti con vendita al dettaglio che hanno però altri obblighi come l’emissione dello scontrino fiscale, della ricevuta fiscale e/o la registrazione e trasmissione (anche telematica) dei corrispettivi;
 
 La fattura può essere emessa in forma cartacea od in forma elettronica nel giorno di effettuazione dell’operazione.  E’ consentita anche l’emissione di un’unica fattura per tutte le prestazioni o cessioni di beni eseguite nello stesso giorno per lo stesso cliente.
 
 Gli elementi della fattura
 --------------------------
-Esistono molte tipologie di Fatture che si adattano alla tipologia richiesta dall’operazione ed ognuna di esse ha la maggior parte delle caratteristiche comuni, più alcune peculiarità specifiche e proprie. Di seguito analizzeremo le caratteristiche comuni a tutte le fatture poi passeremo alle specificità di ogni tipologia.
-Una fattura deve contenere alcuni elementi obbligatori previsti dalla normativa; non ci sono obblighi di formato e posizionamento delle informazioni. Per gli esempi ci serviremo del programma `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_.
+Esistono molte tipologie di Fattura. Ognuna si adatta alla tipologia richiesta
+dall’operazione, ed ognuna presenta gran parte delle caratteristiche in comune
+con le altre, più alcune peculiarità proprie. Di seguito analizzeremo le
+caratteristiche comuni a tutte le fatture poi passeremo alle specificità di
+ogni tipologia.  Una fattura deve contenere alcuni elementi obbligatori
+previsti dalla normativa; non ci sono obblighi di formato e posizionamento
+delle informazioni. Per gli esempi ci serviremo del programma `Amica
+Fatturazione <http://gestionaleamica.com/Fatturazione>`_.
 
 ELEMENTI OBBLIGATORI DELLA FATTURA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -578,3 +584,4 @@ Basta una rapida occhiata all'immagine per rendersi conto che la ricevuta fiscal
 
 .. _Blog: http://gestionaleamica.com/Blog
 .. _Newsletter: http://eepurl.com/dYI1f 
+.. _`Test Unico IVA`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
