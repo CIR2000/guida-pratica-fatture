@@ -118,8 +118,8 @@ I termini di conservazione possono essere prorogati da apposite leggi del parlam
 
 In caso di utilizzo di sistemi per l’acquisizione ottica, fotografica o altra tecnologia adeguata è possibile non conservare i documenti emessi in originale (cartaceo) a patto di essere in grado di riprodurre a semplice richiesta su carta in qualsiasi istante il documento originale. La normativa sulla conservazione elettronica dei documenti è comunque in continua evoluzione.
 
-Conclusione
------------
+Riepilogo
+---------
 Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
 
 *******************************
