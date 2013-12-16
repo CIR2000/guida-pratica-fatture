@@ -1,8 +1,12 @@
 ﻿============
 Introduzione
 ============
-Questa è una Guida per principianti che vogliono saperne di più sulla Fattura e su tutte le sue forme: cosa è, quali tipi di fattura esistono, come è composta, come si compila. In questa Guida vedremo tutti i tipi di fattura, le caratteristiche comuni e cosa le differenzia. Cominceremo parlando delle caratteristiche comuni, poi vedremo in dettaglio i vari tipi di fattura: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Non mancheranno argomenti più avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di `iscrivervi alla Newsletter <http://eepurl.com/dYI1f>`_
-così da non perderete i futuri articoli su questo argomento del nostro seguitissimo Blog.
+Questa Guida Alle Fatture è dedicata ai principianti che vogliono saperne di più sulla Fattura in tutte le sue forme: cosa è una fattura, quali tipologie esistono, come è composta e, naturalmente, come si compila. Nel corso della guida passeremo in rassegna tutti i documenti di fatturazione esistenti: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Partiremo dalle caratteristiche comuni a tutti questi documenti per poi scendere nel dettaglio, esaminando le peculitarità di ognuna di esse.
+
+Non mancheranno argomenti più avanzati, come le regole per gli arrotondamenti.
+Se siete interessati ad ulteriori approfondimenti non scordate di iscrivervi
+alla Newsletter_, così da non perdervi i futuri articoli sull'argomento,
+pubblicati anche sul nostro seguitissimo Blog_.
 
 ********************
 Gli elementi di base
@@ -574,3 +578,6 @@ Sotto vediamo un Fac-Simile di ricevuta fatta con il programma `Amica Fatturazio
 .. image:: img/RicevuteScontrini2.png
 
 Basta una rapida occhiata all'immagine per rendersi conto che la ricevuta fiscale è un documento molto simile alla fattura, con i prezzi indicati IVA inclusa. La ricevuta fiscale è uno dei tanti documenti di vendita che è possibile realizzare con `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_ e con tutte le suite Amica 10.
+
+.. _Blog: http://gestionaleamica.com/Blog
+.. _Newsletter: http://eepurl.com/dYI1f 
