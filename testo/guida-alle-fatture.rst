@@ -39,7 +39,7 @@ previsti dalla normativa; non ci sono obblighi di formato e posizionamento
 delle informazioni. Per gli esempi ci serviremo del programma `Amica
 Fatturazione <http://gestionaleamica.com/Fatturazione>`_.
 
-ELEMENTI OBBLIGATORI DELLA FATTURA
+Elementi obbligatori della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 1. Generalità del venditore (cedente) complete di Partita IVA
 
@@ -75,7 +75,7 @@ ELEMENTI OBBLIGATORI DELLA FATTURA
 
 .. image:: img/ElementiFattura7.png
 
-ELEMENTI FACOLTATIVI DELLA FATTURA
+Elementi facoltativi della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Sulla fattura possono essere annotati anche vari elementi contrattuali (facoltativi) come ad esempio:
 
