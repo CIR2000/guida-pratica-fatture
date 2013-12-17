@@ -129,14 +129,13 @@ In questo capitolo ci occupiamo del Documento di Trasporto (DDT), chiamato anche
 
 Cos’è il Documento di Trasporto o DDT
 -------------------------------------
-Il DPR 472/96 ha introdotto il Documento di Trasporto (DDT) come sostituzione della precedente Bolla di Accompagnamento. Il DDT certifica un trasferimento di merci dal cedente (venditore) al cessionario (acquirente). La consegna avviene presso la sede indicata dal cessionario quale luogo di consegna. Il trasporto può essere effettuato sia dal mittente che dal destinatario, oppure utilizzando un trasportatore che si assume l’incarico della consegna.
+Il `DPR 472/96`_ ha introdotto il Documento di Trasporto (DDT) come sostituzione della precedente Bolla di Accompagnamento. Il DDT certifica un trasferimento di merci dal cedente (venditore) al cessionario (acquirente). La consegna avviene presso la sede indicata dal cessionario quale luogo di consegna. Il trasporto può essere effettuato sia dal mittente che dal destinatario, oppure utilizzando un trasportatore che si assume l’incarico della consegna.
 
-Il Documento di Trasporto deve essere emesso prima della consegna diretta o dell’affidamento dei beni al trasportatore, e deve contenere l’indicazione alcuni elementi obbligatori. In alternativa può essere inviato al destinatario (via fax, via eMail o altro) entro il giorno stesso dell'invio della merce. Tuttavia consigliamo di accompagnare sempre le merci con il Documento di Trasporto.
+Il Documento di Trasporto deve essere emesso prima della consegna diretta o dell’affidamento dei beni al trasportatore, e deve contenere l’indicazione alcuni elementi obbligatori. In alternativa può essere inviato al destinatario (via fax, via email o altro) entro il giorno stesso dell'invio della merce. Tuttavia consigliamo di accompagnare sempre le merci con il Documento di Trasporto.
 
-DATI OBBLIGATORI NEL DOCUMENTO DI TRASPORTO
+Dati obbligatori nel documento di trasporto
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Segue l’elenco dei dati obbligatori affinché il Documento di Trasporto sia valido fiscalmente. Come al solito per gli esempi ci serviremo di `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_ che tra l’altro ci permette di impostare il modulo di stampa del DDT come più ci aggrada.
+Segue l’elenco dei dati obbligatori affinché il Documento di Trasporto sia valido fiscalmente. Come al solito per gli esempi ci serviremo di `Amica Fatturazione`_.
 
 1. Generalità complete di Partita IVA del venditore (cedente)
 
@@ -162,7 +161,7 @@ Segue l’elenco dei dati obbligatori affinché il Documento di Trasporto sia va
 
 .. image:: img/ElementiDDT6.png
 
-Nel caso del vettore vanno indicati i suoi riferimenti identificativi. Se il trasporto avviene con il passaggio delle merci fra diversi Vettori  è sufficiente indicare sul DDT le generalità dei primo incaricato. Per alcune merci particolari è necessario individuare anche i dati dettagliati del trasportatore come persona fisica con anche il numero di patente, come ad esempio nel caso di trasporto di carburanti, liquidi speciali, altamente infiammabili  ed altro.
+Nel caso del vettore vanno indicati i suoi riferimenti identificativi. Se il trasporto avviene con il passaggio delle merci fra diversi Vettori è sufficiente indicare sul DDT le generalità dei primo incaricato. Per alcune merci particolari è necessario individuare anche i dati dettagliati del trasportatore come persona fisica con anche il numero di patente, come ad esempio nel caso di trasporto di carburanti, liquidi speciali, altamente infiammabili  ed altro.
 
 7. Il numero dei colli ed il loro peso (facoltativi ma consigliati soprattutto con trasporto a mezzo Vettore)
 
@@ -174,28 +173,26 @@ Nell'immagine vediamo un DDT completo:
 
 .. image:: img/ElementiDDT8.png
 
-In questo caso si è scelto di esporre già i prezzi, i totali del documento e altre informazioni non obbligatorie come la banca di appoggio. Indicare i prezzi  può essere utile, sia come promemoria per il cessionario che per velocizzare la successiva emissione della fattura di vendita (in Amica Fatturazione l’operazione diventa facile e veloce e può anche essere automatizzata), ma non è obbligatorio. Anzi, in molte situazione può essere utile o necessario non esporli come ad esempio i casi in cui il DDT venga maneggiato da persone che non devono conoscere i prezzi praticati.
+In questo caso si è scelto di esporre già i prezzi, i totali del documento e altre informazioni non obbligatorie come la banca di appoggio. Indicare i prezzi  può essere utile, sia come promemoria per il cessionario che per velocizzare la successiva emissione della fattura di vendita (in `Amica Fatturazione`_ l’operazione diventa facile e veloce e può anche essere automatizzata), ma non è obbligatorio. Anzi, in molte situazione può essere utile o necessario non esporli come ad esempio i casi in cui il DDT venga maneggiato da persone che non devono conoscere i prezzi praticati.
 
-ASPETTI CIVILISTICI
+Aspetti civilistici
 ^^^^^^^^^^^^^^^^^^^
-Ritengo importante ricordare che i documenti di trasporto non rispondono solo all’adempimento della normativa fiscale ma ricoprono anche necessità di carattere civilistico come ad esempio la tutela e la garanzia per Cedente e Cessionario dell’avvenuta consegna delle merci nonché per una corretta gestione amministrativa. È quindi da valutare caso per caso l’opportunità di certificare con DDT anche operazioni che sarebbero esenti per la legislazione fiscale anche allo scopo di ottenere dalla controparte ricevuta dell’effettiva consegna dei beni.
+Ritengo importante ricordare che i documenti di trasporto non rispondono solo all’adempimento della normativa fiscale ma ricoprono anche necessità di carattere civilistico come ad esempio la tutela e la garanzia per Cedente e Cessionario dell’avvenuta consegna delle merci nonché per una corretta gestione amministrativa. È quindi da valutare caso per caso l’opportunità di certificare con DDT anche operazioni che sarebbero esenti per la legislazione fiscale, anche allo scopo di ottenere dalla controparte una ricevuta dell’effettiva consegna dei beni.
+
 Dopo la soppressione della Bolla di Accompagnamento, l’introduzione del Documento di Trasporto permette alle imprese di continuare ad emettere la fattura differita (di cui parleremo in seguito), che senza documento di trasporto non avrebbe più avuto senso mancando il giustificativo di consegna.
 
-TRASPORTO DI MERCI NON DESTINATE ALLA VENDITA
+Trasporto di merci non destinate alla vendita
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nel caso in cui si effettuino trasporti di merci non destinate alla vendita (conto lavorazione, riparazione, comodato d’uso, ecc.) è necessario un documento di trasporto con apposita causale che dimostri, ad un eventuale contestazione dell’amministrazione, che non si tratta di una vendita ‘simulata’ ma di una movimentazione di merce legata ad altri fattori e che la merce in oggetto rimane di proprietà del mittente del trasporto. Diversamente l’amministrazione, sulla base dell’ art. 53 del decreto IVA, può applicare la presunzione di cessione (o acquisto nel caso di merci in ingresso) ed ipotizzare una cessione senza fattura con le relative conseguenze sanzionatorie.
 
 Riepilogando:
 
 - il Documento di Trasporto ha una valenza ai fini fiscali per il rispetto della normativa;
-
 - permette di avvalersi della fatturazione differita;
-
 - consente di non cadere nelle presunzioni di cui all’art. 53 del D.P.R. 633/72;
-
 - ha valenza di ‘ricevuta’ ai fini civilistici.
 
-Emissione e Conservazione del Documento di Trasporto
+Emissione e conservazione del Documento di Trasporto
 ----------------------------------------------------
 Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure  essere spedito (anche via fax o altro mezzo) entro il giorno stesso dell’inizio del trasporto al cessionario. I DDT relativi ai trasporti con fatturazione differita devono essere conservati fino alla scadenza dei termini per l’accertamento.  Si consiglia di conservarli assieme alla fattura in cui le merci consegnate sono state fatturate.
 
@@ -210,7 +207,7 @@ Nei prossimi paragrafi analizziamo alcuni casi particolari, come quelli in cui s
 5. Agenti di commercio e campionari
 6. I controlli su strada della Guardia di Finanza
 
-DOCUMENTO DI TRASPORTO E SCONTRINO FISCALE
+Documento di trasporto e scontrino fiscale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Il Documento di Trasporto, se con causale di cessione beni e completo con l’ammontare dei corrispettivi, sostituisce l’emissione dello scontrino fiscale. I commercianti al minuto ed i soggetti assimilati potranno quindi scegliere, per certificare i corrispettivi, una delle seguenti modalità:
 
@@ -218,10 +215,10 @@ Il Documento di Trasporto, se con causale di cessione beni e completo con l’am
 - Emissione di fattura immediata
 - Emissione di documento di trasporto integrato con l’ammontare dei corrispettivi e successiva fattura differita
 
-DOCUMENTO DI TRASPORTO E RICEVUTA FISCALE
+Documento di trasporto e ricevuta fiscale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I contribuenti che sono tenuti all’emissione della Ricevuta Fiscale per la certificazione dei corrispettivi non devono compilare il Documento di Trasporto. L’emissione della ricevuta fiscale (completa dei dati identificativi del cliente) consente di procedere all’emissione della Fattura Differita e sostituisce di fatto il documento di trasporto stesso.
-Premesso che la Fattura Differita va emessa solo ed esclusivamente nel caso di cessione di beni, è opportuno chiarire il comportamento da seguire in caso di prestazioni di servizi che presuppongano la consegna del bene finito o lavorato.
+I contribuenti che sono tenuti all’emissione della Ricevuta Fiscale per la certificazione dei corrispettivi non devono compilare il Documento di Trasporto. L’emissione della ricevuta fiscale (completa dei dati identificativi del cliente) consente di procedere all’emissione della Fattura Differita e sostituisce di fatto il documento di trasporto stesso. Premesso che la Fattura Differita va emessa solo ed esclusivamente nel caso di cessione di beni, è opportuno chiarire il comportamento da seguire in caso di prestazioni di servizi che presuppongano la consegna del bene finito o lavorato.
+
 Innanzitutto il comportamento da tenere cambia se la prestazione viene resa in un locale non aperto al pubblico o presso un’ impresa, oppure in un locale aperto al pubblico, in forma ambulante o nell’abitazione di un cliente privato.
 
 1. Nel caso di prestazione resa in locale non aperto al pubblico o presso un’impresa l’operazione dovrà essere conclusa con emissione di fattura ordinaria. Il documento di trasporto dovrà essere sempre emesso qualora si renda necessario vincere le presunzioni di cessione, quindi se unitamente alla prestazione vengono fornite merci. Per comprovare la consegna delle merci sarebbe sempre opportuna l’emissione di un documento di trasporto da far controfirmare per ricevuta dal cliente.
@@ -230,22 +227,22 @@ Innanzitutto il comportamento da tenere cambia se la prestazione viene resa in u
 
 Al fine di vincere la presunzione di cessione all’art. 53 del D.P.R. 633/72 consiglio sempre l’emissione di un DDT quando si prevede che la prestazione venga terminata in una data diversa dalla consegna dei beni.
 
-DOCUMENTO DI TRASPORTO E TENTATA VENDITA
+Documento di trasporto e tentata vendita
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nel caso di trasporto di merci per la tentata vendita ci sono due comportamenti diversi da tenere a seconda che per la vendita si emetta fattura immediata o fattura differita:
 
-1. Fatturazione immediata. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, la relativa fattura consegnandone una copia al’acquirente.
-2. Fatturazione differita. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, un’apposita nota di consegna (o “scheda clienti”) secondo lo schema richiesto dalla gestione, ma contenente gli elementi obbligatori del DDT (di fatto può essere un DDT con numerazione indipendente).
+1. Fatturazione immediata. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, la relativa fattura consegnandone una copia all’acquirente.
+2. Fatturazione differita. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, un’apposita nota di consegna (o 'scheda clienti') secondo lo schema richiesto dalla gestione, ma contenente gli elementi obbligatori del DDT (di fatto può essere un DDT con numerazione indipendente).
 
-DOCUMENTO DI TRASPORTO E I BENI IN CONTO LAVORAZIONE, RIPARAZIONE E DEPOSITO
+Documento di trasporto e i beni in conto lavorazione, riparazione e deposito
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nel caso di consegna di beni a terzi (ovvero da parte di terzi) in conto lavorazione, deposito, comodato ovvero in dipendenza di contratti estimatori o contratti d’opera, appalto, trasporto, mandato, commissione o altra motivazione che non configura il trasferimento di proprietà, il DDT costituisce una delle prove valide per vincere la presunzione di cessione (ovvero di acquisto nel caso di ricezione merci). Per adempiere correttamente al suo scopo il DDT deve contenere la causale del trasporto e deve essere conservato da entrambe le parti.
 
-DOCUMENTO DI TRASPORTO E GLI AGENTI DI COMMERCIO: I CAMPIONARI
+Documento di trasporto e gli agenti di commercio: i campionari
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Per la consegna del campionario all’agente la ditta mandante emetterà un DDT con specifica causale per evitare la presunzione di cessione; l’agente deve conservare il documento e potrà circolare con il campionario senza emettere alcun DDT in proprio.
 
-DOCUMENTO DI TRASPORTO E GUARDIA DI FINANZA – I CONTROLLI SU STRADA
+Documento di trasporto e guardia di finanza – i controlli su strada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 I controlli dei trasporti su strada spettano esclusivamente alla Guardia di Finanza, che deve verificare la corrispondenza di quanto risultante dal DDT (o dichiarato dal conducente) con le risultanze effettive; successivamente la GdF o l’Ufficio Iva potranno verificare l’eventuale corretta fatturazione.
 
@@ -585,3 +582,4 @@ Basta una rapida occhiata all'immagine per rendersi conto che la ricevuta fiscal
 .. _Blog: http://gestionaleamica.com/Blog
 .. _Newsletter: http://eepurl.com/dYI1f 
 .. _`Test Unico IVA`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
+.. _`DPR 472/96`: http://www.fog.it/legislaz/dpr-96-0472.htm
