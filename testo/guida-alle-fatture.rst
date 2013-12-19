@@ -14,7 +14,7 @@ La fattura è un documento emesso da chi vende merce o servizi. Nel rispetto deg
 
 Soggetti obbligati all'emissione di fattura
 -------------------------------------------
-La disciplina relativa alle fattura è contenuta nel `Testo Unico ’IVA`_ (DPR 633/1972). All’art.21 viene indicato che deve essere emessa fattura dal soggetto che effettua una operazione in regime di IVA, incluse le operazioni Non Imponibili, Esenti ed in regimi speciali.
+La disciplina relativa alle fattura è contenuta nel Testo Unico IVA (`DPR 633/72`_). All’art.21 viene indicato che deve essere emessa fattura dal soggetto che effettua una operazione in regime di IVA, incluse le operazioni Non Imponibili, Esenti ed in regimi speciali.
 
 Sono previste comunque dalla normativa delle eccezioni per alcune categorie di soggetti e/o per alcune tipologie di operazioni (beni o servizi resi con particolari caratteristiche).
 
@@ -30,14 +30,7 @@ La fattura può essere emessa in forma cartacea od in forma elettronica nel gior
 
 Gli elementi della fattura
 --------------------------
-Esistono molte tipologie di Fattura. Ognuna si adatta alla tipologia richiesta
-dall’operazione, ed ognuna presenta gran parte delle caratteristiche in comune
-con le altre, più alcune peculiarità proprie. Di seguito analizzeremo le
-caratteristiche comuni a tutte le fatture poi passeremo alle specificità di
-ogni tipologia.  Una fattura deve contenere alcuni elementi obbligatori
-previsti dalla normativa; non ci sono obblighi di formato e posizionamento
-delle informazioni. Per gli esempi ci serviremo del programma `Amica
-Fatturazione <http://gestionaleamica.com/Fatturazione>`_.
+Esistono molte tipologie di Fattura. Ognuna si adatta alla tipologia richiesta dall’operazione, ed ognuna presenta gran parte delle caratteristiche in comune con le altre, più alcune peculiarità proprie. Di seguito analizzeremo le caratteristiche comuni a tutte le fatture poi passeremo alle specificità di ogni tipologia.  Una fattura deve contenere alcuni elementi obbligatori previsti dalla normativa; non ci sono obblighi di formato e posizionamento delle informazioni. Per gli esempi ci serviremo del programma `Amica Fatturazione`_.
 
 Elementi obbligatori della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -571,7 +564,7 @@ Basta una rapida occhiata per rendersi conto che la ricevuta fiscale è un docum
 
 .. _Blog: http://gestionaleamica.com/Blog
 .. _Newsletter: http://eepurl.com/dYI1f 
-.. _`Test Unico IVA`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
 .. _`DPR 472/96`: http://www.fog.it/legislaz/dpr-96-0472.htm
-.. _Enasarco: http://enasarco.it
 .. _`DPR 633/72`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
+.. _Enasarco: http://enasarco.it
+.. _`Amica 10`: http://gestionaleamica.com
