@@ -287,8 +287,7 @@ La Fattura Professionisti, o Parcella, è il documento fiscale attestante la pre
 
 Soggetti tenuti alla emissione di fatture professionisti e parcelle
 -------------------------------------------------------------------
-
-I soggetti interessati alla emissione di questa tipologia di documento sono moltissimi, tutte le figure che abitualmente si definiscono come ‘Professionisti’. In queste rientrano tutti quelli dotati di un Albo Professionale come Notai, Avvocati, Architetti, Geometri ecc. e tutti quelli che invece svolgono attività professionale senza essere iscritti ad un apposito Albo come ad esempio consulenti informatici, consulenti marketing, grafici pubblicitari ecc.... Un’altra categoria che emette questo tipo di fattura sono gli Agenti di Commercio.
+I soggetti interessati alla emissione di questa tipologia di documento sono moltissimi, tutte le figure che abitualmente si definiscono come 'Professionisti'. In queste rientrano tutti quelli dotati di un Albo Professionale come Notai, Avvocati, Architetti, Geometri ecc. e tutti quelli che invece svolgono attività professionale senza essere iscritti ad un apposito Albo come ad esempio consulenti informatici, consulenti marketing, grafici pubblicitari ecc.... Un’altra categoria che emette questo tipo di fattura sono gli Agenti di Commercio.
 
 Terminologia
 ------------
@@ -298,7 +297,6 @@ Il professionista ha obbligo di emissione della fattura non al termine della pre
 
 Caratteristiche principali
 --------------------------
-
 Vediamo le principali caratteristiche di una fattura professionisti:
 
 1. Come per tutte le fatture devono essere riportati i dati del Professionista ed i dati completi del Cliente.
@@ -313,12 +311,10 @@ Vediamo le principali caratteristiche di una fattura professionisti:
 
 Esempi pratici
 --------------
-
 Di seguito analizziamo alcuni casi che sono esemplificativi della maggior parte dei casi reali in cui viene emessa una **Fattura Professionisiti**. Nei casi analizzati sono presenti le principali casistiche anche in relazione alle casse previdenziali specifiche e/o alla gestione separata INPS nonchè all'Enasarco per gli Agenti di Commercio.
 
-L’AVVOCATO
+L’avvocato
 ^^^^^^^^^^
-
 Il primo caso preso in esame è una categoria professionale che prevede la cassa previdenziale di categoria al 2% con inclusione di quest’ultima nell’imponibile (l’avvocato, per esempio).
 Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a questo dobbiamo aggiungere il contributo cassa di previdenza pari a €20,00 (2%), per un totale imponibile di €1.020,00. Si calcola l’IVA al 21% sull’imponibile, che è pari a €214,20. A questo punto va calcolata al ritenuta di acconto del 20% sull’imponibile della prestazione (esclusa quindi la cassa previdenziale), equivalente a €200,00 (20% di €1.000,00). Come evidenziato dalla tabella sotto il calcolo del netto a pagare, pari a €1.034,20, è presto fatto:
 
@@ -336,15 +332,14 @@ Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a quest
 | **Netto a pagare**                                                   |          **€ 1.034,20**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: il <Netto a pagare> è calcolato come <imponibile prestazione> + <contributo cassa previdenziale> + <IVA> - <ritenuta di acconto>.**
+**NOTA BENE: il netto a pagare è calcolato come (imponibile prestazione + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
 
-Qui sotto vediamo la Fattura dell'Avvocato (parcella) elaborata con l’ausilio di `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_. Trattandosi di un esempio abbiamo scelto un modello di fattura/parcella molto semplice ma completo ed esemplificativo. Naturalmente è possibile personalizzare la stampa secondo le proprio esigenze e preferenze.
+Qui sotto vediamo la Fattura dell'Avvocato (parcella) elaborata con l’ausilio di `Amica Fatturazione`_. Trattandosi di un esempio abbiamo scelto un modello di fattura/parcella molto semplice ma completo ed esemplificativo. Naturalmente è possibile personalizzare la stampa secondo le proprio esigenze e preferenze.
 
 .. image:: img/FatturaProfessionisti1.png
 
-IL CONSULENTE INFORMATICO
+Il consulente informatico
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Il secondo caso preso in esame è una categoria professionale che non prevede la cassa previdenziale di categoria e deve quindi applicare la rivalsa INPS al 4%, con inclusione di quest’ultima sia nel calcolo dell’imponibile sia nel calcolo della Ritenuta di Acconto. Come esempio utilizziamo i consulenti informatici, che rientrano in questa categoria.
 Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a questo dobbiamo aggiungere la rivalsa INPS pari a €40,00 (4%), per un totale imponibile di €1.040,00. Si calcola l’IVA al 21% che è pari a €218,40. A questo punto va calcolata al ritenuta di acconto del 20% sul totale imponibile (rivalsa INPS inclusa), pari a €208,00 (20% di €1.040,00). La tabella qui sotto ci aiuta a determinare il netto a pagare, pari a €1.050,40:
 
@@ -362,16 +357,15 @@ Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a quest
 | **Netto a pagare**                                                   |          **€ 1.050,40**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: il <Netto a pagare> è calcolato come <imponibile prestazione> + <contributo cassa previdenziale> + <IVA> - <ritenuta di acconto>.**
+**NOTA BENE: il netto a pagare è calcolato come (imponibile prestazione> + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
 
-Anche in questo caso qui sotto vediamo la Fattura del Consulente Informatico (Fattura Professionisti) elaborata con l’ausilio di `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_.
+Anche in questo caso qui sotto vediamo la Fattura del Consulente Informatico (Fattura Professionisti) elaborata con l’ausilio di `Amica Fatturazione`_.
 
 .. image:: img/FatturaProfessionisti2.png
 
-L'AGENTE DI COMMERCIO
+L'agente di commercio
 ^^^^^^^^^^^^^^^^^^^^^
-
-Il terzo caso è relativo a una categoria professionale speciale, dotata di una casistica sui generis: si tratta degli Agenti di Commercio. In questo caso la Cassa Previdenziale è `Enasarco <http://enasarco.it>`_, e prevede una gestione delle aliquote completamente diversa. Inoltre anche la Ritenuta di acconto si applica solo sul 50% dell’imponibile. Vediamo ora deve essere compilata una fattura provvigioni corretta.
+Il terzo caso è relativo a una categoria professionale speciale, dotata di una casistica sui generis: si tratta degli Agenti di Commercio. In questo caso la Cassa Previdenziale è Enasarco_, e prevede una gestione delle aliquote completamente diversa. Inoltre anche la Ritenuta di acconto si applica solo sul 50% dell’imponibile. Vediamo ora come deve essere compilata una fattura provvigioni corretta.
 
 +----------------------------------------------------------------------+------------------------+ 
 | Imponibile prestazione                                               |              € 2.000,00| 
@@ -387,12 +381,14 @@ Il terzo caso è relativo a una categoria professionale speciale, dotata di una 
 | **Netto a pagare**                                                   |          **€ 2.052,50**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: il <Netto a pagare> è calcolato come <imponibile prestazione> + <IVA> - <ritenuta Enasarco> - <ritenuta di acconto>.**
+**NOTA BENE: netto a pagare è calcolato come (imponibile prestazione + IVA - ritenuta Enasarco) - ritenuta di acconto.**
 
-Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con l’ausilio come sempre di `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_.
+Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con l’ausilio come sempre di `Amica Fatturazione`_.
 
 .. image:: img/FatturaProfessionisti3.png
 
+Minimi e massimi Enasarco
+^^^^^^^^^^^^^^^^^^^^^^^^^
 Per quanto riguarda il contributo Enasarco è importante ricordare l’esistenza dei minimi e massimi. A seconda che l’Agente sia Monomandatario oppure Plurimandatario sono previsti dei minimi e massimi di contribuzione ai quali ditte mandanti e Agenti sono tenuti ad adeguarsi. Fare riferimento al  sito Enasarco per la verifica, in quanto questi valori vengono stabiliti periodicamente dall’Ente stesso. Le pagine `Contributo Minimo (minimale) <http://enasarco.it/Guida/contributo_minimo_annuo_minimale>`_ e `Contributo Massimo (massimale)  <http://enasarco.it/Guida/contributo_massimo_annuo_massimale>`_ consentono di visualizzare le tabelle con i minimi e massimi e di trovare documentazione aggiornata su come effettuare i calcoli.
 
 *****************
@@ -579,3 +575,4 @@ Basta una rapida occhiata all'immagine per rendersi conto che la ricevuta fiscal
 .. _Newsletter: http://eepurl.com/dYI1f 
 .. _`Test Unico IVA`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
 .. _`DPR 472/96`: http://www.fog.it/legislaz/dpr-96-0472.htm
+.. _Enasarco: http://enasarco.it
