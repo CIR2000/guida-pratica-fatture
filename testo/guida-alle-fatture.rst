@@ -394,16 +394,17 @@ Per quanto riguarda il contributo Enasarco è importante ricordare l’esistenza
 *****************
 Fattura Pro Forma
 *****************
-
 La fattura pro forma è un documento senza alcuna valenza fiscale, utilizzato quando si rende necessario presentare al cliente un facsimile della fattura finale senza incorrere negli obblighi fiscali e mantenendo la certezza che il documento non possa far insorgere, in caso di controlli, la presunzione di fatturazione, generando tutte le conseguenze per la mancata registrazione dello stesso.
 
-La fattura pro forma non genera obblighi ai fine della liquidazione IVA e nemmeno ai fine della determinazione dei ricavi. Si tratta di un documento in carta semplice che ‘assomiglia’ ad una fattura ma riporta in evidenza la dicitura ‘Proforma’. A volte per distinguerla ancora meglio dalla fattura ‘vera’ si preferisce non mettere il dettaglio dell’iva, la si presenta un po’ come ‘il conto da pagare’. La mancanza del dettaglio IVA rende la Fattura Proforma sicuramente non assimilabile ad una fattura vera e quindi rende qualsiasi contestazione da parte dell’amministrazione finanziaria  insostenibile. E’ buona regola fare di tutto perché la fattura proforma non sia facilmente assimilabile ad una fattura ordinaria.
+La fattura pro forma non genera obblighi ai fine della liquidazione IVA e nemmeno al fine della determinazione dei ricavi. Si tratta di un documento in carta semplice che ‘assomiglia’ ad una fattura ma riporta in evidenza la dicitura 'Proforma'. A volte per distinguerla ancora meglio dalla fattura vera e propria si preferisce non mettere il dettaglio dell’IVA, la si presenta un po’ come "il conto da pagare". La mancanza del dettaglio IVA rende la Fattura Proforma sicuramente non assimilabile ad una fattura vera e quindi rende qualsiasi contestazione da parte dell’amministrazione finanziaria  insostenibile. E’ buona regola fare di tutto perché la fattura proforma non sia facilmente assimilabile ad una fattura ordinaria.
 
 Vediamo ora un paio di casi in cui è utile emettere fatture o parcelle pro forma.
 
 Fattura pro forma per il Libero Professionista
 ----------------------------------------------
-I professionisti emettono quasi sempre fattura  pro forma, in quanto hanno l’obbligo di fatturazione non all’esecuzione della prestazione ma solo al pagamento della stessa. Grazie alla pro forma possono presentare la loro parcella al cliente senza doversi accollare gli oneri del pagamento dell’IVA e della tassazione sui ricavi fino al pagamento della stessa. Facciamo un esempio per capire meglio: supponiamo che un geometra abbia fatto un progetto di una casa per un importo di €10.000 + IVA ed abbia completato il suo lavori il 5 Dicembre e che gli accordi con il committente prevedano un pagamento a 60 giorni fine mese dalla consegna lavori. Se il geometra fatturasse il 5 Dicembre si dovrebbe accollare l’IVA da pagare in Gennaio (€2.100) e la tassazione in carico all’anno in corso. Emettendo invece fattura pro forma ed attendendo il pagamento a fine febbraio dell’anno successivo ottiene due vantaggi:
+I professionisti emettono quasi sempre fattura  pro forma, in quanto hanno l’obbligo di fatturazione non all’esecuzione della prestazione ma solo al pagamento della stessa. Grazie alla pro forma possono presentare la loro parcella al cliente senza doversi accollare gli oneri del pagamento dell’IVA e della tassazione sui ricavi fino al pagamento della stessa. 
+
+Facciamo un esempio per capire meglio: supponiamo che un geometra abbia fatto un progetto di una casa per un importo di €10.000 + IVA ed abbia completato il suo lavoro il 5 Dicembre e che gli accordi con il committente prevedano un pagamento a 60 giorni fine mese dalla consegna lavori. Se il geometra fatturasse il 5 Dicembre si dovrebbe accollare l’IVA da pagare in Gennaio (€2.100) e la tassazione in carico all’anno in corso. Emettendo invece fattura pro forma ed attendendo il pagamento a fine febbraio dell’anno successivo ottiene due vantaggi:
 
 1. l’IVA verrà versata solo a Marzo dell’anno successivo
 2. La tassazione sul reddito andrà anch’essa in carico all’anno successivo.
@@ -420,7 +421,7 @@ Ci sono ovviamente altri casi per l’uso della fattura pro forma, qui abbiamo e
 
 Compilazione della fattura pro forma
 ------------------------------------
-Tecnicamente la fattura pro forma è molto simile alla fattura che poi si andrà ad emettere al cliente. Di seguito ne vediamo un esempio realizzato col programma gestionale Amica 10.  Da notare nel riquadro tipo documento la dicitura “fattura pro forma”; assieme alla numerazione che è indipendente da quella delle fatture ordinarie è la vera differenza con la successiva fattura di vendita).
+Tecnicamente la fattura pro forma è molto simile alla fattura che poi si andrà ad emettere al cliente. Di seguito ne vediamo un esempio realizzato col programma gestionale `Amica 10`_.  Da notare nel riquadro tipo documento la dicitura “fattura pro forma”; assieme alla numerazione che è indipendente da quella delle fatture ordinarie è la vera differenza con la successiva fattura di vendita).
 
 .. image:: img/FatturaProforma1.png
 
