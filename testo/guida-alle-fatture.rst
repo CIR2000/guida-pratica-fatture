@@ -432,11 +432,10 @@ Al momento del pagamento da parte del cliente, o comunque al momento dell’emis
 *******************************************************
 Le Note di Variazione: Nota di Credito e Nota di Debito
 *******************************************************
+La Nota di Variazione è un documento che serve a correggere in aumento o in diminuzione una fattura emessa con valori errati. Questo tipo di documento, disciplinato dall’articolo 26 del `DPR 633/72`_, deve essere emesso quando, dopo l’emissione della fattura e/o la sua registrazione, si verificano delle circostanze tali da determinare una variazione (in aumento o in diminuzione) di quanto indicato. Ecco alcuni esempi:
 
-La Nota di Variazione è un documento che serve a ‘correggere’ in aumento o in diminuzione una fattura emessa con valori errati. Questo tipo di documento, disciplinato dall’articolo 26 del D.P.R. 633/1972, deve essere emesso quando, dopo l’emissione della fattura e/o la sua registrazione, si verificano delle circostanze tali da determinare una variazione (in aumento o in diminuzione) di quanto indicato. Ecco alcuni esempi:
-
-- quando viene riscontrato un errore nella aliquota Iva applicata, o nella base imponibile oppure nell’imposta
-- quando viene riconosciuto al cliente uno sconto o un abbuono non riportato in fattura
+- quando viene riscontrato un errore nella aliquota IVA applicata, o nella base imponibile oppure nell’imposta;
+- quando viene riconosciuto al cliente uno sconto o un abbuono non riportato in fattura;
 - quando l’operazione, per varie cause, viene resa nulla come ad esempio con la rescissione o l’annullamento del contratto di vendita.
 
 La Nota di Variazione ha gli stessi requisiti della fattura e deve quindi essere regolarmente numerata e datata. La nota di variazione deve essere emessa, con riferimento all’originaria fattura, per la differenza dell’importo risultante errato o concesso a titolo di sconto, ecc.
@@ -445,15 +444,15 @@ Esistono due tipi di note di variazione che prendono rispettivamente il nome di 
 
 Nota di Debito – Variazione in aumento
 --------------------------------------
-Nel caso in cui, dopo l’emissione della fattura o la sua registrazione, aumenta l’imponibile ai fini Iva dell’operazione e la relativa imposta per qualsiasi motivo, incluso la correzione di errori o inesattezze, è necessario, per mantenere la contabilità allineata con la situazione reale dell’operazione o contratto, emettere questo documento che certifichi la variazione intervenuta. In questo modo saranno osservati correttamente gli adempimenti di fatturazione, registrazione, liquidazione e versamento delle imposte.
+Nel caso in cui, dopo l’emissione della fattura o la sua registrazione, aumenta l’imponibile ai fini IVA dell’operazione e la relativa imposta per qualsiasi motivo, incluso la correzione di errori o inesattezze, è necessario, per mantenere la contabilità allineata con la situazione reale dell’operazione o contratto, emettere questo documento che certifichi la variazione intervenuta. In questo modo saranno osservati correttamente gli adempimenti di fatturazione, registrazione, liquidazione e versamento delle imposte.
 
 Alcuni esempi:
 
-- L’importo fatturato non è comprensivo di tutte le operazioni eseguite (merce in eccesso, prestazioni fatturate ad importi inferiori a quanto previsto da accordi, merci di natura e qualità diversa ecc…)
+- L’importo fatturato non è comprensivo di tutte le operazioni eseguite (merce in eccesso, prestazioni fatturate ad importi inferiori a quanto previsto da accordi, merci di natura e qualità diversa ecc.)
 - Uno sconto applicato per una particolare modalità di pagamento, poi variata in altra che ne prevede uno minore o nessuno sconto.
 - Uno sconto applicato direttamente in fattura al Cliente per il rispetto di determinate condizioni contrattuali poi non rispettate.
 
-Ecco una Nota di Debito fatta con il programma `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_:
+Ecco una Nota di Debito fatta con il programma `Amica Fatturazione`_:
 
 .. image:: img/NoteVariazione1.png
 
@@ -466,13 +465,13 @@ Per la nota di accredito non sono previsti specifici requisiti, pertanto essa as
 Alcuni esempi:
 
 - dichiarazione di nullità, annullamento, revoca, risoluzione, rescissione del contratto;
-- mancato ritiro della merce da parte cliente (ad esempio merce inviata con Corriere e respinta)
-- successiva applicazione di sconti o abbuoni previsti nel contratto originario
-- correzione per mancati sconti concordati e non applicati in fase di fatturazione
+- mancato ritiro della merce da parte cliente (ad esempio merce inviata con Corriere e respinta);
+- successiva applicazione di sconti o abbuoni previsti nel contratto originario;
+- correzione per mancati sconti concordati e non applicati in fase di fatturazione.
 
-Se le variazioni in diminuzione derivano da successivi accordi tra le parti o da rettifica di errori o inesattezze nella fatture, tali variazioni devono essere eseguite entro un anno dall’effettuazione dell’operazione, quindi dall’emissione dalla fattura per poter anche recuperare la parte di imposta (IVA) fatturata erroneamente. Se invece la Nota di Credito è successiva ad un anno dall'emissione della fattura per l'operazione originale, il recupero dell'imposta non è possibile e dovrà essere utilizzata la causale di esclusione IVA esenzione prevista dalla normativa indicandola nel documento come Escluso iva  art.26 dpr 633/72. Anche per questa condizione però esistono alcune eccezioni: se, ad esempio, la nota di credito deve essere effettuata per abbuoni o sconti previsti contrattualmente anche se è trascorso l'anno la nota di credito si deve emettere con IVA.
+Se le variazioni in diminuzione derivano da successivi accordi tra le parti o da rettifica di errori o inesattezze nella fatture, tali variazioni devono essere eseguite entro un anno dall’effettuazione dell’operazione, quindi dall’emissione dalla fattura per poter anche recuperare la parte di imposta (IVA) fatturata erroneamente. Se invece la Nota di Credito è successiva ad un anno dall'emissione della fattura per l'operazione originale, il recupero dell'imposta non è possibile e dovrà essere utilizzata la causale di esclusione IVA esenzione prevista dalla normativa indicandola nel documento come "Escluso IVA art.26 dpr 633/72". Anche per questa condizione però esistono alcune eccezioni: se, ad esempio, la nota di credito deve essere effettuata per abbuoni o sconti previsti contrattualmente anche se è trascorso l'anno la nota di credito si deve emettere con IVA.
 
-Vediamo un esempio di Nota di Credito realizzata con il programma `Amica Fatturazione <http://gestionaleamica.com/Fatturazione>`_:
+Vediamo un esempio di Nota di Credito realizzata con `Amica Fatturazione`_:
 
 .. image:: img/NoteVariazione2.png
 
@@ -577,3 +576,4 @@ Basta una rapida occhiata all'immagine per rendersi conto che la ricevuta fiscal
 .. _`Test Unico IVA`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
 .. _`DPR 472/96`: http://www.fog.it/legislaz/dpr-96-0472.htm
 .. _Enasarco: http://enasarco.it
+.. _`DPR 633/72`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
