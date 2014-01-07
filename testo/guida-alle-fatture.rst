@@ -124,7 +124,11 @@ Cos’è il Documento di Trasporto o DDT
 -------------------------------------
 Il `DPR 472/96`_ ha introdotto il Documento di Trasporto (DDT) come sostituzione della precedente Bolla di Accompagnamento. Il DDT certifica un trasferimento di merci dal cedente (venditore) al cessionario (acquirente). La consegna avviene presso la sede indicata dal cessionario quale luogo di consegna. Il trasporto può essere effettuato sia dal mittente che dal destinatario, oppure utilizzando un trasportatore che si assume l’incarico della consegna.
 
-Il Documento di Trasporto deve essere emesso prima della consegna diretta o dell’affidamento dei beni al trasportatore, e deve contenere l’indicazione alcuni elementi obbligatori. In alternativa può essere inviato al destinatario (via fax, via email o altro) entro il giorno stesso dell'invio della merce. Tuttavia consigliamo di accompagnare sempre le merci con il Documento di Trasporto.
+Il Documento di Trasporto deve essere emesso prima della consegna diretta o dell’affidamento dei beni al trasportatore, e deve contenere l’indicazione alcuni elementi obbligatori. In alternativa può essere inviato al destinatario (via fax, via email o altro) entro il giorno stesso dell'invio della merce. 
+
+.. admonition:: Consiglio
+
+    Consigliamo di accompagnare sempre le merci con il Documento di Trasporto.
 
 Dati obbligatori nel documento di trasporto
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -187,7 +191,12 @@ Riepilogando:
 
 Emissione e conservazione del Documento di Trasporto
 ----------------------------------------------------
-Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure  essere spedito (anche via fax o altro mezzo) entro il giorno stesso dell’inizio del trasporto al cessionario. I DDT relativi ai trasporti con fatturazione differita devono essere conservati fino alla scadenza dei termini per l’accertamento.  Si consiglia di conservarli assieme alla fattura in cui le merci consegnate sono state fatturate.
+Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure  essere spedito (anche via fax o altro mezzo) entro il giorno stesso dell’inizio del trasporto al cessionario. I DDT relativi ai trasporti con fatturazione differita devono essere conservati fino alla scadenza dei termini per l’accertamento.  
+
+.. admonition:: Consiglio
+
+    Si consiglia di conservarli assieme alla fattura in cui le merci consegnate
+    sono state fatturate.
 
 Approfondimento
 ---------------
@@ -218,7 +227,11 @@ Innanzitutto il comportamento da tenere cambia se la prestazione viene resa in u
 
 2. Nel caso invece la prestazione venga resa in un locale aperto al pubblico o nell’ abitazione di clienti privati non è obbligatoria l’emissione della fattura se non a richiesta del cliente e non oltre il momento di effettuazione della prestazione. In questo caso deve essere emessa la Ricevuta Fiscale al momento del suo completamento (fine lavoro).
 
-Al fine di vincere la presunzione di cessione all’art. 53 del D.P.R. 633/72 consiglio sempre l’emissione di un DDT quando si prevede che la prestazione venga terminata in una data diversa dalla consegna dei beni.
+.. admonition:: Consiglio
+
+    Al fine di vincere la presunzione di cessione all’art. 53 del D.P.R. 633/72
+    consiglio sempre l’emissione di un DDT quando si prevede che la prestazione
+    venga terminata in una data diversa dalla consegna dei beni.
 
 Documento di trasporto e tentata vendita
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
