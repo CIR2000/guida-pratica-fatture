@@ -1,44 +1,44 @@
-Ôªø============
+============
 Introduzione
 ============
-Questa Guida Alle Fatture √® dedicata ai principianti che vogliono saperne di pi√π sulla Fattura in tutte le sue forme: cosa √®, quali tipologie esistono, come √® composta e, naturalmente, come si compila. Nel corso della guida passeremo in rassegna tutti i documenti di fatturazione esistenti: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Partiremo dalle caratteristiche comuni a tutti questi documenti per poi scendere nel dettaglio, esaminando le peculitarit√† di ognuna di esse.
+Questa Guida Alle Fatture Ë dedicata ai principianti che vogliono saperne di pi˘ sulla Fattura in tutte le sue forme: cosa Ë, quali tipologie esistono, come Ë composta e, naturalmente, come si compila. Nel corso della guida passeremo in rassegna tutti i documenti di fatturazione esistenti: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Partiremo dalle caratteristiche comuni a tutti questi documenti per poi scendere nel dettaglio, esaminando le peculitarit‡ di ognuna di esse.
 
-Non mancheranno argomenti pi√π avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di iscrivervi alla Newsletter_, cos√¨ da non perdervi i futuri articoli sull'argomento, pubblicati anche sul nostro seguitissimo Blog_.
+Non mancheranno argomenti pi˘ avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di iscrivervi alla Newsletter_, cosÏ da non perdervi i futuri articoli sull'argomento, pubblicati anche sul nostro seguitissimo Blog_.
 
 ********************
 Gli elementi di base
 ********************
-Cos'√® la Fattura
+Cos'Ë la Fattura
 ----------------
-La fattura √® un documento emesso da chi vende merce o servizi. Nel rispetto degli accordi commerciali col cliente d√† il diritto al venditore di riscuotere il prezzo indicato. La fattura deve avere alcune caratteristiche essenziali previste dalla legge che vedremo in seguito.
+La fattura Ë un documento emesso da chi vende merce o servizi. Nel rispetto degli accordi commerciali col cliente d‡ il diritto al venditore di riscuotere il prezzo indicato. La fattura deve avere alcune caratteristiche essenziali previste dalla legge che vedremo in seguito.
 
 Soggetti obbligati all'emissione di fattura
 -------------------------------------------
-La disciplina relativa alle fattura √® contenuta nel Testo Unico IVA (`DPR 633/72`_). All‚Äôart.21 viene indicato che deve essere emessa fattura dal soggetto che effettua una operazione in regime di IVA, incluse le operazioni Non Imponibili, Esenti ed in regimi speciali.
+La disciplina relativa alle fattura Ë contenuta nel Testo Unico IVA (`DPR 633/72`_). Allíart.21 viene indicato che deve essere emessa fattura dal soggetto che effettua una operazione in regime di IVA, incluse le operazioni Non Imponibili, Esenti ed in regimi speciali.
 
 Sono previste comunque dalla normativa delle eccezioni per alcune categorie di soggetti e/o per alcune tipologie di operazioni (beni o servizi resi con particolari caratteristiche).
 
-Le categorie dispensate dall‚Äôemissione di fattura sono:
+Le categorie dispensate dallíemissione di fattura sono:
 
 - le agenzie di viaggio in regime speciale;
-- gli agricoltori ed i pescatori che sono in regime di esonero per i quali l‚Äôobbligo deve essere assolto da chi acquista (cessionario) attraverso l‚Äôistituto dell‚Äôautofattura;
-- coloro che sono identificati e sottoposti al regime dei 'contribuenti minimi in franchigia' in vigore dall‚Äô1.1.2007;
-- le operazioni che rientrano in regimi particolari detti ‚Äòmonofase‚Äô cio√® con IVA assolta alla fonte come nel caso dell‚Äô editoria, generi di monopolio, ecc.;
-- i negozianti con vendita al dettaglio che hanno per√≤ altri obblighi come l‚Äôemissione dello scontrino fiscale, della ricevuta fiscale e/o la registrazione e trasmissione (anche telematica) dei corrispettivi;
+- gli agricoltori ed i pescatori che sono in regime di esonero per i quali líobbligo deve essere assolto da chi acquista (cessionario) attraverso líistituto dellíautofattura;
+- coloro che sono identificati e sottoposti al regime dei 'contribuenti minimi in franchigia' in vigore dallí1.1.2007;
+- le operazioni che rientrano in regimi particolari detti ëmonofaseí cioË con IVA assolta alla fonte come nel caso dellí editoria, generi di monopolio, ecc.;
+- i negozianti con vendita al dettaglio che hanno perÚ altri obblighi come líemissione dello scontrino fiscale, della ricevuta fiscale e/o la registrazione e trasmissione (anche telematica) dei corrispettivi;
 
-La fattura pu√≤ essere emessa in forma cartacea od in forma elettronica nel giorno di effettuazione dell‚Äôoperazione.  E‚Äô consentita anche l‚Äôemissione di un‚Äôunica fattura per tutte le prestazioni o cessioni di beni eseguite nello stesso giorno per lo stesso cliente.
+La fattura puÚ essere emessa in forma cartacea od in forma elettronica nel giorno di effettuazione dellíoperazione.  Eí consentita anche líemissione di uníunica fattura per tutte le prestazioni o cessioni di beni eseguite nello stesso giorno per lo stesso cliente.
 
 Gli elementi della fattura
 --------------------------
-Esistono molte tipologie di Fattura. Ognuna si adatta alla tipologia richiesta dall‚Äôoperazione, ed ognuna presenta gran parte delle caratteristiche in comune con le altre, pi√π alcune peculiarit√† proprie. Di seguito analizzeremo le caratteristiche comuni a tutte le fatture poi passeremo alle specificit√† di ogni tipologia.  Una fattura deve contenere alcuni elementi obbligatori previsti dalla normativa; non ci sono obblighi di formato e posizionamento delle informazioni. Per gli esempi ci serviremo del programma `Amica Fatturazione`_.
+Esistono molte tipologie di Fattura. Ognuna si adatta alla tipologia richiesta dallíoperazione, ed ognuna presenta gran parte delle caratteristiche in comune con le altre, pi˘ alcune peculiarit‡ proprie. Di seguito analizzeremo le caratteristiche comuni a tutte le fatture poi passeremo alle specificit‡ di ogni tipologia.  Una fattura deve contenere alcuni elementi obbligatori previsti dalla normativa; non ci sono obblighi di formato e posizionamento delle informazioni. Per gli esempi ci serviremo del programma `Amica Fatturazione`_.
 
 Elementi obbligatori della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Generalit√† del venditore (cedente) complete di Partita IVA
+1. Generalit‡ del venditore (cedente) complete di Partita IVA
 
 .. image:: img/ElementiFattura1.png
 
-2. Generalit√† del cliente (cessionario) complete di Partita IVA
+2. Generalit‡ del cliente (cessionario) complete di Partita IVA
 
 .. image:: img/ElementiFattura2.png
 
@@ -50,19 +50,19 @@ Elementi obbligatori della fattura
 
 .. image:: img/ElementiFattura4.png
 
-5. Quantit√† erogate dei beni o dei servizi
+5. Quantit‡ erogate dei beni o dei servizi
 
 .. image:: img/ElementiFattura5.png
 
 6. Prezzo unitario
 7. Eventuali sconti applicati
-8. Importo complessivo per le quantit√† cedute per ogni tipologia di bene o servizio
+8. Importo complessivo per le quantit‡ cedute per ogni tipologia di bene o servizio
 9. Aliquote IVA per ogni tipologia di bene o servizio
 
 .. image:: img/ElementiFattura6.png
 
 10. Eventuali spese accessorie
-11. L‚Äôannotazione di Imponibile e Imposta per ogni aliquota IVA applicata
+11. Líannotazione di Imponibile e Imposta per ogni aliquota IVA applicata
 12. La descrizione con articolo di legge per ogni eventuale esenzione IVA
 13. I totali per Imponibile, Imposta ed Importi Esenti
 
@@ -72,7 +72,7 @@ Elementi facoltativi della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Sulla fattura possono essere annotati anche vari elementi contrattuali (facoltativi) come ad esempio:
 
-1. Modalit√† di pagamento
+1. Modalit‡ di pagamento
 2. Riferimenti a un eventuale ordine
 3. Banca di appoggio per il pagamento
 4. Comunicazioni di vario tipo per il cliente (Annotazioni)
@@ -83,48 +83,48 @@ Ed ecco il risultato finale, una fattura completa pronta per essere consegnata a
 
 Determinazione della base imponibile
 ------------------------------------
-Molto importante al fine di realizzare una fattura corretta dal punto di vista fiscale √® la determinazione della cosiddetta Base Imponibile: si tratta del valore a cui vengono applicate le imposte (calcolo dell‚ÄôIVA) nelle varie aliquote.
+Molto importante al fine di realizzare una fattura corretta dal punto di vista fiscale Ë la determinazione della cosiddetta Base Imponibile: si tratta del valore a cui vengono applicate le imposte (calcolo dellíIVA) nelle varie aliquote.
 Riporto un esempio di base per capire meglio come si determina la base imponibile:
 
 +----------------------------------------------------------------------+------------------------+ 
 | Descrizione                                                          | Importo                | 
 +======================================================================+========================+ 
-| Personal Computer                                                    |                ‚Ç¨ 900,00| 
+| Personal Computer                                                    |                Ä 900,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Software                                                             |                ‚Ç¨ 200,00| 
+| Software                                                             |                Ä 200,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Installazione                                                        |                ‚Ç¨ 100,00| 
+| Installazione                                                        |                Ä 100,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Sconto complessivo 10% (su ‚Ç¨ 1200,00)                                |              \-‚Ç¨ 120,00| 
+| Sconto complessivo 10% (su Ä 1200,00)                                |              \-Ä 120,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| **Base Imponibile**                                                  |          **‚Ç¨ 1.080,00**| 
+| **Base Imponibile**                                                  |          **Ä 1.080,00**| 
 +----------------------------------------------------------------------+------------------------+ 
 
-Di fatto la base imponibile √® il netto sul quale applicare le imposte detratti gli sconti percentuali, gli sconti in valore assoluto e gli eventuali acconti gi√† pagati (e per quali √® gi√† stata emessa una fattura con relativa imposta).
+Di fatto la base imponibile Ë il netto sul quale applicare le imposte detratti gli sconti percentuali, gli sconti in valore assoluto e gli eventuali acconti gi‡ pagati (e per quali Ë gi‡ stata emessa una fattura con relativa imposta).
 
-Con queste informazioni di base si pu√≤ realizzare una fattura corretta dal punto di vista formale e fiscale.
+Con queste informazioni di base si puÚ realizzare una fattura corretta dal punto di vista formale e fiscale.
 
 Conservazione delle Fatture
 ---------------------------
-La conservazione dei documenti emessi deve essere fatta per 5 anni ai fini tributari; vanno invece conservate 10 anni ai fini civilistici le scritture relative sul giornale di contabilit√†. Per questioni di prudenza viene di norma consigliata la conservazione per 10 anni anche dei documenti.
-I termini di conservazione possono essere prorogati da apposite leggi del parlamento oppure in caso di un accertamento da parte dell‚Äôamministrazione finanziaria notificato ma non definito oppure in caso di mancata presentazione del modello Unico ed in vari altri casi particolari.
+La conservazione dei documenti emessi deve essere fatta per 5 anni ai fini tributari; vanno invece conservate 10 anni ai fini civilistici le scritture relative sul giornale di contabilit‡. Per questioni di prudenza viene di norma consigliata la conservazione per 10 anni anche dei documenti.
+I termini di conservazione possono essere prorogati da apposite leggi del parlamento oppure in caso di un accertamento da parte dellíamministrazione finanziaria notificato ma non definito oppure in caso di mancata presentazione del modello Unico ed in vari altri casi particolari.
 
-In caso di utilizzo di sistemi per l‚Äôacquisizione ottica, fotografica o altra tecnologia adeguata √® possibile non conservare i documenti emessi in originale (cartaceo) a patto di essere in grado di riprodurre a semplice richiesta su carta in qualsiasi istante il documento originale. La normativa sulla conservazione elettronica dei documenti √® comunque in continua evoluzione.
+In caso di utilizzo di sistemi per líacquisizione ottica, fotografica o altra tecnologia adeguata Ë possibile non conservare i documenti emessi in originale (cartaceo) a patto di essere in grado di riprodurre a semplice richiesta su carta in qualsiasi istante il documento originale. La normativa sulla conservazione elettronica dei documenti Ë comunque in continua evoluzione.
 
 Riepilogo
 ---------
-Abbiamo visto cosa √® una fattura, chi √® tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
+Abbiamo visto cosa Ë una fattura, chi Ë tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
 
 *******************************
 Il Documento di Trasporto (DDT)
 *******************************
-In questo capitolo ci occupiamo del Documento di Trasporto (DDT), chiamato anche Bolla di Trasporto. Nella prima parte vediamo cos‚Äô√® il DDT, come va compilato e quali sono gli obblighi civilistici e fiscali che comporta. La seconda parte √® invece dedicata agli approfondimenti.
+In questo capitolo ci occupiamo del Documento di Trasporto (DDT), chiamato anche Bolla di Trasporto. Nella prima parte vediamo cosíË il DDT, come va compilato e quali sono gli obblighi civilistici e fiscali che comporta. La seconda parte Ë invece dedicata agli approfondimenti.
 
-Cos‚Äô√® il Documento di Trasporto o DDT
+CosíË il Documento di Trasporto o DDT
 -------------------------------------
-Il `DPR 472/96`_ ha introdotto il Documento di Trasporto (DDT) come sostituzione della precedente Bolla di Accompagnamento. Il DDT certifica un trasferimento di merci dal cedente (venditore) al cessionario (acquirente). La consegna avviene presso la sede indicata dal cessionario quale luogo di consegna. Il trasporto pu√≤ essere effettuato sia dal mittente che dal destinatario, oppure utilizzando un trasportatore che si assume l‚Äôincarico della consegna.
+Il `DPR 472/96`_ ha introdotto il Documento di Trasporto (DDT) come sostituzione della precedente Bolla di Accompagnamento. Il DDT certifica un trasferimento di merci dal cedente (venditore) al cessionario (acquirente). La consegna avviene presso la sede indicata dal cessionario quale luogo di consegna. Il trasporto puÚ essere effettuato sia dal mittente che dal destinatario, oppure utilizzando un trasportatore che si assume líincarico della consegna.
 
-Il Documento di Trasporto deve essere emesso prima della consegna diretta o dell‚Äôaffidamento dei beni al trasportatore, e deve contenere l‚Äôindicazione alcuni elementi obbligatori. In alternativa pu√≤ essere inviato al destinatario (via fax, via email o altro) entro il giorno stesso dell'invio della merce. 
+Il Documento di Trasporto deve essere emesso prima della consegna diretta o dellíaffidamento dei beni al trasportatore, e deve contenere líindicazione alcuni elementi obbligatori. In alternativa puÚ essere inviato al destinatario (via fax, via email o altro) entro il giorno stesso dell'invio della merce. 
 
 .. admonition:: Consiglio
 
@@ -132,13 +132,13 @@ Il Documento di Trasporto deve essere emesso prima della consegna diretta o dell
 
 Dati obbligatori nel documento di trasporto
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Segue l‚Äôelenco dei dati obbligatori affinch√© il Documento di Trasporto sia valido fiscalmente. Come al solito per gli esempi ci serviremo di `Amica Fatturazione`_.
+Segue líelenco dei dati obbligatori affinchÈ il Documento di Trasporto sia valido fiscalmente. Come al solito per gli esempi ci serviremo di `Amica Fatturazione`_.
 
-1. Generalit√† complete di Partita IVA del venditore (cedente)
+1. Generalit‡ complete di Partita IVA del venditore (cedente)
 
 .. image:: img/ElementiDDT1.png
 
-2. Generalit√† complete di Partita IVA del cliente (cessionario)
+2. Generalit‡ complete di Partita IVA del cliente (cessionario)
 
 .. image:: img/ElementiDDT2.png
 
@@ -150,7 +150,7 @@ Segue l‚Äôelenco dei dati obbligatori affinch√© il Documento di Trasporto sia va
 
 .. image:: img/ElementiDDT4.png
 
-5. Quantit√† dei beni o servizi
+5. Quantit‡ dei beni o servizi
 
 .. image:: img/ElementiDDT5.png
 
@@ -158,40 +158,88 @@ Segue l‚Äôelenco dei dati obbligatori affinch√© il Documento di Trasporto sia va
 
 .. image:: img/ElementiDDT6.png
 
-Nel caso del vettore vanno indicati i suoi riferimenti identificativi. Se il trasporto avviene con il passaggio delle merci fra diversi Vettori √® sufficiente indicare sul DDT le generalit√† dei primo incaricato. Per alcune merci particolari √® necessario individuare anche i dati dettagliati del trasportatore come persona fisica con anche il numero di patente, come ad esempio nel caso di trasporto di carburanti, liquidi speciali, altamente infiammabili  ed altro.
+Nel caso del vettore vanno indicati i suoi riferimenti identificativi. Se il trasporto avviene con il passaggio delle merci fra diversi Vettori Ë sufficiente indicare sul DDT le generalit‡ dei primo incaricato. Per alcune merci particolari Ë necessario individuare anche i dati dettagliati del trasportatore come persona fisica con anche il numero di patente, come ad esempio nel caso di trasporto di carburanti, liquidi speciali, altamente infiammabili  ed altro.
 
 7. Il numero dei colli ed il loro peso (facoltativi ma consigliati soprattutto con trasporto a mezzo Vettore)
 
 .. image:: img/ElementiDDT7.png
 
-8. La data in cui le merci lasciano la sede del Cedente (pu√≤ essere la data del documento oppure una data diversa)
+8. La data in cui le merci lasciano la sede del Cedente (puÚ essere la data del documento oppure una data diversa)
 
 Nell'immagine vediamo un DDT completo:
 
 .. image:: img/ElementiDDT8.png
 
-In questo caso si √® scelto di esporre gi√† i prezzi, i totali del documento e altre informazioni non obbligatorie come la banca di appoggio. Indicare i prezzi  pu√≤ essere utile, sia come promemoria per il cessionario che per velocizzare la successiva emissione della fattura di vendita (in `Amica Fatturazione`_ l‚Äôoperazione diventa facile e veloce e pu√≤ anche essere automatizzata), ma non √® obbligatorio. Anzi, in molte situazione pu√≤ essere utile o necessario non esporli come ad esempio i casi in cui il DDT venga maneggiato da persone che non devono conoscere i prezzi praticati.
+In questo caso si Ë scelto di esporre gi‡ i prezzi, i totali del documento e altre informazioni non obbligatorie come la banca di appoggio. Indicare i prezzi  puÚ essere utile, sia come promemoria per il cessionario che per velocizzare la successiva emissione della fattura di vendita (in `Amica Fatturazione`_ líoperazione diventa facile e veloce e puÚ anche essere automatizzata), ma non Ë obbligatorio. Anzi, in molte situazione puÚ essere utile o necessario non esporli come ad esempio i casi in cui il DDT venga maneggiato da persone che non devono conoscere i prezzi praticati.
 
 Aspetti civilistici
 ^^^^^^^^^^^^^^^^^^^
-Ritengo importante ricordare che i documenti di trasporto non rispondono solo all‚Äôadempimento della normativa fiscale ma ricoprono anche necessit√† di carattere civilistico come ad esempio la tutela e la garanzia per Cedente e Cessionario dell‚Äôavvenuta consegna delle merci nonch√© per una corretta gestione amministrativa. √à quindi da valutare caso per caso l‚Äôopportunit√† di certificare con DDT anche operazioni che sarebbero esenti per la legislazione fiscale, anche allo scopo di ottenere dalla controparte una ricevuta dell‚Äôeffettiva consegna dei beni.
+Ritengo importante ricordare che i documenti di trasporto non rispondono solo allíadempimento della normativa fiscale ma ricoprono anche necessit‡ di carattere civilistico come ad esempio la tutela e la garanzia per Cedente e Cessionario dellíavvenuta consegna delle merci nonchÈ per una corretta gestione amministrativa. » quindi da valutare caso per caso líopportunit‡ di certificare con DDT anche operazioni che sarebbero esenti per la legislazione fiscale, anche allo scopo di ottenere dalla controparte una ricevuta dellíeffettiva consegna dei beni.
 
-Dopo la soppressione della Bolla di Accompagnamento, l‚Äôintroduzione del Documento di Trasporto permette alle imprese di continuare ad emettere la fattura differita (di cui parleremo in seguito), che senza documento di trasporto non avrebbe pi√π avuto senso mancando il giustificativo di consegna.
+Dopo la soppressione della Bolla di Accompagnamento, líintroduzione del Documento di Trasporto permette alle imprese di continuare ad emettere la fattura differita (di cui parleremo in seguito), che senza documento di trasporto non avrebbe pi˘ avuto senso mancando il giustificativo di consegna.
 
 Trasporto di merci non destinate alla vendita
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Nel caso in cui si effettuino trasporti di merci non destinate alla vendita (conto lavorazione, riparazione, comodato d‚Äôuso, ecc.) √® necessario un documento di trasporto con apposita causale che dimostri, ad un eventuale contestazione dell‚Äôamministrazione, che non si tratta di una vendita ‚Äòsimulata‚Äô ma di una movimentazione di merce legata ad altri fattori e che la merce in oggetto rimane di propriet√† del mittente del trasporto. Diversamente l‚Äôamministrazione, sulla base dell‚Äô art. 53 del decreto IVA, pu√≤ applicare la presunzione di cessione (o acquisto nel caso di merci in ingresso) ed ipotizzare una cessione senza fattura con le relative conseguenze sanzionatorie.
+Nel caso in cui si effettuino trasporti di merci non destinate alla vendita (conto lavorazione, riparazione, comodato díuso, ecc.) Ë necessario un documento di trasporto con apposita causale che dimostri, ad un eventuale contestazione dellíamministrazione, che non si tratta di una vendita ësimulataí ma di una movimentazione di merce legata ad altri fattori e che la merce in oggetto rimane di propriet‡ del mittente del trasporto. Diversamente líamministrazione, sulla base dellí art. 53 del decreto IVA, puÚ applicare la presunzione di cessione (o acquisto nel caso di merci in ingresso) ed ipotizzare una cessione senza fattura con le relative conseguenze sanzionatorie.
+
+Tabella delle principali causali del DDT
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pur non potendo essere esaustiva, ecco una tabella con le principali causali di trasporto che vengono utilizzate nei DDT e i loro principali campi di applicazione. Potr‡ essere un'utile strumento per la compilazione corretta delle causali e degli eventuali adempimenti connessi.
+
++-------------------------+----------------------------------------------------------------------------------------------------+ 
+| Causale DDT             | Descrizione                                                                                        |
++=========================+====================================================================================================+
+| Vendita                 | utilizzata per trasporto di merce ai fini della cessione ad un cliente. Per i DDT con questa       |
+|                         | causale deve essere emessa fattura entro il 15 del mese successivo alla data di effettuazione del  |
+|                         | trasporto.                                                                                         |
++-------------------------+----------------------------------------------------------------------------------------------------+ 
+| Conto visione           | in questo caso i beni vengono inviati al cliente per essere visionati e poi essere restituiti;     |
+|                         | nel caso non vengano restituiti Ë necessario emettere fattura, che comunque va emessa nel termine  |
+|                         | di un anno dallíemissione del DDT.                                                                 |
++-------------------------+----------------------------------------------------------------------------------------------------+
+| Conto deposito          | i beni sono inviati presso altra destinazione (magazzino, negozio eccÖ) al fine di essere tenuti   |
+|                         | in deposito per successive disponibilit‡.                                                          |
++-------------------------+----------------------------------------------------------------------------------------------------+ 
+| Conto vendita           | i beni sono inviati ad un cliente senza cessione immediata; il cliente tenter‡ di vendere questi   |
+|                         | prodotti i quali verranno fatturati solo dopo la loro effettiva vendita. Entro un anno i prodotti  |
+|                         | dovranno essere o resi o interamente fatturati.                                                    |
++-------------------------+----------------------------------------------------------------------------------------------------+
+| Tentata vendita         | la caratteristica di questa particolare forma commerciale Ë di effettuare la vendita direttamente  |
+|                         | presso la sede del cliente con contestuale consegna dei beni. A tal fine, il venditore carica sul  |
+|                         | proprio mezzo un determinato quantitativo e variet‡ di beni e poi inizia il giro dei clienti cui   |
+|                         | consegna immediatamente la merce che riesce a vendere.                                             |
++-------------------------+----------------------------------------------------------------------------------------------------+ 
+| Prestito díuso          | con il prestito i beni vengono inviati al fornitore per poter essere utilizzati durante le         |
+|                         | lavorazioni; in questo caso la consegna non Ë seguita da fattura.                                  |
++-------------------------+----------------------------------------------------------------------------------------------------+
+| Conto lavorazione       | la merce viene inviata al fornitore per essere lavorata, rimanendo di propriet‡ dell'azienda; al   |
+|                         | termine della lavorazione viene riconsegnata la merce lavorata o semi-lavorata oppure viene        |
+|                         | consegnato un prodotto finito risultato della lavorazione di pi˘ beni.                             |
++-------------------------+----------------------------------------------------------------------------------------------------+ 
+| Omaggio                 | quando si invia merce in omaggio Ë obbligatorio emettere la fattura unicamente per la rivalsa      |
+|                         | dellíIVA quando previsto dalla normativa                                                           |
++-------------------------+----------------------------------------------------------------------------------------------------+
+| Riparazione /           | per questo specifico caso Ë necessario indicare se si tratta di riparazione in garanzia oppure no  |
+| Riparazione in garanzia | perchÈ, nel caso l'operazione non sia coperta da Garanzia, dovr‡ poi essere emessa fattura per     |
+|                         | líintervento di riparazione.                                                                       |
++-------------------------+----------------------------------------------------------------------------------------------------+
+| Reso per accredito      | in questo caso la merce resa viene trattenuta e contestualmente si emetter‡ una nota di credito    |
++-------------------------+----------------------------------------------------------------------------------------------------+
+| Reso per sostituzione   | in questo caso sar‡ spedito del materiale in sostituzione di quello reso; ci sar‡ quindi un DDT di |
+|                         | consegna dei prodotti in sostituzione come chiusura del reso.                                      |
++-------------------------+----------------------------------------------------------------------------------------------------+
 
 Riepilogando:
 
 - il Documento di Trasporto ha una valenza ai fini fiscali per il rispetto della normativa;
 - permette di avvalersi della fatturazione differita;
-- consente di non cadere nelle presunzioni di cui all‚Äôart. 53 del D.P.R. 633/72;
-- ha valenza di ‚Äòricevuta‚Äô ai fini civilistici.
+- consente di non cadere nelle presunzioni di cui allíart. 53 del D.P.R. 633/72;
+- permette di movimentare merce per motivazioni diverse dalla cessione/vendita;
+- ha valenza di ëricevutaí ai fini civilistici.
 
 Emissione e conservazione del Documento di Trasporto
 ----------------------------------------------------
-Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure  essere spedito (anche via fax o altro mezzo) entro il giorno stesso dell‚Äôinizio del trasporto al cessionario. I DDT relativi ai trasporti con fatturazione differita devono essere conservati fino alla scadenza dei termini per l‚Äôaccertamento.  
+Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure  essere spedito (anche via fax o altro mezzo) entro il giorno stesso dellíinizio del trasporto al cessionario. I DDT relativi ai trasporti con fatturazione differita devono essere conservati fino alla scadenza dei termini per líaccertamento.  
 
 .. admonition:: Consiglio
 
@@ -200,7 +248,7 @@ Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure 
 
 Approfondimento
 ---------------
-Nei prossimi paragrafi analizziamo alcuni casi particolari, come quelli in cui si rende necessario rilasciare il DDT anche in relazione all‚Äôemissione di altri documenti. Ecco il sommario degli argomenti trattati:
+Nei prossimi paragrafi analizziamo alcuni casi particolari, come quelli in cui si rende necessario rilasciare il DDT anche in relazione allíemissione di altri documenti. Ecco il sommario degli argomenti trattati:
 
 1. Scontrino Fiscale
 2. Ricevuta Fiscale
@@ -211,95 +259,95 @@ Nei prossimi paragrafi analizziamo alcuni casi particolari, come quelli in cui s
 
 Documento di trasporto e scontrino fiscale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il Documento di Trasporto, se con causale di cessione beni e completo con l‚Äôammontare dei corrispettivi, sostituisce l‚Äôemissione dello scontrino fiscale. I commercianti al minuto ed i soggetti assimilati potranno quindi scegliere, per certificare i corrispettivi, una delle seguenti modalit√†:
+Il Documento di Trasporto, se con causale di cessione beni e completo con líammontare dei corrispettivi, sostituisce líemissione dello scontrino fiscale. I commercianti al minuto ed i soggetti assimilati potranno quindi scegliere, per certificare i corrispettivi, una delle seguenti modalit‡:
 
 - Emissione di scontrino fiscale
 - Emissione di fattura immediata
-- Emissione di documento di trasporto integrato con l‚Äôammontare dei corrispettivi e successiva fattura differita
+- Emissione di documento di trasporto integrato con líammontare dei corrispettivi e successiva fattura differita
 
 Documento di trasporto e ricevuta fiscale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I contribuenti che sono tenuti all‚Äôemissione della Ricevuta Fiscale per la certificazione dei corrispettivi non devono compilare il Documento di Trasporto. L‚Äôemissione della ricevuta fiscale (completa dei dati identificativi del cliente) consente di procedere all‚Äôemissione della Fattura Differita e sostituisce di fatto il documento di trasporto stesso. Premesso che la Fattura Differita va emessa solo ed esclusivamente nel caso di cessione di beni, √® opportuno chiarire il comportamento da seguire in caso di prestazioni di servizi che presuppongano la consegna del bene finito o lavorato.
+I contribuenti che sono tenuti allíemissione della Ricevuta Fiscale per la certificazione dei corrispettivi non devono compilare il Documento di Trasporto. Líemissione della ricevuta fiscale (completa dei dati identificativi del cliente) consente di procedere allíemissione della Fattura Differita e sostituisce di fatto il documento di trasporto stesso. Premesso che la Fattura Differita va emessa solo ed esclusivamente nel caso di cessione di beni, Ë opportuno chiarire il comportamento da seguire in caso di prestazioni di servizi che presuppongano la consegna del bene finito o lavorato.
 
-Innanzitutto il comportamento da tenere cambia se la prestazione viene resa in un locale non aperto al pubblico o presso un‚Äô impresa, oppure in un locale aperto al pubblico, in forma ambulante o nell‚Äôabitazione di un cliente privato.
+Innanzitutto il comportamento da tenere cambia se la prestazione viene resa in un locale non aperto al pubblico o presso uní impresa, oppure in un locale aperto al pubblico, in forma ambulante o nellíabitazione di un cliente privato.
 
-1. Nel caso di prestazione resa in locale non aperto al pubblico o presso un‚Äôimpresa l‚Äôoperazione dovr√† essere conclusa con emissione di fattura ordinaria. Il documento di trasporto dovr√† essere sempre emesso qualora si renda necessario vincere le presunzioni di cessione, quindi se unitamente alla prestazione vengono fornite merci. Per comprovare la consegna delle merci sarebbe sempre opportuna l‚Äôemissione di un documento di trasporto da far controfirmare per ricevuta dal cliente.
+1. Nel caso di prestazione resa in locale non aperto al pubblico o presso uníimpresa líoperazione dovr‡ essere conclusa con emissione di fattura ordinaria. Il documento di trasporto dovr‡ essere sempre emesso qualora si renda necessario vincere le presunzioni di cessione, quindi se unitamente alla prestazione vengono fornite merci. Per comprovare la consegna delle merci sarebbe sempre opportuna líemissione di un documento di trasporto da far controfirmare per ricevuta dal cliente.
 
-2. Nel caso invece la prestazione venga resa in un locale aperto al pubblico o nell‚Äô abitazione di clienti privati non √® obbligatoria l‚Äôemissione della fattura se non a richiesta del cliente e non oltre il momento di effettuazione della prestazione. In questo caso deve essere emessa la Ricevuta Fiscale al momento del suo completamento (fine lavoro).
+2. Nel caso invece la prestazione venga resa in un locale aperto al pubblico o nellí abitazione di clienti privati non Ë obbligatoria líemissione della fattura se non a richiesta del cliente e non oltre il momento di effettuazione della prestazione. In questo caso deve essere emessa la Ricevuta Fiscale al momento del suo completamento (fine lavoro).
 
 .. admonition:: Consiglio
 
-    Al fine di vincere la presunzione di cessione all‚Äôart. 53 del D.P.R. 633/72
-    consiglio sempre l‚Äôemissione di un DDT quando si prevede che la prestazione
+    Al fine di vincere la presunzione di cessione allíart. 53 del D.P.R. 633/72
+    consiglio sempre líemissione di un DDT quando si prevede che la prestazione
     venga terminata in una data diversa dalla consegna dei beni.
 
 Documento di trasporto e tentata vendita
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nel caso di trasporto di merci per la tentata vendita ci sono due comportamenti diversi da tenere a seconda che per la vendita si emetta fattura immediata o fattura differita:
 
-1. Fatturazione immediata. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, la relativa fattura consegnandone una copia all‚Äôacquirente.
-2. Fatturazione differita. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, un‚Äôapposita nota di consegna (o 'scheda clienti') secondo lo schema richiesto dalla gestione, ma contenente gli elementi obbligatori del DDT (di fatto pu√≤ essere un DDT con numerazione indipendente).
+1. Fatturazione immediata. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, la relativa fattura consegnandone una copia allíacquirente.
+2. Fatturazione differita. Si emette un Documento di Trasporto contenente tutti i beni trasportati per la tentata vendita e si emette, al momento delle singole consegne, uníapposita nota di consegna (o 'scheda clienti') secondo lo schema richiesto dalla gestione, ma contenente gli elementi obbligatori del DDT (di fatto puÚ essere un DDT con numerazione indipendente).
 
 Documento di trasporto e i beni in conto lavorazione, riparazione e deposito
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Nel caso di consegna di beni a terzi (ovvero da parte di terzi) in conto lavorazione, deposito, comodato ovvero in dipendenza di contratti estimatori o contratti d‚Äôopera, appalto, trasporto, mandato, commissione o altra motivazione che non configura il trasferimento di propriet√†, il DDT costituisce una delle prove valide per vincere la presunzione di cessione (ovvero di acquisto nel caso di ricezione merci). Per adempiere correttamente al suo scopo il DDT deve contenere la causale del trasporto e deve essere conservato da entrambe le parti.
+Nel caso di consegna di beni a terzi (ovvero da parte di terzi) in conto lavorazione, deposito, comodato ovvero in dipendenza di contratti estimatori o contratti díopera, appalto, trasporto, mandato, commissione o altra motivazione che non configura il trasferimento di propriet‡, il DDT costituisce una delle prove valide per vincere la presunzione di cessione (ovvero di acquisto nel caso di ricezione merci). Per adempiere correttamente al suo scopo il DDT deve contenere la causale del trasporto e deve essere conservato da entrambe le parti.
 
 Documento di trasporto e gli agenti di commercio: i campionari
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Per la consegna del campionario all‚Äôagente la ditta mandante emetter√† un DDT con specifica causale per evitare la presunzione di cessione; l‚Äôagente deve conservare il documento e potr√† circolare con il campionario senza emettere alcun DDT in proprio.
+Per la consegna del campionario allíagente la ditta mandante emetter‡ un DDT con specifica causale per evitare la presunzione di cessione; líagente deve conservare il documento e potr‡ circolare con il campionario senza emettere alcun DDT in proprio.
 
-Documento di trasporto e guardia di finanza ‚Äì i controlli su strada
+Documento di trasporto e guardia di finanza ñ i controlli su strada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I controlli dei trasporti su strada spettano esclusivamente alla Guardia di Finanza, che deve verificare la corrispondenza di quanto risultante dal DDT (o dichiarato dal conducente) con le risultanze rffettive; successivamente la GdF o l‚ÄôUfficio Iva potranno verificare l‚Äôeventuale corretta fatturazione.
+I controlli dei trasporti su strada spettano esclusivamente alla Guardia di Finanza, che deve verificare la corrispondenza di quanto risultante dal DDT (o dichiarato dal conducente) con le risultanze rffettive; successivamente la GdF o líUfficio Iva potranno verificare líeventuale corretta fatturazione.
 
 *********************************************
 Fattura Immediata, Differita, Accompagnatoria
 *********************************************
-Dopo aver introdotto gli Elementi Base della Fattura ed aver visto il Documento di Trasporto, in questo capitolo analizziamo le tipologie di fattura pi√π usate: fattura immediata, fattura differita e fattura accompagnatoria. Come al solito per gli esempi ci serviremo del software di fatturazione `Amica Fatturazione`_ che ci permette di emettere tutte le tipologie di fattura possibili e di impostare il modulo di stampa come pi√π ci piace e come meglio si adatta alla nostra categoria merceologica. Successivamente vedremo altre tipologie, come la fattura pro-forma, quella di acconto, le note di credito e debito. 
+Dopo aver introdotto gli Elementi Base della Fattura ed aver visto il Documento di Trasporto, in questo capitolo analizziamo le tipologie di fattura pi˘ usate: fattura immediata, fattura differita e fattura accompagnatoria. Come al solito per gli esempi ci serviremo del software di fatturazione `Amica Fatturazione`_ che ci permette di emettere tutte le tipologie di fattura possibili e di impostare il modulo di stampa come pi˘ ci piace e come meglio si adatta alla nostra categoria merceologica. Successivamente vedremo altre tipologie, come la fattura pro-forma, quella di acconto, le note di credito e debito. 
 
 Fattura Immediata
 -----------------
-La fattura immediata, come indica il nome stesso, deve essere emessa e consegnata o spedita al cliente, anche a mezzo di sistemi elettronici, entro lo stesso giorno di effettuazione della vendita o prestazione del servizio. Da ci√≤ si evince che la fattura immediata non ha carattere accompagnatorio, per cui i beni/servizi venduti devono poter essere consegnati senza alcun documento. La fattura immediata rappresenta la regola generale ed √® il documento di normale uso quando non c‚Äô√® obbligo di documento di accompagnamento merce.
+La fattura immediata, come indica il nome stesso, deve essere emessa e consegnata o spedita al cliente, anche a mezzo di sistemi elettronici, entro lo stesso giorno di effettuazione della vendita o prestazione del servizio. Da ciÚ si evince che la fattura immediata non ha carattere accompagnatorio, per cui i beni/servizi venduti devono poter essere consegnati senza alcun documento. La fattura immediata rappresenta la regola generale ed Ë il documento di normale uso quando non cíË obbligo di documento di accompagnamento merce.
 
-La fattura per regola viene considerata emessa all‚Äôatto della sua consegna o spedizione all‚Äôaltra parte; non esiste obbligo di verificare la ricezione. L‚Äôemissione di fattura immediata per la cessione di beni/servizi consente di evitare il rilascio della ricevuta fiscale o dello scontrino come previsto dall‚Äôarticolo 3, comma 2 del DPR 21 dicembre 1996 n¬∞ 696. Per avere questo esonero, la fattura deve essere rilasciata contestualmente alla consegna dei beni o all‚Äôultimazione dei servizi, cio√® nei termini entro cui sarebbe scattato l‚Äôobbligo della certificazione fiscale (scontrino o ricevuta fiscale).
+La fattura per regola viene considerata emessa allíatto della sua consegna o spedizione allíaltra parte; non esiste obbligo di verificare la ricezione. Líemissione di fattura immediata per la cessione di beni/servizi consente di evitare il rilascio della ricevuta fiscale o dello scontrino come previsto dallíarticolo 3, comma 2 del DPR 21 dicembre 1996 n∞ 696. Per avere questo esonero, la fattura deve essere rilasciata contestualmente alla consegna dei beni o allíultimazione dei servizi, cioË nei termini entro cui sarebbe scattato líobbligo della certificazione fiscale (scontrino o ricevuta fiscale).
 
 La fattura immediata non ha obblighi aggiuntivi rispetto alle informazioni standard (gli Elementi di Base) che abbiamo indicato nei capitoli precedenti.
 
 Fattura Differita
 -----------------
-La Fattura Differita √® un documento fiscale emesso in un momento diverso da quello dell‚Äôeffettuazione della prestazione, oppure diverso dalla consegna della merce.
+La Fattura Differita Ë un documento fiscale emesso in un momento diverso da quello dellíeffettuazione della prestazione, oppure diverso dalla consegna della merce.
 
-Di norma la Fattura Differita viene utilizzata per la fatturazione a fine mese di merce consegnata con DDT nel corso del mese solare. Questo permette di avere una sola fattura a fronte di molte spedizioni/consegne di merce per il cliente. Si adotta questo sistema quando i propri clienti hanno una frequenza di ordini evasi nel mese abbastanza elevata. Un ottimo esempio pu√≤ essere un produttore di pane che ogni giorno consegna alle rivendite sue clienti il quantitativo di pane ordinato. Ogni giorno verr√† emesso il solo DDT (documento pi√π semplice e senza implicazioni di registrazione nel libro giornale), mentre a fine mese verr√† emessa una Fattura Differita riepilogativa del mese appena concluso. Alcuni Gestionali tra cui anche il `Amica Fatturazione`_ consentono di creare le fatture riepilogative di fine mese in modo automatico.
+Di norma la Fattura Differita viene utilizzata per la fatturazione a fine mese di merce consegnata con DDT nel corso del mese solare. Questo permette di avere una sola fattura a fronte di molte spedizioni/consegne di merce per il cliente. Si adotta questo sistema quando i propri clienti hanno una frequenza di ordini evasi nel mese abbastanza elevata. Un ottimo esempio puÚ essere un produttore di pane che ogni giorno consegna alle rivendite sue clienti il quantitativo di pane ordinato. Ogni giorno verr‡ emesso il solo DDT (documento pi˘ semplice e senza implicazioni di registrazione nel libro giornale), mentre a fine mese verr‡ emessa una Fattura Differita riepilogativa del mese appena concluso. Alcuni Gestionali tra cui anche il `Amica Fatturazione`_ consentono di creare le fatture riepilogative di fine mese in modo automatico.
 
-Come regola generale la Fattura Differita pu√≤ essere emessa solo in riferimento a cessione di beni consegnati con apposito DDT o bolla di accompagnamento (nei casi in cui √® ancora prevista) o ricevuta fiscale o scontrino opportunamente integrati con i dati IVA. Quando viene utilizzata come riepilogativa dei DDT raggruppati essa deve contenere l‚Äôindicazione di numero e data del documento di trasporto o altro documento con cui √® stata consegnata la merce; deve essere emessa e consegnata al cliente entro il giorno 15 del mese successivo a quello dei documenti di riferimento per i documenti di trasporto.
+Come regola generale la Fattura Differita puÚ essere emessa solo in riferimento a cessione di beni consegnati con apposito DDT o bolla di accompagnamento (nei casi in cui Ë ancora prevista) o ricevuta fiscale o scontrino opportunamente integrati con i dati IVA. Quando viene utilizzata come riepilogativa dei DDT raggruppati essa deve contenere líindicazione di numero e data del documento di trasporto o altro documento con cui Ë stata consegnata la merce; deve essere emessa e consegnata al cliente entro il giorno 15 del mese successivo a quello dei documenti di riferimento per i documenti di trasporto.
 
 .. image:: img/TipologiaFattura1.png
 
 Fattura Accompagnatoria
 -----------------------
-La fattura accompagnatoria √® un documento che possiamo definire ibrido in quanto ha contemporaneamente le caratteristiche e gli obblighi di un DDT e di una Fattura Immediata. Viene emessa quando vi √® una cessione di beni che devono essere trasferiti presso il cliente e non pu√≤ essere utilizzata per fatturare esclusivamente una prestazione di servizi (in quest‚Äôultimo caso √® obbligatorio l‚Äôuso della fattura immediata).
+La fattura accompagnatoria Ë un documento che possiamo definire ibrido in quanto ha contemporaneamente le caratteristiche e gli obblighi di un DDT e di una Fattura Immediata. Viene emessa quando vi Ë una cessione di beni che devono essere trasferiti presso il cliente e non puÚ essere utilizzata per fatturare esclusivamente una prestazione di servizi (in questíultimo caso Ë obbligatorio líuso della fattura immediata).
 
-Vediamone ora un esempio in quanto si tratta del tipo di fattura pi√π complesso, proprio a causa delle sue caratteristiche di duplice valenza.
+Vediamone ora un esempio in quanto si tratta del tipo di fattura pi˘ complesso, proprio a causa delle sue caratteristiche di duplice valenza.
 
 .. image:: img/TipologiaFattura2.png
 
-Essendo una fattura conterr√† quindi tutti gli elementi IVA con i relativi riepiloghi per aliquota. Tuttavia, dovendo anche ‚Äòsostituire‚Äô il DDT, conterr√† gli elementi relativi al trasporto come il Vettore, il peso, il numero colli, ecc. Ovviamente gli elementi obbligatori per ognuna delle due tipologie di documenti lo sono anche per la Fattura Accompagnatoria.
+Essendo una fattura conterr‡ quindi tutti gli elementi IVA con i relativi riepiloghi per aliquota. Tuttavia, dovendo anche ësostituireí il DDT, conterr‡ gli elementi relativi al trasporto come il Vettore, il peso, il numero colli, ecc. Ovviamente gli elementi obbligatori per ognuna delle due tipologie di documenti lo sono anche per la Fattura Accompagnatoria.
 
 *********************************
 Fatture Professionisti e Parcelle
 *********************************
 
-La Fattura Professionisti, o Parcella, √® il documento fiscale attestante la prestazione di un servizio professionale emesso da un soggetto appartenente a una categoria abilitata allo svolgimento di attivit√† di libera professione.
+La Fattura Professionisti, o Parcella, Ë il documento fiscale attestante la prestazione di un servizio professionale emesso da un soggetto appartenente a una categoria abilitata allo svolgimento di attivit‡ di libera professione.
 
 Soggetti tenuti alla emissione di fatture professionisti e parcelle
 -------------------------------------------------------------------
-I soggetti interessati alla emissione di questa tipologia di documento sono moltissimi, tutte le figure che abitualmente si definiscono come 'Professionisti'. In queste rientrano tutti quelli dotati di un Albo Professionale come Notai, Avvocati, Architetti, Geometri ecc. e tutti quelli che invece svolgono attivit√† professionale senza essere iscritti ad un apposito Albo come ad esempio consulenti informatici, consulenti marketing, grafici pubblicitari ecc.... Un‚Äôaltra categoria che emette questo tipo di fattura sono gli Agenti di Commercio.
+I soggetti interessati alla emissione di questa tipologia di documento sono moltissimi, tutte le figure che abitualmente si definiscono come 'Professionisti'. In queste rientrano tutti quelli dotati di un Albo Professionale come Notai, Avvocati, Architetti, Geometri ecc. e tutti quelli che invece svolgono attivit‡ professionale senza essere iscritti ad un apposito Albo come ad esempio consulenti informatici, consulenti marketing, grafici pubblicitari ecc.... Uníaltra categoria che emette questo tipo di fattura sono gli Agenti di Commercio.
 
 Terminologia
 ------------
-Per uso comune si utilizza il termine **Parcella** quando si tratta di un professionista iscritto all‚ÄôAlbo che quindi applica le tariffe e le direttive previste, mentre si ricorre al termine **Fattura Professionisti** in tutti gli altri casi, ad eccezione degli Agenti di Commercio, per i quali si usa la dicitura **Fattura Provvigioni**. In ogni caso si tratta di documenti analoghi, con molte caratteristiche comuni ed alcune differenze che vedremo nel dettaglio.
+Per uso comune si utilizza il termine **Parcella** quando si tratta di un professionista iscritto allíAlbo che quindi applica le tariffe e le direttive previste, mentre si ricorre al termine **Fattura Professionisti** in tutti gli altri casi, ad eccezione degli Agenti di Commercio, per i quali si usa la dicitura **Fattura Provvigioni**. In ogni caso si tratta di documenti analoghi, con molte caratteristiche comuni ed alcune differenze che vedremo nel dettaglio.
 
-Il professionista ha obbligo di emissione della fattura non al termine della prestazione professionale, ma al momento dell‚Äôeffettivo pagamento da parte del cliente. Per questo motivo √® pratica comune che dopo la prestazione del servizio venga rilasciata una ‚Äúfattura proforma‚Äù. Di questo di questo particolare documento parleremo in seguito in questa stessa guida.
+Il professionista ha obbligo di emissione della fattura non al termine della prestazione professionale, ma al momento dellíeffettivo pagamento da parte del cliente. Per questo motivo Ë pratica comune che dopo la prestazione del servizio venga rilasciata una ìfattura proformaî. Di questo di questo particolare documento parleremo in seguito in questa stessa guida.
 
 Caratteristiche principali
 --------------------------
@@ -309,208 +357,208 @@ Vediamo le principali caratteristiche di una fattura professionisti:
 
 2. Nel corpo fattura deve essere descritta correttamente la prestazione svolta
 
-3. Viene sempre applicata la ritenuta d‚Äôacconto sull‚Äôimponibile
+3. Viene sempre applicata la ritenuta díacconto sullíimponibile
 
-4. Viene calcolato il contributo previdenziale per la cassa di previdenza, che cambia a seconda della categoria professionale a cui appartiene il professionista; quando non c‚Äô√® una cassa previdenziale specifica viene applicato il contributo INPS.
+4. Viene calcolato il contributo previdenziale per la cassa di previdenza, che cambia a seconda della categoria professionale a cui appartiene il professionista; quando non cíË una cassa previdenziale specifica viene applicato il contributo INPS.
 
-5. Come in tutte le fatture viene applicata l‚ÄôIVA o indicata l‚Äôeventuale causale di esenzione.
+5. Come in tutte le fatture viene applicata líIVA o indicata líeventuale causale di esenzione.
 
 Esempi pratici
 --------------
-Di seguito analizziamo alcuni casi che sono esemplificativi della maggior parte dei casi reali in cui viene emessa una **Fattura Professionisiti**. Nei casi analizzati sono presenti le principali casistiche anche in relazione alle casse previdenziali specifiche e/o alla gestione separata INPS nonch√® all'Enasarco per gli Agenti di Commercio.
+Di seguito analizziamo alcuni casi che sono esemplificativi della maggior parte dei casi reali in cui viene emessa una **Fattura Professionisiti**. Nei casi analizzati sono presenti le principali casistiche anche in relazione alle casse previdenziali specifiche e/o alla gestione separata INPS nonchË all'Enasarco per gli Agenti di Commercio.
 
-L‚Äôavvocato
+Líavvocato
 ^^^^^^^^^^
-Il primo caso preso in esame √® una categoria professionale che prevede la cassa previdenziale di categoria al 2% con inclusione di quest‚Äôultima nell‚Äôimponibile (l‚Äôavvocato, per esempio).
-Supponiamo che siano stati offerti servizi per un valore di ‚Ç¨1.000,00; a questo dobbiamo aggiungere il contributo cassa di previdenza pari a ‚Ç¨20,00 (2%), per un totale imponibile di ‚Ç¨1.020,00. Si calcola l‚ÄôIVA al 21% sull‚Äôimponibile, che √® pari a ‚Ç¨214,20. A questo punto va calcolata al ritenuta di acconto del 20% sull‚Äôimponibile della prestazione (esclusa quindi la cassa previdenziale), equivalente a ‚Ç¨200,00 (20% di ‚Ç¨1.000,00). Come evidenziato dalla tabella sotto il calcolo del netto a pagare, pari a ‚Ç¨1.034,20, √® presto fatto:
+Il primo caso preso in esame Ë una categoria professionale che prevede la cassa previdenziale di categoria al 2% con inclusione di questíultima nellíimponibile (líavvocato, per esempio).
+Supponiamo che siano stati offerti servizi per un valore di Ä1.000,00; a questo dobbiamo aggiungere il contributo cassa di previdenza pari a Ä20,00 (2%), per un totale imponibile di Ä1.020,00. Si calcola líIVA al 21% sullíimponibile, che Ë pari a Ä214,20. A questo punto va calcolata al ritenuta di acconto del 20% sullíimponibile della prestazione (esclusa quindi la cassa previdenziale), equivalente a Ä200,00 (20% di Ä1.000,00). Come evidenziato dalla tabella sotto il calcolo del netto a pagare, pari a Ä1.034,20, Ë presto fatto:
 
 +----------------------------------------------------------------------+------------------------+ 
-| Imponibile prestazione                                               |              ‚Ç¨ 1.000,00| 
+| Imponibile prestazione                                               |              Ä 1.000,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Contributo Cassa di Previdenza 2%                                    |                 ‚Ç¨ 20,00| 
+| Contributo Cassa di Previdenza 2%                                    |                 Ä 20,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| IVA 21% (su totale imponibile di ‚Ç¨1.020,00)                          |                ‚Ç¨ 204,00| 
+| IVA 21% (su totale imponibile di Ä1.020,00)                          |                Ä 204,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Ritenuta acconto 20% su imponibile prestazione                       |                ‚Ç¨ 200,00| 
+| Ritenuta acconto 20% su imponibile prestazione                       |                Ä 200,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Totale Fattura                                                       |              ‚Ç¨ 1.234,20| 
+| Totale Fattura                                                       |              Ä 1.234,20| 
 +----------------------------------------------------------------------+------------------------+ 
-| **Netto a pagare**                                                   |          **‚Ç¨ 1.034,20**|
+| **Netto a pagare**                                                   |          **Ä 1.034,20**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: il netto a pagare √® calcolato come (imponibile prestazione + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
+**NOTA BENE: il netto a pagare Ë calcolato come (imponibile prestazione + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
 
-Qui sotto vediamo la Fattura dell'Avvocato (parcella) elaborata con l‚Äôausilio di `Amica Fatturazione`_. Trattandosi di un esempio abbiamo scelto un modello di fattura/parcella molto semplice ma completo ed esemplificativo. Naturalmente √® possibile personalizzare la stampa secondo le proprio esigenze e preferenze.
+Qui sotto vediamo la Fattura dell'Avvocato (parcella) elaborata con líausilio di `Amica Fatturazione`_. Trattandosi di un esempio abbiamo scelto un modello di fattura/parcella molto semplice ma completo ed esemplificativo. Naturalmente Ë possibile personalizzare la stampa secondo le proprio esigenze e preferenze.
 
 .. image:: img/FatturaProfessionisti1.png
 
 Il consulente informatico
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-Il secondo caso preso in esame √® una categoria professionale che non prevede la cassa previdenziale di categoria e deve quindi applicare la rivalsa INPS al 4%, con inclusione di quest‚Äôultima sia nel calcolo dell‚Äôimponibile sia nel calcolo della Ritenuta di Acconto. Come esempio utilizziamo i consulenti informatici, che rientrano in questa categoria.
-Supponiamo che siano stati offerti servizi per un valore di ‚Ç¨1.000,00; a questo dobbiamo aggiungere la rivalsa INPS pari a ‚Ç¨40,00 (4%), per un totale imponibile di ‚Ç¨1.040,00. Si calcola l‚ÄôIVA al 21% che √® pari a ‚Ç¨218,40. A questo punto va calcolata al ritenuta di acconto del 20% sul totale imponibile (rivalsa INPS inclusa), pari a ‚Ç¨208,00 (20% di ‚Ç¨1.040,00). La tabella qui sotto ci aiuta a determinare il netto a pagare, pari a ‚Ç¨1.050,40:
+Il secondo caso preso in esame Ë una categoria professionale che non prevede la cassa previdenziale di categoria e deve quindi applicare la rivalsa INPS al 4%, con inclusione di questíultima sia nel calcolo dellíimponibile sia nel calcolo della Ritenuta di Acconto. Come esempio utilizziamo i consulenti informatici, che rientrano in questa categoria.
+Supponiamo che siano stati offerti servizi per un valore di Ä1.000,00; a questo dobbiamo aggiungere la rivalsa INPS pari a Ä40,00 (4%), per un totale imponibile di Ä1.040,00. Si calcola líIVA al 21% che Ë pari a Ä218,40. A questo punto va calcolata al ritenuta di acconto del 20% sul totale imponibile (rivalsa INPS inclusa), pari a Ä208,00 (20% di Ä1.040,00). La tabella qui sotto ci aiuta a determinare il netto a pagare, pari a Ä1.050,40:
 
 +----------------------------------------------------------------------+------------------------+ 
-| Imponibile prestazione                                               |              ‚Ç¨ 1.000,00| 
+| Imponibile prestazione                                               |              Ä 1.000,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Contributo Cassa di Previdenza 4%                                    |                 ‚Ç¨ 40,00| 
+| Contributo Cassa di Previdenza 4%                                    |                 Ä 40,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| IVA 21% (su totale imponibile di ‚Ç¨1.040,00)                          |                ‚Ç¨ 218,40| 
+| IVA 21% (su totale imponibile di Ä1.040,00)                          |                Ä 218,40| 
 +----------------------------------------------------------------------+------------------------+ 
-| Ritenuta acconto 20% su imponibile prestazione                       |                ‚Ç¨ 208,00| 
+| Ritenuta acconto 20% su imponibile prestazione                       |                Ä 208,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Totale Fattura                                                       |              ‚Ç¨ 1.258,40| 
+| Totale Fattura                                                       |              Ä 1.258,40| 
 +----------------------------------------------------------------------+------------------------+ 
-| **Netto a pagare**                                                   |          **‚Ç¨ 1.050,40**|
+| **Netto a pagare**                                                   |          **Ä 1.050,40**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: il netto a pagare √® calcolato come (imponibile prestazione> + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
+**NOTA BENE: il netto a pagare Ë calcolato come (imponibile prestazione> + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
 
-Anche in questo caso qui sotto vediamo la Fattura del Consulente Informatico (Fattura Professionisti) elaborata con l‚Äôausilio di `Amica Fatturazione`_.
+Anche in questo caso qui sotto vediamo la Fattura del Consulente Informatico (Fattura Professionisti) elaborata con líausilio di `Amica Fatturazione`_.
 
 .. image:: img/FatturaProfessionisti2.png
 
 L'agente di commercio
 ^^^^^^^^^^^^^^^^^^^^^
-Il terzo caso √® relativo a una categoria professionale speciale, dotata di una casistica sui generis: si tratta degli Agenti di Commercio. In questo caso la Cassa Previdenziale √® Enasarco_, e prevede una gestione delle aliquote completamente diversa. Inoltre anche la Ritenuta di acconto si applica solo sul 50% dell‚Äôimponibile. Vediamo ora come deve essere compilata una fattura provvigioni corretta.
+Il terzo caso Ë relativo a una categoria professionale speciale, dotata di una casistica sui generis: si tratta degli Agenti di Commercio. In questo caso la Cassa Previdenziale Ë Enasarco_, e prevede una gestione delle aliquote completamente diversa. Inoltre anche la Ritenuta di acconto si applica solo sul 50% dellíimponibile. Vediamo ora come deve essere compilata una fattura provvigioni corretta.
 
 +----------------------------------------------------------------------+------------------------+ 
-| Imponibile prestazione                                               |              ‚Ç¨ 2.000,00| 
+| Imponibile prestazione                                               |              Ä 2.000,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| IVA 21% (su totale imponibile di ‚Ç¨1.040,00)                          |                ‚Ç¨ 420,00| 
+| IVA 21% (su totale imponibile di Ä1.040,00)                          |                Ä 420,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Ritenuta Enassarco al 6,875% (13,75% su 50% dell'imponibile)         |                ‚Ç¨ 137,50| 
+| Ritenuta Enassarco al 6,875% (13,75% su 50% dell'imponibile)         |                Ä 137,50| 
 +----------------------------------------------------------------------+------------------------+ 
-| Ritenuta acconto (23% su 50% dell'imponibile)                        |                ‚Ç¨ 230,00| 
+| Ritenuta acconto (23% su 50% dell'imponibile)                        |                Ä 230,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Totale Fattura                                                       |              ‚Ç¨ 2.420,00| 
+| Totale Fattura                                                       |              Ä 2.420,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| **Netto a pagare**                                                   |          **‚Ç¨ 2.052,50**|
+| **Netto a pagare**                                                   |          **Ä 2.052,50**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: netto a pagare √® calcolato come (imponibile prestazione + IVA - ritenuta Enasarco) - ritenuta di acconto.**
+**NOTA BENE: netto a pagare Ë calcolato come (imponibile prestazione + IVA - ritenuta Enasarco) - ritenuta di acconto.**
 
-Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con l‚Äôausilio come sempre di `Amica Fatturazione`_.
+Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con líausilio come sempre di `Amica Fatturazione`_.
 
 .. image:: img/FatturaProfessionisti3.png
 
 Minimi e massimi Enasarco
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-Per quanto riguarda il contributo Enasarco √® importante ricordare l‚Äôesistenza dei minimi e massimi. A seconda che l‚ÄôAgente sia Monomandatario oppure Plurimandatario sono previsti dei minimi e massimi di contribuzione ai quali ditte mandanti e Agenti sono tenuti ad adeguarsi. Fare riferimento al  sito Enasarco per la verifica, in quanto questi valori vengono stabiliti periodicamente dall‚ÄôEnte stesso. Le pagine `Contributo Minimo (minimale) <http://enasarco.it/Guida/contributo_minimo_annuo_minimale>`_ e `Contributo Massimo (massimale)  <http://enasarco.it/Guida/contributo_massimo_annuo_massimale>`_ consentono di visualizzare le tabelle con i minimi e massimi e di trovare documentazione aggiornata su come effettuare i calcoli.
+Per quanto riguarda il contributo Enasarco Ë importante ricordare líesistenza dei minimi e massimi. A seconda che líAgente sia Monomandatario oppure Plurimandatario sono previsti dei minimi e massimi di contribuzione ai quali ditte mandanti e Agenti sono tenuti ad adeguarsi. Fare riferimento al  sito Enasarco per la verifica, in quanto questi valori vengono stabiliti periodicamente dallíEnte stesso. Le pagine `Contributo Minimo (minimale) <http://enasarco.it/Guida/contributo_minimo_annuo_minimale>`_ e `Contributo Massimo (massimale)  <http://enasarco.it/Guida/contributo_massimo_annuo_massimale>`_ consentono di visualizzare le tabelle con i minimi e massimi e di trovare documentazione aggiornata su come effettuare i calcoli.
 
 *****************
 Fattura Pro Forma
 *****************
-La fattura pro forma √® un documento senza alcuna valenza fiscale, utilizzato quando si rende necessario presentare al cliente un facsimile della fattura finale senza incorrere negli obblighi fiscali e mantenendo la certezza che il documento non possa far insorgere, in caso di controlli, la presunzione di fatturazione, generando tutte le conseguenze per la mancata registrazione dello stesso.
+La fattura pro forma Ë un documento senza alcuna valenza fiscale, utilizzato quando si rende necessario presentare al cliente un facsimile della fattura finale senza incorrere negli obblighi fiscali e mantenendo la certezza che il documento non possa far insorgere, in caso di controlli, la presunzione di fatturazione, generando tutte le conseguenze per la mancata registrazione dello stesso.
 
-La fattura pro forma non genera obblighi ai fine della liquidazione IVA e nemmeno al fine della determinazione dei ricavi. Si tratta di un documento in carta semplice che ‚Äòassomiglia‚Äô ad una fattura ma riporta in evidenza la dicitura 'Proforma'. A volte per distinguerla ancora meglio dalla fattura vera e propria si preferisce non mettere il dettaglio dell‚ÄôIVA, la si presenta un po‚Äô come "il conto da pagare". La mancanza del dettaglio IVA rende la Fattura Proforma sicuramente non assimilabile ad una fattura vera e quindi rende qualsiasi contestazione da parte dell‚Äôamministrazione finanziaria  insostenibile. E‚Äô buona regola fare di tutto perch√© la fattura proforma non sia facilmente assimilabile ad una fattura ordinaria.
+La fattura pro forma non genera obblighi ai fine della liquidazione IVA e nemmeno al fine della determinazione dei ricavi. Si tratta di un documento in carta semplice che ëassomigliaí ad una fattura ma riporta in evidenza la dicitura 'Proforma'. A volte per distinguerla ancora meglio dalla fattura vera e propria si preferisce non mettere il dettaglio dellíIVA, la si presenta un poí come "il conto da pagare". La mancanza del dettaglio IVA rende la Fattura Proforma sicuramente non assimilabile ad una fattura vera e quindi rende qualsiasi contestazione da parte dellíamministrazione finanziaria  insostenibile. Eí buona regola fare di tutto perchÈ la fattura proforma non sia facilmente assimilabile ad una fattura ordinaria.
 
-Vediamo ora un paio di casi in cui √® utile emettere fatture o parcelle pro forma.
+Vediamo ora un paio di casi in cui Ë utile emettere fatture o parcelle pro forma.
 
 Fattura pro forma per il Libero Professionista
 ----------------------------------------------
-I professionisti emettono quasi sempre fattura  pro forma, in quanto hanno l‚Äôobbligo di fatturazione non all‚Äôesecuzione della prestazione ma solo al pagamento della stessa. Grazie alla pro forma possono presentare la loro parcella al cliente senza doversi accollare gli oneri del pagamento dell‚ÄôIVA e della tassazione sui ricavi fino al pagamento della stessa. 
+I professionisti emettono quasi sempre fattura  pro forma, in quanto hanno líobbligo di fatturazione non allíesecuzione della prestazione ma solo al pagamento della stessa. Grazie alla pro forma possono presentare la loro parcella al cliente senza doversi accollare gli oneri del pagamento dellíIVA e della tassazione sui ricavi fino al pagamento della stessa. 
 
-Facciamo un esempio per capire meglio: supponiamo che un geometra abbia fatto un progetto di una casa per un importo di ‚Ç¨10.000 + IVA ed abbia completato il suo lavoro il 5 Dicembre e che gli accordi con il committente prevedano un pagamento a 60 giorni fine mese dalla consegna lavori. Se il geometra fatturasse il 5 Dicembre si dovrebbe accollare l‚ÄôIVA da pagare in Gennaio (‚Ç¨2.100) e la tassazione in carico all‚Äôanno in corso. Emettendo invece fattura pro forma ed attendendo il pagamento a fine febbraio dell‚Äôanno successivo ottiene due vantaggi:
+Facciamo un esempio per capire meglio: supponiamo che un geometra abbia fatto un progetto di una casa per un importo di Ä10.000 + IVA ed abbia completato il suo lavoro il 5 Dicembre e che gli accordi con il committente prevedano un pagamento a 60 giorni fine mese dalla consegna lavori. Se il geometra fatturasse il 5 Dicembre si dovrebbe accollare líIVA da pagare in Gennaio (Ä2.100) e la tassazione in carico allíanno in corso. Emettendo invece fattura pro forma ed attendendo il pagamento a fine febbraio dellíanno successivo ottiene due vantaggi:
 
-1. l‚ÄôIVA verr√† versata solo a Marzo dell‚Äôanno successivo
-2. La tassazione sul reddito andr√† anch‚Äôessa in carico all‚Äôanno successivo.
+1. líIVA verr‡ versata solo a Marzo dellíanno successivo
+2. La tassazione sul reddito andr‡ anchíessa in carico allíanno successivo.
 
 In termini finanziari si tratta di un grande vantaggio offerto al professionista grazie al fatto che la normativa gli permette l'emissione della fattura solo alla data del pagamento.
 
 Fattura pro forma per pagamento anticipato
 ------------------------------------------
-Un altro caso tipico di uso della fattura pro forma si verifica quando si deve spedire della merce ad un cliente che deve pagare con Bonifico Bancario anticipato. In questo caso si compila la fattura pro forma per dare al cliente la possibilit√† di controllare che i prezzi applicati ed il totale corrispondano perfettamente all‚Äôordine effettuato ed avere un documento di appoggio per l‚Äôesecuzione del bonifico; alla spedizione la fattura sar√† uguale alla pro forma presentata per il pagamento.
+Un altro caso tipico di uso della fattura pro forma si verifica quando si deve spedire della merce ad un cliente che deve pagare con Bonifico Bancario anticipato. In questo caso si compila la fattura pro forma per dare al cliente la possibilit‡ di controllare che i prezzi applicati ed il totale corrispondano perfettamente allíordine effettuato ed avere un documento di appoggio per líesecuzione del bonifico; alla spedizione la fattura sar‡ uguale alla pro forma presentata per il pagamento.
 
-In questo modo l‚Äôazienda venditrice si tutela dalla possibilit√† che il cliente, non effettuando il pagamento, la costringa a stornare la fattura di vendita a mezzo Nota di Credito, aggravando in questo modo gli adempimenti contabili.
+In questo modo líazienda venditrice si tutela dalla possibilit‡ che il cliente, non effettuando il pagamento, la costringa a stornare la fattura di vendita a mezzo Nota di Credito, aggravando in questo modo gli adempimenti contabili.
 
-Ci sono ovviamente altri casi per l‚Äôuso della fattura pro forma, qui abbiamo elencato due dei pi√π diffusi.
+Ci sono ovviamente altri casi per líuso della fattura pro forma, qui abbiamo elencato due dei pi˘ diffusi.
 
 Compilazione della fattura pro forma
 ------------------------------------
-Tecnicamente la fattura pro forma √® molto simile alla fattura che poi si andr√† ad emettere al cliente. Di seguito ne vediamo un esempio realizzato col programma gestionale `Amica 10`_.  Da notare nel riquadro tipo documento la dicitura ‚Äúfattura pro forma‚Äù; assieme alla numerazione che √® indipendente da quella delle fatture ordinarie √® la vera differenza con la successiva fattura di vendita).
+Tecnicamente la fattura pro forma Ë molto simile alla fattura che poi si andr‡ ad emettere al cliente. Di seguito ne vediamo un esempio realizzato col programma gestionale `Amica 10`_.  Da notare nel riquadro tipo documento la dicitura ìfattura pro formaî; assieme alla numerazione che Ë indipendente da quella delle fatture ordinarie Ë la vera differenza con la successiva fattura di vendita).
 
 .. image:: img/FatturaProforma1.png
 
-Al momento del pagamento da parte del cliente, o comunque al momento dell‚Äôemissione della fattura reale, il gestionale Amica rende l‚Äôoperazione facile e veloce: √® infatti sufficiente richiamare la fattura pro forma in una nuova fattura (ad esempio accompagnatoria) ed il gioco √® fatto: la fattura definitiva √® pronta senza dover rifare il lavoro. Nell‚Äôesempio vediamo quanto sia semplice il processo di importazione:
+Al momento del pagamento da parte del cliente, o comunque al momento dellíemissione della fattura reale, il gestionale Amica rende líoperazione facile e veloce: Ë infatti sufficiente richiamare la fattura pro forma in una nuova fattura (ad esempio accompagnatoria) ed il gioco Ë fatto: la fattura definitiva Ë pronta senza dover rifare il lavoro. Nellíesempio vediamo quanto sia semplice il processo di importazione:
 
 .. image:: img/FatturaProforma2.png
 
 *******************************************************
 Le Note di Variazione: Nota di Credito e Nota di Debito
 *******************************************************
-La Nota di Variazione √® un documento che serve a correggere in aumento o in diminuzione una fattura emessa con valori errati. Questo tipo di documento, disciplinato dall‚Äôarticolo 26 del `DPR 633/72`_, deve essere emesso quando, dopo l‚Äôemissione della fattura e/o la sua registrazione, si verificano delle circostanze tali da determinare una variazione (in aumento o in diminuzione) di quanto indicato. Ecco alcuni esempi:
+La Nota di Variazione Ë un documento che serve a correggere in aumento o in diminuzione una fattura emessa con valori errati. Questo tipo di documento, disciplinato dallíarticolo 26 del `DPR 633/72`_, deve essere emesso quando, dopo líemissione della fattura e/o la sua registrazione, si verificano delle circostanze tali da determinare una variazione (in aumento o in diminuzione) di quanto indicato. Ecco alcuni esempi:
 
-- quando viene riscontrato un errore nella aliquota IVA applicata, o nella base imponibile oppure nell‚Äôimposta;
+- quando viene riscontrato un errore nella aliquota IVA applicata, o nella base imponibile oppure nellíimposta;
 - quando viene riconosciuto al cliente uno sconto o un abbuono non riportato in fattura;
-- quando l‚Äôoperazione, per varie cause, viene resa nulla come ad esempio con la rescissione o l‚Äôannullamento del contratto di vendita.
+- quando líoperazione, per varie cause, viene resa nulla come ad esempio con la rescissione o líannullamento del contratto di vendita.
 
-La Nota di Variazione ha gli stessi requisiti della fattura e deve quindi essere regolarmente numerata e datata. La nota di variazione deve essere emessa, con riferimento all‚Äôoriginaria fattura, per la differenza dell‚Äôimporto risultante errato o concesso a titolo di sconto, ecc.
+La Nota di Variazione ha gli stessi requisiti della fattura e deve quindi essere regolarmente numerata e datata. La nota di variazione deve essere emessa, con riferimento allíoriginaria fattura, per la differenza dellíimporto risultante errato o concesso a titolo di sconto, ecc.
 
 Esistono due tipi di note di variazione che prendono rispettivamente il nome di Nota di Debito (o Addebito) e Nota di Credito (o Accredito); vediamole nel dettaglio.
 
-Nota di Debito ‚Äì Variazione in aumento
+Nota di Debito ñ Variazione in aumento
 --------------------------------------
-Nel caso in cui, dopo l‚Äôemissione della fattura o la sua registrazione, aumenta l‚Äôimponibile ai fini IVA dell‚Äôoperazione e la relativa imposta per qualsiasi motivo, incluso la correzione di errori o inesattezze, √® necessario, per mantenere la contabilit√† allineata con la situazione reale dell‚Äôoperazione o contratto, emettere questo documento che certifichi la variazione intervenuta. In questo modo saranno osservati correttamente gli adempimenti di fatturazione, registrazione, liquidazione e versamento delle imposte.
+Nel caso in cui, dopo líemissione della fattura o la sua registrazione, aumenta líimponibile ai fini IVA dellíoperazione e la relativa imposta per qualsiasi motivo, incluso la correzione di errori o inesattezze, Ë necessario, per mantenere la contabilit‡ allineata con la situazione reale dellíoperazione o contratto, emettere questo documento che certifichi la variazione intervenuta. In questo modo saranno osservati correttamente gli adempimenti di fatturazione, registrazione, liquidazione e versamento delle imposte.
 
 Alcuni esempi:
 
-- L‚Äôimporto fatturato non √® comprensivo di tutte le operazioni eseguite (merce in eccesso, prestazioni fatturate ad importi inferiori a quanto previsto da accordi, merci di natura e qualit√† diversa ecc.)
-- Uno sconto applicato per una particolare modalit√† di pagamento, poi variata in altra che ne prevede uno minore o nessuno sconto.
+- Líimporto fatturato non Ë comprensivo di tutte le operazioni eseguite (merce in eccesso, prestazioni fatturate ad importi inferiori a quanto previsto da accordi, merci di natura e qualit‡ diversa ecc.)
+- Uno sconto applicato per una particolare modalit‡ di pagamento, poi variata in altra che ne prevede uno minore o nessuno sconto.
 - Uno sconto applicato direttamente in fattura al Cliente per il rispetto di determinate condizioni contrattuali poi non rispettate.
 
 Ecco una Nota di Debito fatta con il programma `Amica Fatturazione`_:
 
 .. image:: img/NoteVariazione1.png
 
-Nota di Credito ‚Äì Variazione in diminuzione
+Nota di Credito ñ Variazione in diminuzione
 -------------------------------------------
-Quando, dopo l‚Äôemissione di regolare fattura a fronte di un‚Äôoperazione, questa viene meno in parte o del tutto, ovvero ne diminuisce l‚Äôimponibile, il cedente del bene (merci o simili) o il prestatore del servizio pu√≤ effettuare una variazione in diminuzione dell‚Äôimponibile con questo documento.
+Quando, dopo líemissione di regolare fattura a fronte di uníoperazione, questa viene meno in parte o del tutto, ovvero ne diminuisce líimponibile, il cedente del bene (merci o simili) o il prestatore del servizio puÚ effettuare una variazione in diminuzione dellíimponibile con questo documento.
 
-Per la nota di accredito non sono previsti specifici requisiti, pertanto essa assume l‚Äôaspetto di una fattura (frequentemente si utilizza lo stesso modulo delle fatture e si sostituisce la dicitura ‚Äúfattura‚Äù con ‚Äúnota di accredito‚Äù o similare). La Nota di Credito deve essere numerata e datata, deve contenere l‚Äôindicazione della variazione e della relativa imposta e i dati identificativi della fattura originaria a cui si riferisce.
+Per la nota di accredito non sono previsti specifici requisiti, pertanto essa assume líaspetto di una fattura (frequentemente si utilizza lo stesso modulo delle fatture e si sostituisce la dicitura ìfatturaî con ìnota di accreditoî o similare). La Nota di Credito deve essere numerata e datata, deve contenere líindicazione della variazione e della relativa imposta e i dati identificativi della fattura originaria a cui si riferisce.
 
 Alcuni esempi:
 
-- dichiarazione di nullit√†, annullamento, revoca, risoluzione, rescissione del contratto;
+- dichiarazione di nullit‡, annullamento, revoca, risoluzione, rescissione del contratto;
 - mancato ritiro della merce da parte cliente (ad esempio merce inviata con Corriere e respinta);
 - successiva applicazione di sconti o abbuoni previsti nel contratto originario;
 - correzione per mancati sconti concordati e non applicati in fase di fatturazione.
 
-Se le variazioni in diminuzione derivano da successivi accordi tra le parti o da rettifica di errori o inesattezze nella fatture, tali variazioni devono essere eseguite entro un anno dall‚Äôeffettuazione dell‚Äôoperazione, quindi dall‚Äôemissione dalla fattura per poter anche recuperare la parte di imposta (IVA) fatturata erroneamente. Se invece la Nota di Credito √® successiva ad un anno dall'emissione della fattura per l'operazione originale, il recupero dell'imposta non √® possibile e dovr√† essere utilizzata la causale di esclusione IVA esenzione prevista dalla normativa indicandola nel documento come "Escluso IVA art.26 dpr 633/72". Anche per questa condizione per√≤ esistono alcune eccezioni: se, ad esempio, la nota di credito deve essere effettuata per abbuoni o sconti previsti contrattualmente anche se √® trascorso l'anno la nota di credito si deve emettere con IVA.
+Se le variazioni in diminuzione derivano da successivi accordi tra le parti o da rettifica di errori o inesattezze nella fatture, tali variazioni devono essere eseguite entro un anno dallíeffettuazione dellíoperazione, quindi dallíemissione dalla fattura per poter anche recuperare la parte di imposta (IVA) fatturata erroneamente. Se invece la Nota di Credito Ë successiva ad un anno dall'emissione della fattura per l'operazione originale, il recupero dell'imposta non Ë possibile e dovr‡ essere utilizzata la causale di esclusione IVA esenzione prevista dalla normativa indicandola nel documento come "Escluso IVA art.26 dpr 633/72". Anche per questa condizione perÚ esistono alcune eccezioni: se, ad esempio, la nota di credito deve essere effettuata per abbuoni o sconti previsti contrattualmente anche se Ë trascorso l'anno la nota di credito si deve emettere con IVA.
 
 Vediamo un esempio di Nota di Credito realizzata con `Amica Fatturazione`_:
 
 .. image:: img/NoteVariazione2.png
 
 *************************************
-Autofattura: Cos‚Äô√® e Quando Emetterla
+Autofattura: CosíË e Quando Emetterla
 *************************************
-Proseguiamo la nostra analisi sulle tipologie di documenti di cui possiamo avere la necessit√† nella nostra gestione aziendale. Abbiamo visto come colui che presta un servizio o vende merce ha l‚Äôobbligo di emettere uno o pi√π documenti di rilievo fiscale. In questo capitolo vediamo un caso speciale, quello in cui √® il soggetto stesso che acquista il bene (o riceve la prestazione) ad emettere un documento comprovante l‚Äôoperazione. In questi casi il documento prende il nome di autofattura: una fattura che l‚Äôimprenditore (o il professionista) emette nei confronti di se stesso.
+Proseguiamo la nostra analisi sulle tipologie di documenti di cui possiamo avere la necessit‡ nella nostra gestione aziendale. Abbiamo visto come colui che presta un servizio o vende merce ha líobbligo di emettere uno o pi˘ documenti di rilievo fiscale. In questo capitolo vediamo un caso speciale, quello in cui Ë il soggetto stesso che acquista il bene (o riceve la prestazione) ad emettere un documento comprovante líoperazione. In questi casi il documento prende il nome di autofattura: una fattura che líimprenditore (o il professionista) emette nei confronti di se stesso.
 
-L‚Äôautofattura sostituisce la fattura, quindi in questi casi il venditore/prestatore del servizio non emetter√† alcun documento. Dal punto di vista pratico √® identica a una normale fattura, solo che destinatario e mittente sono la tessa persona, fisica o giuridica. Resta inteso che l‚Äôautofattura deve essere emessa solo nei casi espressamente previsti dalla legge, che vediamo subito di analizzare e capire meglio.
+Líautofattura sostituisce la fattura, quindi in questi casi il venditore/prestatore del servizio non emetter‡ alcun documento. Dal punto di vista pratico Ë identica a una normale fattura, solo che destinatario e mittente sono la tessa persona, fisica o giuridica. Resta inteso che líautofattura deve essere emessa solo nei casi espressamente previsti dalla legge, che vediamo subito di analizzare e capire meglio.
 
 Quando emettere Autofattura
 ---------------------------
-Vediamo i principali casi previsti dalla normativa nei quali occorre procedere all‚Äôemissione dell‚Äôautofattura:
+Vediamo i principali casi previsti dalla normativa nei quali occorre procedere allíemissione dellíautofattura:
 
 Autofattura per omaggi
 ^^^^^^^^^^^^^^^^^^^^^^
-I beni possono essere ceduti a titolo di Omaggio o cessione a titolo gratuito (sottostando alle normative fiscali che li regolano) senza emissione di fattura solo se l‚Äôimporto √® di valore inferiore a ‚Ç¨25,82. Nel caso l‚Äôimporto dell‚Äôomaggio sia di valore superiore l‚Äôimprenditore pu√≤ optare per alcune alternative:
+I beni possono essere ceduti a titolo di Omaggio o cessione a titolo gratuito (sottostando alle normative fiscali che li regolano) senza emissione di fattura solo se líimporto Ë di valore inferiore a Ä25,82. Nel caso líimporto dellíomaggio sia di valore superiore líimprenditore puÚ optare per alcune alternative:
 
-1. Emettere fattura, qualora intenda esercitare la rivalsa dell‚ÄôIVA nei confronti del cliente a cui ha fatto l‚Äôomaggio;
-2. Emettere autofattura qualora, come quasi sempre accade, non si eserciti la rivalsa dell‚ÄôIVA;
-3. Registrare l‚Äôomaggio nel Registro degli Omaggi.
+1. Emettere fattura, qualora intenda esercitare la rivalsa dellíIVA nei confronti del cliente a cui ha fatto líomaggio;
+2. Emettere autofattura qualora, come quasi sempre accade, non si eserciti la rivalsa dellíIVA;
+3. Registrare líomaggio nel Registro degli Omaggi.
 
 Autofattura per autoconsumo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-L‚Äôautoconsumo si verifica quando alcuni beni o materiali di consumo dell‚Äôazienda vanno a far parte del consumo personale o familiare dell‚Äôimprenditore, oppure nei casi di "svuotamento" dell‚Äôimpresa per cessazione attivit√†. Poich√© queste operazioni sono soggette ad imposizione IVA, deve essere emessa autofattura per gli importi dei beni utilizzati al di fuori delle finalit√† d‚Äôimpresa. Ad esempio se l‚Äôimpresa cessa l‚Äôattivit√† tutti i beni in suo possesso e non ceduti a terzi devono essere "girati" all‚Äôimprenditore ed auto fatturati al valore del prezzo di acquisto/di mercato oppure dei residui di bilancio (ammortamenti).
+Líautoconsumo si verifica quando alcuni beni o materiali di consumo dellíazienda vanno a far parte del consumo personale o familiare dellíimprenditore, oppure nei casi di "svuotamento" dellíimpresa per cessazione attivit‡. PoichÈ queste operazioni sono soggette ad imposizione IVA, deve essere emessa autofattura per gli importi dei beni utilizzati al di fuori delle finalit‡ díimpresa. Ad esempio se líimpresa cessa líattivit‡ tutti i beni in suo possesso e non ceduti a terzi devono essere "girati" allíimprenditore ed auto fatturati al valore del prezzo di acquisto/di mercato oppure dei residui di bilancio (ammortamenti).
 
 Autofattura per acquisti da non residenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Occorre emettere autofattura qualora siano acquistati beni o servizi da un fornitore che non ha in Italia una stabile organizzazione o un rappresentante (con l‚Äôeccezione di quando l‚ÄôIVA risulti gi√† da bolletta doganale). E‚Äô questo il caso della cosiddetta fatturazione in Reverse Charge, che √® sempre da applicare per acquisti Intracomunitari da aziende senza stabile organizzazione o rappresentante fiscale in Italia.
+Occorre emettere autofattura qualora siano acquistati beni o servizi da un fornitore che non ha in Italia una stabile organizzazione o un rappresentante (con líeccezione di quando líIVA risulti gi‡ da bolletta doganale). Eí questo il caso della cosiddetta fatturazione in Reverse Charge, che Ë sempre da applicare per acquisti Intracomunitari da aziende senza stabile organizzazione o rappresentante fiscale in Italia.
 
 Autofattura-Denuncia
 ^^^^^^^^^^^^^^^^^^^^
-Un caso molto speciale √® quello rappresentato dalla cosiddetta Autofattura-Denuncia. Se dopo 4 mesi dal compimento di una operazione rilevante ai fini IVA non si riceve la relativa fattura si rende necessario emettere autofattura in duplice copia. Dovranno essere esposti tutti gli elementi della fattura cos√¨ come la si sarebbe dovuta ricevere e la si dovr√† presentare, entro 30 giorni (quindi entro 5 mesi dall‚Äôoperazione), al‚ÄôUfficio IVA di competenza. La stessa procedura deve essere seguita nel caso in cui si riceva una fattura irregolare (√® questa l‚Äôunica ipotesi nella quale una fattura e un‚Äôautofattura documentano la medesima operazione). In questo caso per√≤ l‚Äôautofattura deve essere presentata all‚ÄôUfficio IVA entro 15 giorni dalla data della registrazione.
+Un caso molto speciale Ë quello rappresentato dalla cosiddetta Autofattura-Denuncia. Se dopo 4 mesi dal compimento di una operazione rilevante ai fini IVA non si riceve la relativa fattura si rende necessario emettere autofattura in duplice copia. Dovranno essere esposti tutti gli elementi della fattura cosÏ come la si sarebbe dovuta ricevere e la si dovr‡ presentare, entro 30 giorni (quindi entro 5 mesi dallíoperazione), alíUfficio IVA di competenza. La stessa procedura deve essere seguita nel caso in cui si riceva una fattura irregolare (Ë questa líunica ipotesi nella quale una fattura e uníautofattura documentano la medesima operazione). In questo caso perÚ líautofattura deve essere presentata allíUfficio IVA entro 15 giorni dalla data della registrazione.
 
 Altri casi di Autofattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -522,40 +570,40 @@ Altri casi meno frequenti, ma comunque da tenere in considerazione sono:
 ************************************
 Ricevuta Fiscale e Scontrino Fiscale
 ************************************
-In questo capitolo parliamo di Ricevuta Fiscale e Scontrino Fiscale e vediamo cosa sono, quando vanno emessi e chi √® tenuto ad emetterli.
+In questo capitolo parliamo di Ricevuta Fiscale e Scontrino Fiscale e vediamo cosa sono, quando vanno emessi e chi Ë tenuto ad emetterli.
 
 Ricevuta Fiscale e Scontrino Fiscale: obbligo generalizzato
 -----------------------------------------------------------
-Per la normativa italiana tutti i soggetti non obbligati all‚Äôemissione di fattura devono rilasciare Ricevuta Fiscale oppure Scontrino Fiscale. Questi soggetti sono obbligati all‚Äôemissione di fattura solo se richiesta preventivamente dal cliente come disposto dall‚Äôart. 12 comma 1 L. 413/91.
+Per la normativa italiana tutti i soggetti non obbligati allíemissione di fattura devono rilasciare Ricevuta Fiscale oppure Scontrino Fiscale. Questi soggetti sono obbligati allíemissione di fattura solo se richiesta preventivamente dal cliente come disposto dallíart. 12 comma 1 L. 413/91.
 
 Soggetti tenuti alla emissione di ricevuta fiscale/scontrino
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I principali soggetti non obbligati all‚Äôemissione della fattura, se non richiesta preventivamente dal cliente, sono indicati nell‚Äôart. 22 del `DPR 633/72`_:
+I principali soggetti non obbligati allíemissione della fattura, se non richiesta preventivamente dal cliente, sono indicati nellíart. 22 del `DPR 633/72`_:
 
 - Commercianti con autorizzazione di vendita al dettaglio;
 - Artigiani che vendono beni di propria produzione presso i laboratori (CM 32/501388-1973);
 - Soggetti che forniscono prestazioni alberghiere;
 - Soggetti che forniscono prestazioni di somministrazione di alimenti e bevande;
 - Imprese che prestano servizi in locali aperti al pubblico;
-- Imprese che prestano servizi nell‚Äôabitazione dei clienti o in forma ambulante;
+- Imprese che prestano servizi nellíabitazione dei clienti o in forma ambulante;
 - Imprese che effettuano trasporti di persone, veicoli e bagagli al seguito;
 - Istituti di credito per servizi di custodia di titoli e altri servizi;
 - Soggetti che effettuano talune operazioni esenti (assicurazioni, finanziamenti, affitti e locazioni.
 
-L‚Äôart. 2 e del DPR 696/1996 ha stabilito che dal 21.02.1997 non √® pi√π obbligatoria l‚Äôemissione di scontrino o di ricevuta fiscale se viene emessa fattura immediata, oppure in presenza di DDT o documenti di consegna idonei che permettano la fatturazione differita integrati con il corrispettivo dell‚Äôoperazione.
+Líart. 2 e del DPR 696/1996 ha stabilito che dal 21.02.1997 non Ë pi˘ obbligatoria líemissione di scontrino o di ricevuta fiscale se viene emessa fattura immediata, oppure in presenza di DDT o documenti di consegna idonei che permettano la fatturazione differita integrati con il corrispettivo dellíoperazione.
 
 Scontrino Fiscale
 -----------------
-L‚Äôimprenditore pu√≤ liberamente scegliere tra l‚Äôemissione dello scontrino e l‚Äôemissione della ricevuta, utilizzando l‚Äôuno o l‚Äôaltra anche nello stesso anno fiscale senza alcun problema. Qualora scelga lo scontrino vediamo quali sono le caratteristiche; uno scontrino corretto deve contenere:
+Líimprenditore puÚ liberamente scegliere tra líemissione dello scontrino e líemissione della ricevuta, utilizzando líuno o líaltra anche nello stesso anno fiscale senza alcun problema. Qualora scelga lo scontrino vediamo quali sono le caratteristiche; uno scontrino corretto deve contenere:
 
 1. denominazione/ragione sociale di chi lo emette;
 2. indirizzo del punto vendita;
 3. partita IVA;
-4. dati contabili dell‚Äôoperazione come corrispettivi, rimborsi, totale ecc.;
+4. dati contabili dellíoperazione come corrispettivi, rimborsi, totale ecc.;
 5. data, ora di emissione, numero progressivo;
 6. logotipo fiscale e numero di matricola del registratore.
 
-Lo scontrino deve essere emesso quando si consegna la merce, quando si completa la prestazione o quando si incassa il corrispettivo. Di norma lo scontrino pu√≤ essere digitato manualmente sul Registratore di Cassa oppure realizzato automaticamente con il collegamento a lettori di codice a barre e/o programmi gestionali che integrino le funzioni per l'emissione di scontrini. Nel programma `Amica 10`_ √® possibile compilare gli scontrini in un‚Äôapposita finestra, anche attraverso lettore di codice a barre, e poi procedere alla memorizzazione per lo scarico del magazzino. Collegando un registratore di cassa fiscalizzato √® anche possibile stampare direttamente lo scontrino. Qui sotto la finestra di emissione scontrini di `Amica 10`_.
+Lo scontrino deve essere emesso quando si consegna la merce, quando si completa la prestazione o quando si incassa il corrispettivo. Di norma lo scontrino puÚ essere digitato manualmente sul Registratore di Cassa oppure realizzato automaticamente con il collegamento a lettori di codice a barre e/o programmi gestionali che integrino le funzioni per l'emissione di scontrini. Nel programma `Amica 10`_ Ë possibile compilare gli scontrini in uníapposita finestra, anche attraverso lettore di codice a barre, e poi procedere alla memorizzazione per lo scarico del magazzino. Collegando un registratore di cassa fiscalizzato Ë anche possibile stampare direttamente lo scontrino. Qui sotto la finestra di emissione scontrini di `Amica 10`_.
 
 .. image:: img/RicevuteScontrini1.png
 
@@ -567,13 +615,13 @@ La ricevuta fiscale deve essere emessa in duplice esemplare utilizzando modelli 
 2. la numerazione 'fiscale' attribuita dalla tipografia autorizzata alla stampa ed i riferimenti alla relativa autorizzazione;
 3. la data di emissione;
 4. ragione sociale, sede legale, partita IVA ed indirizzo commerciale di chi la emette;
-5. descrizione dei beni o servizi, quantit√†, corrispettivi comprensivi di IVA,
+5. descrizione dei beni o servizi, quantit‡, corrispettivi comprensivi di IVA,
 
 Sotto vediamo un Fac-Simile di ricevuta fatta con il programma `Amica Fatturazione`_:
 
 .. image:: img/RicevuteScontrini2.png
 
-Basta una rapida occhiata per rendersi conto che la ricevuta fiscale √® un documento molto simile alla fattura, con i prezzi indicati IVA inclusa. 
+Basta una rapida occhiata per rendersi conto che la ricevuta fiscale Ë un documento molto simile alla fattura, con i prezzi indicati IVA inclusa. 
 
 .. _Blog: http://gestionaleamica.com/Blog
 .. _Newsletter: http://eepurl.com/dYI1f 
