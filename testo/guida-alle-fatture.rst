@@ -1,7 +1,7 @@
 ============
 Introduzione
 ============
-Questa Guida Alle Fatture è dedicata ai principianti che vogliono saperne di più sulla Fattura in tutte le sue forme: cosa è, quali tipologie esistono, come è composta e, naturalmente, come si compila. Nel corso della guida passeremo in rassegna tutti i documenti di fatturazione esistenti: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Partiremo dalle caratteristiche comuni a tutti questi documenti per poi scendere nel dettaglio, esaminando le peculitarità di ognuna di esse.
+Questa Guida Alle Fatture è dedicata ai principianti che vogliono saperne di più sulla Fattura in tutte le sue forme: cosa è, quali tipologie esistono, come è composta e, naturalmente, come si compila. Nel corso della guida passeremo in rassegna tutti i documenti di fatturazione esistenti: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Partiremo dalle caratteristiche comuni a tutti questi documenti per poi scendere nel dettaglio, esaminando le peculiarità di ognuna di esse.
 
 Non mancheranno argomenti più avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di iscrivervi alla Newsletter_, così da non perdervi i futuri articoli sull'argomento, pubblicati anche sul nostro seguitissimo Blog_.
 
@@ -370,20 +370,20 @@ Di seguito analizziamo alcuni casi che sono esemplificativi della maggior parte 
 L’avvocato
 ^^^^^^^^^^
 Il primo caso preso in esame è una categoria professionale che prevede la cassa previdenziale di categoria al 2% con inclusione di quest’ultima nell’imponibile (l’avvocato, per esempio).
-Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a questo dobbiamo aggiungere il contributo cassa di previdenza pari a €20,00 (2%), per un totale imponibile di €1.020,00. Si calcola l’IVA al 21% sull’imponibile, che è pari a €214,20. A questo punto va calcolata al ritenuta di acconto del 20% sull’imponibile della prestazione (esclusa quindi la cassa previdenziale), equivalente a €200,00 (20% di €1.000,00). Come evidenziato dalla tabella sotto il calcolo del netto a pagare, pari a €1.034,20, è presto fatto:
+Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a questo dobbiamo aggiungere il contributo cassa di previdenza pari a €20,00 (2%), per un totale imponibile di €1.020,00. Si calcola l’IVA al 22% sull’imponibile, che è pari a €224,40. A questo punto va calcolata al ritenuta di acconto del 20% sull’imponibile della prestazione (esclusa quindi la cassa previdenziale), equivalente a €200,00 (20% di €1.000,00). Come evidenziato dalla tabella sotto il calcolo del netto a pagare, pari a €1.044,40, è presto fatto:
 
 +----------------------------------------------------------------------+------------------------+ 
 | Imponibile prestazione                                               |              € 1.000,00| 
 +----------------------------------------------------------------------+------------------------+ 
 | Contributo Cassa di Previdenza 2%                                    |                 € 20,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| IVA 21% (su totale imponibile di €1.020,00)                          |                € 204,00| 
+| IVA 22% (su totale imponibile di €1.020,00)                          |                € 224,40| 
 +----------------------------------------------------------------------+------------------------+ 
 | Ritenuta acconto 20% su imponibile prestazione                       |                € 200,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Totale Fattura                                                       |              € 1.234,20| 
+| Totale Fattura                                                       |              € 1.244,40| 
 +----------------------------------------------------------------------+------------------------+ 
-| **Netto a pagare**                                                   |          **€ 1.034,20**|
+| **Netto a pagare**                                                   |          **€ 1.044,40**|
 +----------------------------------------------------------------------+------------------------+ 
 
 **NOTA BENE: il netto a pagare è calcolato come (imponibile prestazione + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
@@ -395,20 +395,20 @@ Qui sotto vediamo la Fattura dell'Avvocato (parcella) elaborata con l’ausilio di
 Il consulente informatico
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Il secondo caso preso in esame è una categoria professionale che non prevede la cassa previdenziale di categoria e deve quindi applicare la rivalsa INPS al 4%, con inclusione di quest’ultima sia nel calcolo dell’imponibile sia nel calcolo della Ritenuta di Acconto. Come esempio utilizziamo i consulenti informatici, che rientrano in questa categoria.
-Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a questo dobbiamo aggiungere la rivalsa INPS pari a €40,00 (4%), per un totale imponibile di €1.040,00. Si calcola l’IVA al 21% che è pari a €218,40. A questo punto va calcolata al ritenuta di acconto del 20% sul totale imponibile (rivalsa INPS inclusa), pari a €208,00 (20% di €1.040,00). La tabella qui sotto ci aiuta a determinare il netto a pagare, pari a €1.050,40:
+Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a questo dobbiamo aggiungere la rivalsa INPS pari a €40,00 (4%), per un totale imponibile di €1.040,00. Si calcola l’IVA al 22% che è pari a €228,80. A questo punto va calcolata al ritenuta di acconto del 20% sul totale imponibile (rivalsa INPS inclusa), pari a €208,00 (20% di €1.040,00). La tabella qui sotto ci aiuta a determinare il netto a pagare, pari a €1.060,80:
 
 +----------------------------------------------------------------------+------------------------+ 
 | Imponibile prestazione                                               |              € 1.000,00| 
 +----------------------------------------------------------------------+------------------------+ 
 | Contributo Cassa di Previdenza 4%                                    |                 € 40,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| IVA 21% (su totale imponibile di €1.040,00)                          |                € 218,40| 
+| IVA 22% (su totale imponibile di €1.040,00)                          |                € 228,80| 
 +----------------------------------------------------------------------+------------------------+ 
 | Ritenuta acconto 20% su imponibile prestazione                       |                € 208,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Totale Fattura                                                       |              € 1.258,40| 
+| Totale Fattura                                                       |              € 1.268,80| 
 +----------------------------------------------------------------------+------------------------+ 
-| **Netto a pagare**                                                   |          **€ 1.050,40**|
+| **Netto a pagare**                                                   |          **€ 1.060,80**|
 +----------------------------------------------------------------------+------------------------+ 
 
 **NOTA BENE: il netto a pagare è calcolato come (imponibile prestazione> + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
@@ -424,15 +424,15 @@ Il terzo caso è relativo a una categoria professionale speciale, dotata di una c
 +----------------------------------------------------------------------+------------------------+ 
 | Imponibile prestazione                                               |              € 2.000,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| IVA 21% (su totale imponibile di €1.040,00)                          |                € 420,00| 
+| IVA 22% (su totale imponibile di € 2.000,00)                         |                € 440,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Ritenuta Enassarco al 6,875% (13,75% su 50% dell'imponibile)         |                € 137,50| 
+| Ritenuta Enasarco al 6,875% (13,75% su 50% dell'imponibile)          |                € 137,50| 
 +----------------------------------------------------------------------+------------------------+ 
 | Ritenuta acconto (23% su 50% dell'imponibile)                        |                € 230,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| Totale Fattura                                                       |              € 2.420,00| 
+| Totale Fattura                                                       |              € 2.440,00| 
 +----------------------------------------------------------------------+------------------------+ 
-| **Netto a pagare**                                                   |          **€ 2.052,50**|
+| **Netto a pagare**                                                   |          **€ 2.072,50**|
 +----------------------------------------------------------------------+------------------------+ 
 
 **NOTA BENE: netto a pagare è calcolato come (imponibile prestazione + IVA - ritenuta Enasarco) - ritenuta di acconto.**
