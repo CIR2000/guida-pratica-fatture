@@ -590,6 +590,8 @@ I principali soggetti non obbligati all’emissione della fattura, se non richiest
 - Istituti di credito per servizi di custodia di titoli e altri servizi;
 - Soggetti che effettuano talune operazioni esenti (assicurazioni, finanziamenti, affitti e locazioni.
 
+Facendo un esempio: lo scontrino viene emesso dal panettiere che vende il pane (bene) nel proprio esercizio commerciale, la ricevuta viene emessa da una lavanderia alla consegna del capo lavato (servizio). Come linea generale (ma può essere derogata) lo scontrino viene emesso dagli esercizi commerciali per la vendita di beni, la ricevuta fiscale viene invece emessa dagli artigiani (o assimilabili) per la prestazione di un servizio.
+
 L’art. 2 e del DPR 696/1996 ha stabilito che dal 21.02.1997 non è più obbligatoria l’emissione di scontrino o di ricevuta fiscale se viene emessa fattura immediata, oppure in presenza di DDT o documenti di consegna idonei che permettano la fatturazione differita integrati con il corrispettivo dell’operazione.
 
 Scontrino Fiscale
@@ -607,6 +609,16 @@ Lo scontrino deve essere emesso quando si consegna la merce, quando si completa 
 
 .. image:: img/RicevuteScontrini1.png
 
+Sanzioni per mancata emissione di scontrino fiscale
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nell'ottica di una più efficace lotta all'evasione fiscale, negli ultimi anni sono state inasprite le sanzioni per la mancata emissione di scontrino fiscale ed in particolare è stata prevista anche la possibilità di sospensione temporanea dell'attività, misura molto pesante perchè impatta direttamente sul reddito dell'attività del commerciante. Vediamo ora in dettaglio le sanzione relative alla mancata emissione di scontrino fiscale.
+
+**Sanzione amministrativa:** la mancata emissione di scontrino fiscale configura un tentativo di evasione fiscale; la sanzione prevista ammonta al versamento del 100% dell’imposta evasa calcolata sul valore del prezzo di cessione del bene o servizio venduto e comunque non è mai inferiore a 516 euro. quindi di norma per scontrini di importo non particolarmente elevato la sanzione ammonta a 516 euro.
+
+**Sospensione dell'attività:** si tratta di una 'sanzione accessoria' che viene prevista in aggiunta alla sanzione amministrativa per i casi di reiterazione e consiste nella chiusura del negozio o laboratorio per un periodo variabile da 3 a 30 giorni consecutivi. La sospensione scatta dopo che viene accertata la mancata emissione di 4 scontrini nell'arco di 5 anni.
+
+**NOTA BENE:** la normativa parla di 4 scontrini e non di 4 verifiche, per cui basta non emettere 4 scontrini rilevati da ispettori in borghese nell'ambito della stessa verifica per incorrere nella sanzione accessoria.
+
 Ricevuta Fiscale
 ----------------
 La ricevuta fiscale deve essere emessa in duplice esemplare utilizzando modelli sostanzialmente conformi a quello approvato con DM 30.03.1992. La ricevuta fiscale deve contenere i seguenti dati:
@@ -621,7 +633,11 @@ Sotto vediamo un Fac-Simile di ricevuta fatta con il programma `Amica Fatturazio
 
 .. image:: img/RicevuteScontrini2.png
 
-Basta una rapida occhiata per rendersi conto che la ricevuta fiscale è un documento molto simile alla fattura, con i prezzi indicati IVA inclusa. 
+Basta una rapida occhiata per rendersi conto che la ricevuta fiscale è un documento molto simile alla fattura, con i prezzi indicati IVA inclusa.
+
+Aspetti civilistici
+^^^^^^^^^^^^^^^^^^^
+Sia lo scontrino che la ricevuta fiscale, oltre ad adempiere ai doveri fiscali del contribuente, rappresentano anche il documento che permette di far valere, ai fini civilistici, gli obblighi e gli accordi contrattuali, come ad esempio la decorrenza della garanzia su prodotti acquistati oppure la garanzia su qualità e durata di interventi tecnici di riparazione, oppure ancora certificare la data in cui si avvia un servizio con durata predefinita (ad esempio un abbonamento).
 
 .. _Blog: http://gestionaleamica.com/Blog
 .. _Newsletter: http://eepurl.com/dYI1f 
