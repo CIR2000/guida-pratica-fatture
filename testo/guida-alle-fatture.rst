@@ -554,7 +554,7 @@ L’autoconsumo si verifica quando alcuni beni o materiali di consumo dell’azienda
 
 Autofattura per acquisti da non residenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Occorre emettere autofattura qualora siano acquistati beni o servizi da un fornitore che non ha in Italia una stabile organizzazione o un rappresentante (con l’eccezione di quando l’IVA risulti già da bolletta doganale). E’ questo il caso della cosiddetta fatturazione in Reverse Charge, che è sempre da applicare per acquisti Intracomunitari da aziende senza stabile organizzazione o rappresentante fiscale in Italia.
+Occorre emettere autofattura qualora siano acquistati beni o servizi da un fornitore che non ha in Italia una stabile organizzazione o un rappresentante (con l’eccezione di quando l’IVA risulti già da bolletta doganale). E’ questo il caso della cosiddetta fatturazione in Reverse Charge, che è sempre da applicare per acquisti Intracomunitari da aziende senza stabile organizzazione o rappresentante fiscale in Italia. Il prossimo capitolo sarà dedicato a questo ampio ed interessante argomento.
 
 Autofattura-Denuncia
 ^^^^^^^^^^^^^^^^^^^^
@@ -566,6 +566,101 @@ Altri casi meno frequenti, ma comunque da tenere in considerazione sono:
 - Autofattura per acquisti da produttori agricoli o ittici in regime di esonero;
 - Autofattura per acquisti di rottami, carta da macero, ecc.;
 - Autofattura per acquisti di oro o argento industriale.
+
+*****************
+Il Reverse Charge
+*****************
+Il Reverse Charge è un meccanismo che comporta lo spostamento degli obblighi fiscali relativi all’IVA in capo al cessionario e non al cedente come avviene normalmente. L’obiettivo principale della fatturazione Reverse Charge è evitare le frodi IVA nelle quali A emette fattura a B, A incassa l’IVA da B, sparisce e non versa l’imposta (1° danno all’erario). B ignaro di tutto (oppure è consapevole ma fa il finto tonto) va a chiedere il rimborso dell’IVA, il più delle volte riuscendoci (2° danno all’erario).
+
+Dopo aver scoperto numerose frodi di questo tipo, l’erario stabilisce questo principio: siccome di A non mi fido mi scelgo B come debitore dell’imposta nei miei confronti perché lo ritengo più affidabile (di norma il terminale delle operazioni è una società che ha una ‘vita’ propria ed un mercato reale) e dunque si impone per legge che, per determinate operazioni, si debba applicare il meccanismo del Reverse Charge (art. 17 DPR 633/72). In pratica con tale meccanismo gli obblighi di A vengono “spostati” in capo a B, che diventerà, dopo la vendita dei prodotti acquistati, il debitore dell’IVA all’Erario.
+
+Applicazione del Reverse Charge
+-------------------------------
+L’applicazione del Reverse Charge è un meccanismo che progressivamente è stato esteso a molte operazioni che prima erano soggette alla normale disciplina IVA. La prima applicazione è stata la cessione di merci tra aziende di stati membri della Unione Europea fin dall’apertura delle frontiere con l’entrata in vigore del trattato di Schengen nel 1995. Le applicazioni precedenti erano residuali e poco rilevanti. Questi i principali campi di applicazione introdotti successivamente:
+
+- Dal 1°ottobre 2007 per le cessioni di immobili del terziario, con alcune esclusioni, entrano a far parte del meccanismo del Reverse Charge: più avanti in questo libro un approfondimento specifico.
+- Dal 1° aprile 2011 sono diventate operative le nuove regole che stabiliscono l’applicazione del meccanismo del Reverse Charge alle le cessioni di telefoni cellulari e microprocessori tra operatori del settore all’interno del territorio nazionale.
+- A partire dal 17 marzo 2012 l’applicazione del Reverse Charge è stato esteso anche alle prestazioni di servizi generiche da parte di fornitori UE ad imprese italiane ed analogamente da parte di imprese italiane a clienti UE: prima era regolamentata con il Reverse Charge solo la cessione di beni.
+
+Come Fatturare col Reverse Charge
+---------------------------------
+Una fattura gestita secondo le regole del Reverse Charge deve essere registrata secondo lo schema che vado a proporre e spiegare:
+
+1. Si integra la fattura con l’esposizione dell’IVA.
+2. Si registra la fattura nel registro acquisti.
+3. Si registra l’autofattura ex art. 17 c. 6 DPR 633/72 nel registro vendite per rendere l’operazione neutra ai fini IVA. E’ un movimento che deve avvenire solo ai fini IVA ma non ai fini del reddito. In questo modo gli obblighi IVA sono stati “invertiti” a carico dell’acquirente così come richiede la normativa vigente.
+
+Operativamente bisogna creare nel gestionale un apposito codice IVA analogo a quello utilizzato per registrare gli acquisti intracomunitari ed un conto transitorio dove far transitare le registrazioni.
+
+**Nota bene:** l’esempio si riferisce al Gestionale Amica ma è valido anche se usi un altro gestionale o se si fanno registrazioni a mano.
+
+Esempio di fatturazione col Reverse Charge
+------------------------------------------
+Una fattura da € 1.000 con codice di esenzione art. 17 va registrata con tre scritture contabili:
+
+Registrazione di Acquisto
+^^^^^^^^^^^^^^^^^^^^^^^^^
+- Fornitore in Avere per €1220 (il valore della fattura + IVA al 22%)
+- Costo in Dare € 1000 (il valore della fattura)
+- IVA Acquisti in Dare €220 (IVA calcolata sul valore della fattura)
+- Castelletto IVA come per una normale fattura di acquisto.
+
+.. image:: img/ReverseCharge1.png
+ 
+Registrazione di Vendita
+^^^^^^^^^^^^^^^^^^^^^^^^
+- Ricavi in Avere €1000 (valore della fattura)
+- Cliente (se stessi per autofattura) in Dare €1220 (valore della fattura + IVA al 22%)
+- IVA Vendite in Avere €220 (IVA calcolata sul valore della fattura)
+- Castelletto IVA come per una normale fattura di vendita.
+
+.. image:: img/ReverseCharge2.png 
+
+Registrazione Contabile
+^^^^^^^^^^^^^^^^^^^^^^^
+- Fornitore in Dare €220 (valore dell’IVA al 22%)
+- Cliente (se stessi per autofattura) in Avere €1220 (il valore della fattura con IVA)
+- Ricavi in Dare €1000 (Storno ricavo della registrazione n. 2)
+- Nessun castelletto IVA
+ 
+.. image:: img/ReverseCharge2.png 
+
+L’inversione contabile (obiettivo della legge) si realizza con l’emissione dell’autofattura perché in tal modo è il destinatario finale a corrispondere l’IVA all’Erario anziché il fornitore. Se non ci fosse stato Reverse Charge ci sarebbe stata una fattura con IVA e sarebbe stata pagata al fornitore: l'azienda l'avrebbe portata in detrazione ed il Fornitore l’avrebbe versata all’Erario; siccome è stato applicato il Reverse Charge entrambe le operazioni le fa il destinatario della merce: prima si porta l'IVA in detrazione con la fattura integrata e poi la si porta a debito con l’autofattura. Il risultato finale di tutto questo è che, avendo neutralizzato l’iva in acquisto, verrà versato l’intero ammontare dell’iva sulla vendita.
+
+Reverse Charge in campo Immobiliare – Come funziona
+---------------------------------------------------
+Dal 1°ottobre 2007 le cessioni di immobili per il settore terziario sono soggette al regime del Reverse Charge, con alcune esclusioni come vedremo più avanti.
+
+Le operazioni soggette al regime del Reverse Charge in campo immobiliare sono:
+
+- le vendite di immobili del terziario;
+- le vendite per le quali il cedente ha espressamente indicato nell’atto di compravendita l’opzione per l’imposizione ai fini IVA;
+
+Sono invece escluse dall’ambito di applicazione del Reverse Charge, e quindi dovranno continuare ad essere fatturate con IVA le seguenti operazioni:
+
+- le vendite di immobili terziario nuove (ceduti entro 4 anni dall’ultimazione della costruzione o della ristrutturazione);
+- le vendite di immobili terziario a persone fisiche;
+- le vendite di immobili terziario a soggetti con detraibilità IVA inferiore al 25% come ad esempio banche, assicurazioni, società finanziarie, società immobiliari con patrimoni residenziali ecc…
+- le vendite di aree edificabili;
+- le vendite di aree non edificabili;
+- le vendite di immobili abitativi;
+- gli apporti a fondi immobiliari di una pluralità di immobili prevalentemente locati.
+
+Registrazioni da effettuare
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vediamo adesso in pratica come si devono comportare dal punto di vista dei documenti fiscali e della loro registrazione i due soggetti coinvolti. Il Venditore (cedente) e l’acquirente (cessionario).
+
+**VENDITORE**
+
+Il venditore deve emettere la fattura senza l’applicazione dell’IVA, indicando la dicitura che la definisce soggetta al Reverse Charge: “operazione non soggetta ad IVA ai sensi dell’art. 17, comma 5 del D.P.R. n. 633 del 1972”.
+
+**Vantaggio:** il Venditore non sarà debitore d’imposta e pertanto non dovrà procedere al versamento dell’IVA.
+
+**ACQUIRENTE**
+
+L’acquirente dell’immobile, come sempre con l’applicazione di Reverse Charge, dovrà integrare la fattura con l’indicazione dell’aliquota IVA e della relativa imposta, registrare il documento integrato nel registro IVA delle fatture emesse indicando l’IVA integrata a debito, ed effettuare la stessa registrazione nel registro Acquisti ponendo l’IVA a credito.
+
+**Vantaggio:** l’acquirente non dovrà più pagare l’IVA in fase di acquisto e quindi non dovrà più finanziare l’IVA con un conseguente risparmio di oneri finanziari in caso di mutuo o finanziamento.
 
 ************************************
 Ricevuta Fiscale e Scontrino Fiscale
