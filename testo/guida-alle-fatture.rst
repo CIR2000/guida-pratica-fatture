@@ -311,7 +311,7 @@ La fattura immediata, come indica il nome stesso, deve essere emessa e consegnat
 
 La fattura per regola viene considerata emessa all’atto della sua consegna o spedizione all’altra parte; non esiste obbligo di verificare la ricezione. L’emissione di fattura immediata per la cessione di beni/servizi consente di evitare il rilascio della ricevuta fiscale o dello scontrino come previsto dall’articolo 3, comma 2 del DPR 21 dicembre 1996 n° 696. Per avere questo esonero, la fattura deve essere rilasciata contestualmente alla consegna dei beni o all’ultimazione dei servizi, cioè nei termini entro cui sarebbe scattato l’obbligo della certificazione fiscale (scontrino o ricevuta fiscale).
 
-La fattura immediata non ha obblighi aggiuntivi rispetto alle informazioni standard (gli Elementi di Base) che abbiamo indicato nei capitoli precedenti.
+La fattura immediata non ha obblighi aggiuntivi rispetto alle informazioni standard (gli Elementi di Base) che abbiamo indicato nei capitoli precedenti. Questa tipologia di documento, spesso chiamata anche solo 'Fattura' è il tipo di documento più flessibile e quindi di norma adattabile a tutte le situazioni. 
 
 Fattura Differita
 -----------------
@@ -441,7 +441,7 @@ Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con l
 
 .. image:: img/FatturaProfessionisti3.png
 
-Minimi e massimi Enasarco
+Minimali e massimimali Enasarco
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Per quanto riguarda il contributo Enasarco è importante ricordare l’esistenza dei minimi e massimi. A seconda che l’Agente sia Monomandatario oppure Plurimandatario sono previsti dei minimi e massimi di contribuzione ai quali ditte mandanti e Agenti sono tenuti ad adeguarsi. Fare riferimento al  sito Enasarco per la verifica, in quanto questi valori vengono stabiliti periodicamente dall’Ente stesso. Le pagine `Contributo Minimo (minimale) <http://enasarco.it/Guida/contributo_minimo_annuo_minimale>`_ e `Contributo Massimo (massimale)  <http://enasarco.it/Guida/contributo_massimo_annuo_massimale>`_ consentono di visualizzare le tabelle con i minimi e massimi e di trovare documentazione aggiornata su come effettuare i calcoli.
 
@@ -498,9 +498,9 @@ Esistono due tipi di note di variazione che prendono rispettivamente il nome di 
 
 Nota di Debito – Variazione in aumento
 --------------------------------------
-Nel caso in cui, dopo l’emissione della fattura o la sua registrazione, aumenta l’imponibile ai fini IVA dell’operazione e la relativa imposta per qualsiasi motivo, incluso la correzione di errori o inesattezze, è necessario, per mantenere la contabilità allineata con la situazione reale dell’operazione o contratto, emettere questo documento che certifichi la variazione intervenuta. In questo modo saranno osservati correttamente gli adempimenti di fatturazione, registrazione, liquidazione e versamento delle imposte.
+Nel caso in cui, dopo l’emissione della fattura o la sua registrazione, aumenta l’imponibile ai fini IVA dell’operazione e la relativa imposta per qualsiasi motivo, incluso la correzione di errori o inesattezze, è necessario, per mantenere la contabilità allineata con la situazione reale dell’operazione o contratto, emettere questo documento che certifichi la variazione intervenuta. Seguendo quanto previsto dal suddetto art. 26, l’emissione della nota di debito è un obbligo a carico del contribuente. Naturalmente la sua emissione, se resa necessaria a causa dell’irregolarità della fattura originale, non esonera dal rischio di sanzioni. Si potrà fare ricorso al ravvedimento operoso (art. 13 del D.L. 472/97) per evitarle. Per le note di debito, poiché per l’erario sono un aumento di imposta, la legge non ha posto limiti di tempo per la loro emissione. Andranno ovviamente osservati correttamente gli adempimenti di fatturazione, registrazione, liquidazione e versamento delle imposte.
 
-Alcuni esempi:
+Alcuni esempi in cui serve emettere Nota di Debito:
 
 - L’importo fatturato non è comprensivo di tutte le operazioni eseguite (merce in eccesso, prestazioni fatturate ad importi inferiori a quanto previsto da accordi, merci di natura e qualità diversa ecc.)
 - Uno sconto applicato per una particolare modalità di pagamento, poi variata in altra che ne prevede uno minore o nessuno sconto.
@@ -514,7 +514,7 @@ Nota di Credito – Variazione in diminuzione
 -------------------------------------------
 Quando, dopo l’emissione di regolare fattura a fronte di un’operazione, questa viene meno in parte o del tutto, ovvero ne diminuisce l’imponibile, il cedente del bene (merci o simili) o il prestatore del servizio può effettuare una variazione in diminuzione dell’imponibile con questo documento.
 
-Per la nota di accredito non sono previsti specifici requisiti, pertanto essa assume l’aspetto di una fattura (frequentemente si utilizza lo stesso modulo delle fatture e si sostituisce la dicitura “fattura” con “nota di accredito” o similare). La Nota di Credito deve essere numerata e datata, deve contenere l’indicazione della variazione e della relativa imposta e i dati identificativi della fattura originaria a cui si riferisce.
+Per la nota di accredito non sono previsti specifici requisiti, pertanto essa assume l’aspetto di una fattura (frequentemente si utilizza lo stesso modulo delle fatture e si sostituisce la dicitura “fattura” con “nota di accredito” o similare). La Nota di Credito deve essere numerata seguendo la stessa progressione delle fatture e datata correttamente, deve contenere l’indicazione della variazione e della relativa imposta e i dati identificativi della fattura originaria a cui si riferisce.
 
 Alcuni esempi:
 
@@ -522,12 +522,54 @@ Alcuni esempi:
 - mancato ritiro della merce da parte cliente (ad esempio merce inviata con Corriere e respinta);
 - successiva applicazione di sconti o abbuoni previsti nel contratto originario;
 - correzione per mancati sconti concordati e non applicati in fase di fatturazione.
+- prestazione concordata non svolta completamente o correttamente
+- errori nel calcolo dell’imposta, dell’imponibile o di entrambi
+- reso di materiali difettosi non sostituibili
+- accordi di reso di cui si verificano le condizioni
 
-Se le variazioni in diminuzione derivano da successivi accordi tra le parti o da rettifica di errori o inesattezze nella fatture, tali variazioni devono essere eseguite entro un anno dall’effettuazione dell’operazione, quindi dall’emissione dalla fattura per poter anche recuperare la parte di imposta (IVA) fatturata erroneamente. Se invece la Nota di Credito è successiva ad un anno dall'emissione della fattura per l'operazione originale, il recupero dell'imposta non è possibile e dovrà essere utilizzata la causale di esclusione IVA esenzione prevista dalla normativa indicandola nel documento come "Escluso IVA art.26 dpr 633/72". Anche per questa condizione però esistono alcune eccezioni: se, ad esempio, la nota di credito deve essere effettuata per abbuoni o sconti previsti contrattualmente anche se è trascorso l'anno la nota di credito si deve emettere con IVA.
+Le dovute rettifiche per i casi sopra specificati possono essere effettuate tramite una “nota di credito” per le rettifiche in diminuzione dell’imponibile rispetto alla fattura originale.
 
-Vediamo un esempio di Nota di Credito realizzata con `Amica Fatturazione`_:
+A differenza delle note di debito, per le note di credito non è previsto l’obbligo di emissione. La mancanza di tale obbligo è facilmente spiegabile in considerazione del fatto che tale diritto è solo posto a tutela del contribuente che ha emesso una fattura con un imponibile e/o un’imposta superiore a quelli corretti, quindi il mantenimento di questa situazione non genera nessun danno all’erario (a parte le operazioni non imponibili che rientrano nel calcolo del plafond per gli esportatori abituali).
+
+Nell’articolo 26 della Legge IVA sono regolamentate le note di credito e le regole a cui sottostare per la loro completa regolarità. La norma generale prevede che tutte le note di credito debbano essere emesse entro un anno dalla “effettuazione dell’operazione” (di norma l’emissione della fattura relativa ad una fornitura e/o ad una prestazione) qualora la variazione dell’imponibile derivi da un sopravvenuto accordo tra le parti.
+
+Sono però espressamente previsti alcuni casi in cui limite di un anno è superato e non ci sono limiti di tempo per l’emissione:
+
+- situazioni che portano alla nullità, all’annullamento, alla revoca, alla risoluzione, alla rescissione e similari della cessione/prestazione (se non derivanti da sopravvenuto accordo tra le parti);
+- la presenza di sconti e abbuoni già previsti nel contratto originale (e quindi non accordati in un tempo successivo);
+- mancato pagamento (totale o parziale) a seguito di procedure concorsuali o di procedure esecutive non andate a buon fine
+
+Fin qui quanto esplicitamente previsto dalla legge. Esistono però alcune situazioni che nel tempo sono state oggetto di risoluzioni e risposte a interpellanze da parte dell’Agenzia delle Entrate, che hanno legittimato altri casi in cui è possibile emettere note di credito senza limitazioni temporali. Sarebbe complesso farne una trattazione dettagliata, ma riporto i casi più diffusi nei quali ci si può imbattere:
+
+- Conversione di decreti legge (risoluzione n. 106 del 21/05/2007);
+- la vendita ai sensi dell’ art. 1401 c.c. (risposta a istanza di interpello n. 909-20845 del 09/05/2002);
+- agevolazione prima casa (risoluzione n. 187 del 7/12/2000);
+- fattura in sospensione di imposta emesse ad enti pubblici (risoluzione n. 75 del 5/3/2002)
+
+Vediamo ora di analizzare in specifico questi quattro casi proposti.
+
+CONVERSIONE DI DECRETI LEGGE
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Durante il processo legislativo dei decreti legge può accadere che una norma prevista in un decreto venga poi annullata, del tutto o parzialmente, o comunque modificata dalla Legge di conversione. In questo caso l’Agenzia delle Entrate (RM 106/07) ha riconosciuto la possibilità di emettere note di credito in conformità con le nuove normative senza limiti di tempo.
+
+VENDITA AI SENSI DELL’ ART. 1401 C.C.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Un caso piuttosto frequente nelle compravendite immobiliari è stipulare il “preliminare di acquisto” ai sensi dell’art. 1401 del c.c., cioè indicando quale acquirente un generico “persona da nominare” oppure un nominativo che non sarà poi l’effettivo acquirente. Al momento del rogito notarile verrà poi indicato l’acquirente definitivo. L’Agenzia delle Entrate, in risposta ad interpellanza, ha precisato che in questo caso possono essere emesse note di variazione senza limiti di tempo, annullando quindi le fatture fatte in precedenza, in modo tale da riemetterle a favore dell’acquirente reale successivamente nominato ed individuato.
+
+AGEVOLAZIONE PRIMA CASA
+^^^^^^^^^^^^^^^^^^^^^^^
+La RM 187/00 ha consentito la nota di credito senza limiti di tempo nel caso in cui l’acquirente o committente abbia ottenuto i requisiti necessari per accedere alle agevolazioni prima casa, prima della stipula notarile o alla consegna dell’abitazione, nella fattispecie l’accesso all’IVA agevolata del 4% in luogo del 10% precedentemente fatturato per acconti, caparre e quant’altro.
+
+FATTURA IN SOSPENSIONE DI IMPOSTA EMESSE AD ENTI PUBBLICI
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Per le operazioni effettuate nei confronti dello Stato e degli altri soggetti individuati dal comma 5 dell’art. 6 del D.P.R. 26 ottobre 1972, n. 633 (enti pubblici assimilabili), la RM n. 75/02 ha consentito senza limite di tempo l’effettuazione delle note di credito nelle ipotesi di mancato pagamento in tutto o in parte del corrispettivo. Il tutto è legittimato dal fatto che queste sono operazioni con IVA ad “esigibilità differita”. Ciò significa che l’IVA diviene esigibile per l’erario solo all’atto del pagamento del corrispettivo da parte dell’amministrazione pubblica. Così, in caso di mancato pagamento totale o parziale del corrispettivo (per sopravvenuto accordo tra le parti, per annullamento della fattura emessa per errore, ovvero per riduzione del corrispettivo) l’imposta non diviene esigibile benché l’operazione sia stata fatturata. In tale ipotesi sarà dunque possibile emettere la nota credito a favore del cessionario anche oltre l’anno dall’emissione della fattura, in quanto in questo specifico caso la limitazione temporale è irrilevante ai fini dell’imposta che non verrebbe comunque versata dal contribuente. In questo caso la nota di credito in questione assume una funzione sostanzialmente contabile.
+
+Nella risoluzione viene anche precisato che, qualora il cedente o il prestatore abbia invece optato per l’esigibilità immediata dell’imposta, non avvalendosi dunque del vantaggio di esigibilità differita previsto, eventuali successive note di credito correlate all’operazione, potranno essere effettuate entro il termine previsto dall’articolo 26 della legge IVA.
+
+Vediamo infine un esempio di Nota di Credito realizzata con `Amica Fatturazione`_:
 
 .. image:: img/NoteVariazione2.png
+
 
 *************************************
 Autofattura: Cos’è e Quando Emetterla
