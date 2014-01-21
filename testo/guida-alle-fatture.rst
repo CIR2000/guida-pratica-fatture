@@ -113,7 +113,7 @@ In caso di utilizzo di sistemi per l’acquisizione ottica, fotografica o altra te
 
 Riepilogo
 ---------
-Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
+Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. Sono le conoscenze di base comuni a tutte le tipologie di fattura che bisogna sempre tenere presenti al fine di non commettere errori nella compilazione delle proprie fatture.  A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
 
 *******************************
 Il Documento di Trasporto (DDT)
@@ -298,7 +298,14 @@ Per la consegna del campionario all’agente la ditta mandante emetterà un DDT con
 
 Documento di trasporto e guardia di finanza – i controlli su strada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I controlli dei trasporti su strada spettano esclusivamente alla Guardia di Finanza, che deve verificare la corrispondenza di quanto risultante dal DDT (o dichiarato dal conducente) con le risultanze rffettive; successivamente la GdF o l’Ufficio Iva potranno verificare l’eventuale corretta fatturazione.
+I controlli dei trasporti su strada spettano esclusivamente alla Guardia di Finanza, che deve verificare la corrispondenza di quanto risultante dal DDT (o dichiarato dal conducente) con le risultanze effettive; successivamente la GdF o l’Ufficio Iva potranno verificare l’eventuale corretta fatturazione.
+
+Riepilogo
+---------
+Il DDT, come abbiamo potuto vedere, è un documento che ricopre molti aspetti sia fiscali che civilistici. E’ molto importante per molte aziende, come ad esempio quelle che consegnano merce più volte al mese e fanno poi fattura riepilogativa. Nella realizzazione di un DDT va posta particolare attenzione al fine di evitare sanzioni visto che è il documento che spesso viene controllato su strada dalla Guardia di Finanza.
+
+**Consiglio:** utilizzate sempre un DDT quando spostate merci, macchinari o attrezzature (salvo i casi di attrezzi specifici per il lavoro degli artigiani) perché è il miglior modo per vincere la ‘presunzione di cessione’ in caso di controlli. Le sanzioni possono anche essere salate.
+
 
 *********************************************
 Fattura Immediata, Differita, Accompagnatoria
@@ -332,6 +339,12 @@ Vediamone ora un esempio in quanto si tratta del tipo di fattura più complesso, 
 .. image:: img/TipologiaFattura2.png
 
 Essendo una fattura conterrà quindi tutti gli elementi IVA con i relativi riepiloghi per aliquota. Tuttavia, dovendo anche ‘sostituire’ il DDT, conterrà gli elementi relativi al trasporto come il Vettore, il peso, il numero colli, ecc. Ovviamente gli elementi obbligatori per ognuna delle due tipologie di documenti lo sono anche per la Fattura Accompagnatoria.
+
+Riepilogo
+---------
+Abbiamo analizzato in questo capitolo le tipologie di fattura usate comunemente nelle aziende sia commerciali che di servizi. Vi invito a porre particolare attenzione alla scelta del tipo di documento corretto sulla base della vostra operatività ed all’uso corretto delle aliquote iva per i vari prodotti/servizi che vendete. 
+
+**Consiglio:** poiché anche la fattura come molte altre comunicazioni aziendali è rappresentativa della vostra immagine, vi consiglio di curarne in modo attento l’aspetto grafico e gli elementi di comunicazione delle informazioni. Mi è capitato spesso di vedere aziende con carta intestata e logo bellissimi e fatture dall’aspetto poco curato e spesso proprio ‘brutte’ da vedere. Di norma non conservo una buona opinione di queste aziende. Ricordate che la fattura a volte può essere anche uno strumento di marketing per fare attività cosiddetta di ‘branding’ cioè di comunicazione di immagine, prodotti e marchi.
 
 *********************************
 Fatture Professionisti e Parcelle
@@ -442,8 +455,14 @@ Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con l
 .. image:: img/FatturaProfessionisti3.png
 
 Minimali e massimimali Enasarco
-^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Per quanto riguarda il contributo Enasarco è importante ricordare l’esistenza dei minimi e massimi. A seconda che l’Agente sia Monomandatario oppure Plurimandatario sono previsti dei minimi e massimi di contribuzione ai quali ditte mandanti e Agenti sono tenuti ad adeguarsi. Fare riferimento al  sito Enasarco per la verifica, in quanto questi valori vengono stabiliti periodicamente dall’Ente stesso. Le pagine `Contributo Minimo (minimale) <http://enasarco.it/Guida/contributo_minimo_annuo_minimale>`_ e `Contributo Massimo (massimale)  <http://enasarco.it/Guida/contributo_massimo_annuo_massimale>`_ consentono di visualizzare le tabelle con i minimi e massimi e di trovare documentazione aggiornata su come effettuare i calcoli.
+
+Riepilogo
+---------
+Il documento del Professionista per certificare fiscalmente i compensi ricevuti. Attraverso questo documento, oltre agli importi per i servizi e le prestazioni  rese, vengono anche certificate le rivalse per le casse previdenziali previste per legge, vengono aggiunti i recuperi di spese sostenute per conto del cliente (bolli, vidimazioni e altro) e viene evidenziata la ritenuta di acconto che le aziende clienti devono versare come sostituto di imposta.
+
+**Consiglio:** porre molta attenzione ai calcoli di iva e ritenuta di acconto perché, a seconda della tipologia professionale, variano, come abbiamo visto negli esempi del capitolo.
 
 *****************
 Fattura Pro Forma
@@ -482,6 +501,12 @@ Tecnicamente la fattura pro forma è molto simile alla fattura che poi si andrà a
 Al momento del pagamento da parte del cliente, o comunque al momento dell’emissione della fattura reale, il gestionale Amica rende l’operazione facile e veloce: è infatti sufficiente richiamare la fattura pro forma in una nuova fattura (ad esempio accompagnatoria) ed il gioco è fatto: la fattura definitiva è pronta senza dover rifare il lavoro. Nell’esempio vediamo quanto sia semplice il processo di importazione:
 
 .. image:: img/FatturaProforma2.png
+
+Riepilogo
+---------
+Questo è lo strumento che permette al professionista di anticipare al cliente gli importi da pagare ed emettere la fattura vera e propria solo dopo aver incassato quanto richiesto. In questo modo gli obblighi fiscali relativi all’emissione di una fattura, versamento iva in primis, verranno adempiuti solo dopo aver incassato il denaro dal cliente in modo da non doversi esporre anticipando versamenti di imposte se il cliente non effettuata il pagamento in modo puntuale; è una facoltà concessa dalla legge ai professionisti.
+
+**Consiglio:** evidenziate bene che si tratta di una fattura proforma (a volte si utilizza anche la dicitura preavviso di parcella) per non rischiare di ricadere nella presunzione di emissione di fattura con tutti gli adempimenti connessi e le relative sanzioni conseguenti.
 
 *******************************************************
 Le Note di Variazione: Nota di Credito e Nota di Debito
@@ -570,6 +595,11 @@ Vediamo infine un esempio di Nota di Credito realizzata con `Amica Fatturazione`
 
 .. image:: img/NoteVariazione2.png
 
+Riepilogo
+---------
+**Maneggiare con cura le Note di Credito.** Si tratta di un documento che diminuisce l’ammontare dei ricavi aziendali per cui è sempre valutato con grande attenzione dagli addetti in cado di controllo fiscale, per cui bisogna sempre che ci siano valide motivazioni per la sua emissione, meglio se accompagnate da documentazione tipo l’interscambio di comunicazioni tra azienda e cliente per un reso di merce difettosa o per un reso per sostituzione della merce o quant’altro.
+
+**Consiglio:** fate davvero grande attenzione ai casi in cui la Nota di Credito può essere emessa recuperando l’iva ed ai casi in cui l’iva viene invece ‘persa’ per motivi legati alla normativa. Rileggete bene il paragrafo in cui spiego i casi in cui è ammesso emettere una Nota di Credito con iva e quando invece DEVE essere emessa con esclusione iva Art 26 e le precisazioni nel tempo fatte da Agenzia delle Entrate.
 
 *************************************
 Autofattura: Cos’è e Quando Emetterla
@@ -608,6 +638,11 @@ Altri casi meno frequenti, ma comunque da tenere in considerazione sono:
 - Autofattura per acquisti da produttori agricoli o ittici in regime di esonero;
 - Autofattura per acquisti di rottami, carta da macero, ecc.;
 - Autofattura per acquisti di oro o argento industriale.
+
+Riepilogo
+---------
+Molte volte sentendo parlare di autofattura ci si stupisce, la si considera un controsenso  o si pensa a qualche strano artificio. In questo capitolo abbiamo visto invece come ci sono svariate casistiche comuni nella vita aziendale in cui questo tipo di documento diventa necessario per i corretti adempimenti fiscali.
+
 
 *****************
 Il Reverse Charge
@@ -704,6 +739,10 @@ L’acquirente dell’immobile, come sempre con l’applicazione di Reverse Charge, do
 
 **Vantaggio:** l’acquirente non dovrà più pagare l’IVA in fase di acquisto e quindi non dovrà più finanziare l’IVA con un conseguente risparmio di oneri finanziari in caso di mutuo o finanziamento.
 
+Riepilogo
+---------
+Abbiamo terminato questo complesso argomento cercando di spiegare in modo semplice ma completo come funziona, con anche cenni dal punto di vista puramente contabile; dovreste adesso essere in grado di completare tutti gli adempimenti necessari, dall’integrazione dell’iva sulla fattura del fornitore all’emissione dell’autofattura.
+
 ************************************
 Ricevuta Fiscale e Scontrino Fiscale
 ************************************
@@ -775,6 +814,11 @@ Basta una rapida occhiata per rendersi conto che la ricevuta fiscale è un docume
 Aspetti civilistici
 ^^^^^^^^^^^^^^^^^^^
 Sia lo scontrino che la ricevuta fiscale, oltre ad adempiere ai doveri fiscali del contribuente, rappresentano anche il documento che permette di far valere, ai fini civilistici, gli obblighi e gli accordi contrattuali, come ad esempio la decorrenza della garanzia su prodotti acquistati oppure la garanzia su qualità e durata di interventi tecnici di riparazione, oppure ancora certificare la data in cui si avvia un servizio con durata predefinita (ad esempio un abbonamento).
+
+Riepilogo
+---------
+Lo Scontrino Fiscalee la Ricevuta Fiscale sono i due documenti di certificazione degli incassi da soggetti senza partita iva per i commercianti al dettaglio (scontrino) e per gli artigiani (ricevuta fiscale).  Il commerciante dovrà dotarsi di Registratore di Cassa mentre l’artigiano di Ricevute Fiscali con il numero progressivo prestampato.
+
 
 .. _Blog: http://gestionaleamica.com/Blog
 .. _Newsletter: http://eepurl.com/dYI1f 
