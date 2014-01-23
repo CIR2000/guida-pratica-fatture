@@ -115,6 +115,28 @@ Riepilogo
 ---------
 Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. Sono le conoscenze di base comuni a tutte le tipologie di fattura che bisogna sempre tenere presenti al fine di non commettere errori nella compilazione delle proprie fatture.  A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
 
+Domande Frequenti
+-----------------
+**Domanda** Volevo sapere se le generalità del cliente sono obbligatorie su tutte le pagine della fattura o possono essere stampate solo sull’ultima pagina, come ad esempio il totale fattura, l’imponibile ecc ecc
+
+**Risposta** Le generalità del cliente devono essere riportate in ogni pagina.
+
+**Domanda** Volevo sapere se la fattura deve contenere obbligatoriamente l’intera descrizione del DDT o si può semplicemente riportare il riferimento al documento di trasporto che verrà allegato.
+
+**Risposta** No, non deve contenere l’intera descrizione, basta il riferimento al DDT di consegna.
+
+**Domanda** In termini legali, nel documento occorre specificare se la fattura è immediata o accompagnatoria o differita o basta la dicitura ”fattura”?
+
+**Risposta** Non c’è un obbligo specifico ma è meglio indicarlo, anche se la sola dicitura ‘Fattura’ è sufficiente ad identificare una fattura immediata.
+
+**Domanda** L’eventuale sconto applicato può essere solo uno sull’importo finale o deve essere specificato per quali beni è applicato?
+
+**Risposta** Puoi applicare uno sconto (anche diverso) per ogni articolo della fattura oppure uno ‘generale’ valido per tutti gli articoli presenti.
+
+**Domanda** Sulla fattura non è obbligatorio indicare il dato del registro imprese? il numero rea, il capitale eventualmente versato?
+
+**Risposta** Ci sono alcuni dati obbligatori per ‘tutti’. Il numero di iscrizione al registro imprese non è obbligatorio per ditte individuali così come per le stesse non esiste un capitale sociale. Di conseguenza l’obbligo di indicare certi dati è conseguente al tipo di impresa e non alla fattura in se. Infatti esistono fatture perfettamente regolari con e senza quei dati come spiegato in questa sezione.
+
 *******************************
 Il Documento di Trasporto (DDT)
 *******************************
@@ -306,6 +328,34 @@ Il DDT, come abbiamo potuto vedere, è un documento che ricopre molti aspetti sia
 
 **Consiglio:** utilizzate sempre un DDT quando spostate merci, macchinari o attrezzature (salvo i casi di attrezzi specifici per il lavoro degli artigiani) perché è il miglior modo per vincere la ‘presunzione di cessione’ in caso di controlli. Le sanzioni possono anche essere salate.
 
+Domande Frequenti
+-----------------
+**Domanda** Posso emettere in un unico DDT merce in conto lavorazione e vendita? In questo caso nella causale di trasporto cosa metto?
+
+**Risposta** In questo caso è meglio fare i due DDT separati sia per chiarezza sia per gestire una causale del trasporto univoca, certa e non ambigua.
+
+**Domanda** Cortesemente i blocchi di DDT debbono essere vidimati/bollati, oppure possono essere utilizzati dopo il loro acquisto (tipo Buffetti)
+
+**Risposta** Il DDT è redatto in carta semplice quindi nessuna vidimazione o numeri prestampati tipo le vecchie bolle di accompagnamento. I modelli Buffetti vanno benissimo.
+
+**Domanda** Una volta emesso un DDT può essere modificato a penna? Ad esempio stampo un ddt con il numero seriale di un componente e successivamente lo modifico a penna, prima del trasporto, posso farlo? Inoltre il ddt può anche essere redatto a penna? Perdonami ma non riesco a documentarmi e volevo essere sicuro su come sia regolato ad oggi il DDT.
+
+**Risposta** Si puoi correggerlo a penna purchè la correzione sia (ovviamente) riportata su tutte le copie. Puoi anche compilarlo a penna, nessuna legge può (ad oggi) obbligarti a farlo con un PC, anche ser motivi di tempo, leggibilità e rintracciabilità elettronica è molto conveniente.
+
+**Domanda** Se una ditta produce fiori in una serra e li trasporta al luogo di vendita con un camion di proprietà, la merce deve essere accompagnata da documento di trasporto?
+**Risposta** Sì il DDT per trasporto merce da due sedi della stessa azienda è comunque necessario.
+
+**Domanda** Siamo un’azienda produttrice ed effettuiamo lavorazioni per c/terzi, ricevendo merce in c/lavorazione, al momento della spedizione del prodotto finito, qual’è la giusta causale da inserire sul DDT?
+
+**Risposta** La causale è ‘Reso da c/lavorazione’.
+
+**Domanda** Sono impiegata in una ditta che utilizza DDT in tre copie per abitudine. Vorrei sapere se esiste l’obbligatorietà di pinzare la seconda copia (quella firmata dal cliente) alla relativa fattura (differita) e nel caso di un controllo fiscale cosa comporterebbe l’assenza di questa . La presenza della terza copia nel relativo blocco è però garantita.
+
+**Risposta** No l’obbligo di allegare il DDT alla fattura non c’è, basta poter esibire il documento a richiesta. La pinzatura rappresenta una comodità gestionale (facilità di reperimento) ed anche dal punto di vista civilistico: in caso il cliente contesti la consegna della merce tu potrai esibire la sua firma di ritiro merce rintracciando immediatamente il documento di consegna (DDT).
+
+**Domanda** E’ possibile indicare lo stesso numero di DDT su due o più fatture?
+
+**Risposta** Sì se ci sono delle motivazioni valide. Faccio un esempio: DDT di conto vendita, dopo un mese fatturo alcuni articoli venduti di quel DDT, dopo due mesi fatturo altri articoli venduti di quel DDT e così via… Riporterò sulle varie fatture sempre lo stesso numero DDT come riferimento.
 
 *********************************************
 Fattura Immediata, Differita, Accompagnatoria
@@ -345,6 +395,27 @@ Riepilogo
 Abbiamo analizzato in questo capitolo le tipologie di fattura usate comunemente nelle aziende sia commerciali che di servizi. Vi invito a porre particolare attenzione alla scelta del tipo di documento corretto sulla base della vostra operatività ed all’uso corretto delle aliquote iva per i vari prodotti/servizi che vendete. 
 
 **Consiglio:** poiché anche la fattura come molte altre comunicazioni aziendali è rappresentativa della vostra immagine, vi consiglio di curarne in modo attento l’aspetto grafico e gli elementi di comunicazione delle informazioni. Mi è capitato spesso di vedere aziende con carta intestata e logo bellissimi e fatture dall’aspetto poco curato e spesso proprio ‘brutte’ da vedere. Di norma non conservo una buona opinione di queste aziende. Ricordate che la fattura a volte può essere anche uno strumento di marketing per fare attività cosiddetta di ‘branding’ cioè di comunicazione di immagine, prodotti e marchi.
+
+Domande Frequenti
+-----------------
+**Domanda** Vorrei chiedervi se sia possibile scorporare un acconto (ho fatto fattura differita per l’acconto), su una fattura accompagnatoria. Cioè, il cliente ha dato l’acconto ed io ho fatto la fattura differita, ora che è arrivata la merce posso fare una fattura accompagnatoria scorporando l’acconto del cliente facendo riferimento al numero della fattura differita?
+
+**Risposta** Sì è il modo giusto di procedere.
+
+**Domanda** Chiedo gentilmente se un’impresa avendo emesso nello stesso mese nel giro di 5 gg. due d.d.t. può alla fine del mese emettere due fatture differite con numerazioni distinte e progressive, oppure se esiste un tipo di contabilità aziendale che permette una cosa così strana.
+
+Esempio:
+
+- 19/05/2013 d.d.t. n. 50
+
+- 24/05/2013 d.d.t. n. 60
+
+- 31/05/2013 f.d. n. 525
+
+- 31/05/2013 f.d. n. 526
+
+**Risposta** Sì non c’è nessun problema la fattura riepilogativa unica a fine mese è un’opzione non un obbligo. Quindi l’azienda può tranquillamente emettere una fattura per ogni DDT o anche una riepilogativa che raggruppa alcuni DDT e un’altra che ne raggruppa altri. A totale discrezione dell’azienda che per motivi interni/gestionali ritiene opportuna una determinata scelta.
+
 
 *********************************
 Fatture Professionisti e Parcelle
@@ -508,6 +579,24 @@ Questo è lo strumento che permette al professionista di anticipare al cliente gl
 
 **Consiglio:** evidenziate bene che si tratta di una fattura proforma (a volte si utilizza anche la dicitura preavviso di parcella) per non rischiare di ricadere nella presunzione di emissione di fattura con tutti gli adempimenti connessi e le relative sanzioni conseguenti.
 
+Domande Frequenti
+-----------------
+**Domanda** A seguito di un preventivo il cliente ci ha chiesto la fattura pro forma per effettuare il pagamento con bonifico bancario. Poiché la merce devo ordinarla, posso emettere comunque la fattura?
+
+**Risposta** La fattura proforma sì, poichè non ha implicazioni fiscali nemmeno a livello di magazzino. La fattura reale poi verrà emessa solo quando la merce sarà disponibile. E’ buona prassi per non avere un incasso anticipato rispetto all’emissione della fattura autorizzare il bonifico del cliente solo quando la merce è già disponibile. Diversamente se il cliente ti paga prima dovrai emettere una fattura di acconto che chiuderai poi con la fattura che contiene la merce.
+
+**Domanda** Sono un’agente di commercio monomandatario: poiché da qualche mese la società per cui lavoro è in seria difficoltà sta dilazionando sempre più il pagamento delle fatture provvigioni. Ad oggi abbiamo superato i 120 gg. Per limitare i danni sia in termini reddituali che di pagamento iva posso emettere anche io proforma?
+
+**Risposta** Si lo puoi fare ed emettere poi fattura 'reale' totale o parziale solo al saldo.
+
+**Domanda** Ho una società (snc) e visto che molti clienti faticano a pagare, volevo sapere se anche noi potevamo effettuare delle fatture pro forma, in modo da non dover anticipare l’iva. La ringrazio in anticipo per la risposta..
+
+**Risposta** Dipende da cosa fatturate. Se consegnate merce no, va fatto il DDT e poi la fattura entro i termini di legge. Se invece fate servizi potreste fare la Nota Proforma in attesa del pagamento.
+
+**Domanda** Sono il titolare di una attività commerciale: il proprietario dell’immobile, una s.r.l., da qualche mese ci fa pervenire una fattura pro forma in merito al canone di locazione. Verbalmente abbiamo contestato dicendo che se non emette fattura regolare non paghiamo l’affitto. Può una s.r.l. titolare d’immobile emettere fattura pro-forma e richiedere il pagamento della locazione? Prima i soldi e poi la fattura?
+
+**Risposta** Sì può. L’obbligo ultimo di emissione della fattura è il pagamento, quindi possono emettere la fattura solo quando hanno incassato il corrispettivo.
+
 *******************************************************
 Le Note di Variazione: Nota di Credito e Nota di Debito
 *******************************************************
@@ -601,6 +690,20 @@ Riepilogo
 
 **Consiglio:** fate davvero grande attenzione ai casi in cui la Nota di Credito può essere emessa recuperando l’iva ed ai casi in cui l’iva viene invece ‘persa’ per motivi legati alla normativa. Rileggete bene il paragrafo in cui spiego i casi in cui è ammesso emettere una Nota di Credito con iva e quando invece DEVE essere emessa con esclusione iva Art 26 e le precisazioni nel tempo fatte da Agenzia delle Entrate.
 
+Domande Frequenti
+-----------------
+**Domanda** Mi servirebbe un consiglio. Un nostro fornitore ha emesso una fattura nel 2010 e una nel 2011 per servizi. Ora devono emettere una nota di accredito con F.C. IVA ART. 26. Devono emettere la nota di accredito per l’importo totale delle fatture (IVA compresa) o soltanto per l’imponibile delle due fatture?
+
+**Risposta** Se le fatture hanno più di un anno di vita devono emettere NC FC IVA per il solo imponibile.
+
+**Domanda** Le sarei grato se mi aiutasse a capire se è possibile fare storno e immediata riemissione fattura perché i termini di pagamento sono errati. Diciamo il cliente ha diritto a 60dffm e il primo documento è stato erroneamente emesso a 30dffm. Posso stornare e riemettere con termini corretti? Sarebbe solo per questo motivo.
+
+**Risposta** Non conviene, in questo caso basta una lettera commerciale al cliente in cui gli si comunica che i termini di pagamento sono i nuovi.
+
+**Domanda** In data 2013 ho ricevuto da un fornitore una nota di accredito per storno totale di una fattura del 2012 che ci aveva emesso in esenzione IVA per lettera d’intento, scrivendo i riferimenti della lettera che gli abbiamo inviato nel 2012 mentre nel 2013 non gliela abbiamo inviata. E’ corretto che la nota di accredito sia in esenzione IVA e riporti i riferimenti della lettera d’intento del 2012?
+
+**Risposta** E’ corretto, la NC segue sempre (salvo alcuni casi particolari) l’applicazione dell’iva della fattura oggetto del contratto.
+
 *************************************
 Autofattura: Cos’è e Quando Emetterla
 *************************************
@@ -643,6 +746,15 @@ Riepilogo
 ---------
 Molte volte sentendo parlare di autofattura ci si stupisce, la si considera un controsenso  o si pensa a qualche strano artificio. In questo capitolo abbiamo visto invece come ci sono svariate casistiche comuni nella vita aziendale in cui questo tipo di documento diventa necessario per i corretti adempimenti fiscali.
 
+Domande Frequenti
+-----------------
+**Domanda** Ho una domanda da fare: avendo un negozio di alimentari come posso scaricare dalla giacenza di magazzino la merce che consumo per la mia famiglia?
+
+**Risposta** Va fatta autofattura per autoconsumo al prezzo di costo delle merci.
+
+**Domanda** Sono titolare di una concessionaria di auto e officina annessa. Ho acquistato dei pezzi di ricambio (tra cui alcuni pezzi per la mia auto privata successivamente utilizzati). devo emetter autofattura per “scaricare” tali pezzi utilizzati. Sulla fattura originaria è stato applicato uno sconto: devo tener conto anche di tale sconto sull’autofattura o meno? 
+
+**Risposta** Sì l’autofattura per uso personale va fatta ad un prezzo non inferiore al prezzo di acquisto (per convenienza al prezzo di acquisto, salvo voler pagare tasse sull’autoconsumo). Possono quindi essere inclusi tutti gli sconti applicati all’acquisto per il corretto calcolo del prezzo.
 
 *****************
 Il Reverse Charge
@@ -743,6 +855,56 @@ Riepilogo
 ---------
 Abbiamo terminato questo complesso argomento cercando di spiegare in modo semplice ma completo come funziona, con anche cenni dal punto di vista puramente contabile; dovreste adesso essere in grado di completare tutti gli adempimenti necessari, dall’integrazione dell’iva sulla fattura del fornitore all’emissione dell’autofattura.
 
+Domande Frequenti
+-----------------
+**Domanda** Ma in caso di acquisto in paesi IntraCee è obbligatori registrare la fattura in regime di reverse charge?
+E se cosi fosse l’importo IVA deve risultare sui registri Acquisti Vendite ??
+
+**Risposta** Le fatture ricevuta da soggetti IntraCEE devono essere trattate con la procedura contabile del Reverse Charge, nella quale l’IVA compare sia sul registro Acquisti che sul registro Vendite. Solitamente per le operazioni IntraCEE si utilizzano due registri appositi denominati AcquistiCEE e VenditeCEE.
+
+**Domanda** Ho un negozio di cellulari appena aperto. Acquisto i telefonini con il metodo del reverse charge.
+Li rivendo ai privati con IVA come mi ha detto il commercialista. Ma quando dovrò pagare trimestralmente l’IVA verrà una cifra altissima non potendo scaricare nulla. E’ giusto il ragionamento?
+
+**Risposta** Certo, il Reverse Charge serve proprio a questo, a portate l’onere dell’IVA in carico al rivenditore al dettaglio. Non acquistando con IVA il tuo ‘fornitore’ non può evaderla e tu non la detrai. In questo modo si evitano le truffe sull’IVA e l’Erario è sempre in grado di tracciarla e di conseguenza di incassarla. E’ vero che non detrai l’IVA ma non l’hai nemmeno pagata al fornitore.
+
+**Domanda** Se presto un servizio a un’azienda intracomunitaria, semplicemente devo fatturare senza IVA ma contabilmente non devo fare nulla giusto (non io ma il mio commercialista ovviamente.
+
+**Risposta** Giusto. Sarà poi chi riceve la fattura nel paese UE che dovrà fare gli adempimenti previsti dalla legislazione del suo paese: mi risulta che ormai per tutti i paesi UE venga applicato il Reverse Charge. Tu dovrai fare la fattura mettendo i riferimenti dell’esenzione e la dicitura Reverse Charge.
+
+**Domanda** Se ad esempio a fine anno ho speso con AdWords 10’000 euro che ricevo con fattura senza iva in quanto intrastat ed ho un fatturato lordo di 20’000+ iva, pagheró quindi le tasse sull’utile di 10’000€ mentre per quanto riguarda l’iva mi toccherà versare tutta l’iva dei 20’000, ovvero 4400 quanto come spesa in detrazione non ce l’ho oppure verserò l’iva solo sulla differenza fatturato lordo- spese quindi solo su 10’000?
+
+**Risposta** L’IVA da versare sarà quella che si rileva dalla somma dell’imposta applicata nelle fatture quindi 4.400 Eur come dici giustamente. Ricorda che non detrai l’iva perché al fornitore non l’hai pagata qiomdi in termini complessivi nulla cambia. Se il fornitore ti avesse fatturato il servizio + iva avresti pagato a lui 12.200 euro (2.200 di iva) poi avresti versati all’Erario solo 2.200 (4.400 a debito – 2.200 a credito). Risultato identico.
+
+**Domanda** Avrei una domanda sul discorso reverse change in ambito telefonia. Rivendo cellulari acquistandoli in reverse change dove se li vendo a privati devo giustamente applicare l’iva e qua ci siamo. Nel caso li vendessi a titolari di partita iva posso non applicare l’iva. La mia domanda è la seguente: in quest’ultimo caso di vendita, l’aquirente con p iva deve essere un rivenditore oppure potrebbe semplicemente acquistare il cellulare per utilizzo proprio avendolo così ad un prezzo agevolato?
+
+**Risposta** L’esenzione IVA non può essere applicata se il destinatario del bene è l’utilizzatore finale. Quindi anche il titolare di partita IVA se utilizzatore finale dovrà ricevere da te fattura normale con IVA. L’esenzione per Reverse Charge va applicata sol se la vendita è fatta ad altro rivenditore/distributore che userà il bene per la rivendita. In ogni caso non avrà alcun prezzo agevolato, il Reverse Charge non cambia la sostanza economica del prezzo.
+
+**Domanda** Sono un commerciante di cellulari e volevo dei chiarimenti. Se io acquisto un cellulare da un rivenditore ad € 100, fatturato in Reverse Charge, e lo vendo ad € 130 al cliente finale, andrò a pagare 28,60 € di iva, quindi andrò a guadagnare ((130-28,60)-100)= 1,40 €. E’ corretto il ragionamento?
+
+**Risposta** Se ho capito bene i valori che segnali, vendi il cellulare a 130 euro IVA inclusa giusto? Se è così, scorporando l’IVA il valore imponibile della vendita è di 106,56 mentre il valore dell’IVA è di 23,44. Il tuo guadagno sarà quindi pari a 6,56 euro. Nei tuoi calcoli hai calcolato l’IVA su 130 eur e non hai invece applicato lo scorporo quindi poi tutto il ragionamento è sbagliato.
+
+**Domanda** Nel caso in cui io dovessi una nota di credito dal mio fornitore senza iva con art. 17, mi ritrovo a dover integrare l’iva come faccio per le fatture acquisto?
+
+**Risposta** Certo, va trattata esattamente allo stesso modo, ovviamente a valori IVA ‘invertiti’ negli appositi registri.
+
+**Domanda** Sono un praticante commercialista che si sta cimentando per la prima volta con il metodo del Reverse Charge. Le faccio innanzitutto i miei complimenti sulla sua grande esperienza e le pongo questo quesito: ho una fattura da un fornitore tedesco di 29,95€ , composta da un imponibile di 25,17 ed iva di 4,78 (19%). Tale ammontare è stato sicuramente scaturito dalla mancata iscrizione al Vies ed alla mancata comunicazione del mio cliente. Allora in questo caso:
+
+1) L’Iva la imputero’ a costo, giusto?
+2) Nella documentazione cartacea devo fare una fotocopia della fattura acquisti e porla nelle fatture emesse applicando il reverse charge?
+3) Ultima domanda, una volta effettuato il R.C., faro’ l’intrastat e terminero’ finalmente l’operazione?
+
+**Risposta** Con Risoluzione 27 aprile 2012 n. 42, l’Agenzia delle Entrate ha chiarito alcune questioni inerenti la qualificazione giuridica delle operazioni effettuate da un soggetto passivo stabilito in Italia non regolarmente iscritto al VIES. In particolare è stato affermato che, senza iscrizione al VIES, l’acquisto effettuato da una società italiana presso un’azienda con sede in un altro stato UE, non deve essere considerato una operazione intracomunitaria e pertanto l’IVA non è dovuta in Italia ma nel Paese del fornitore. Dal punto di vista procedurale, quindi, l’acquirente italiano non deve provvedere alla doppia annotazione della fattura nel registro delle fatture emesse e nel registro acquisti non essendo applicabile il meccanismo dell’inversione contabile e quindi non adempiere nemmeno a tutti gli adempimenti per le fatture INTRA.
+
+**Domanda** Vorrei sapere se gli acquisti di servizi da paesi extracee devo integrarli con l’Iva con questo sistema del Reverse-Charge. Noi lo stiamo facendo però l’autofattura non la facciamo a noi stessi ma registriamo una “vendita” allo stesso fornitore per annullare l’Iva inserita in fattura. E’ sbagliato?
+
+**Risposta** Non mi risulta si possa fare, dovete fare autofattura come previsto dalla normativa. Non ho mai sentito nessuno che faceva fattura al fornitore. Anche se da un punto di vista sostanziale tutto torna, dal punto di vista formale certo no. Ad esempio, la fattura che fate al fornitore gliela mandate? Questo ad esempio è un problema, potrebbe essere considerata una fatturazione ‘fittizia’ in quanto la controparte non viene messa al corrente che si è emessa una fattura nei loro confronti.
+
+**Domanda** Avrei bisogno di un chiarimento: il mio compagno ha un negozio di cellulari, acquista i cellulari con fattura senza IVA per effetto del Reverse Charge. Quando rivende a clienti con partita IVA emette fattura con IVA al 22%, il dubbio mi è sorto ora che si trova a rivendere i cellulari ad altri negozi di cellulari, come dobbiamo comportarci? Fatturare con IVA o applicare il Reverse Charge? Il consulente suggerisce di fatturare con IVA ma non sono molto convinta.
+
+**Risposta** No assolutamente. Se vengono venduti a fine di rivendita (a negozi che li rivenderanno) va applicato il Reverse Charge. Diversamente il motivo per cui è stato imposto l’obbligo decade (che è evitare le frodi IVA) e voi eludete la normativa che impone di fatturare in Reverse Charge se il cliente è un operatore che rivenderà il prodotto.
+
+
+
 ************************************
 Ricevuta Fiscale e Scontrino Fiscale
 ************************************
@@ -817,7 +979,49 @@ Sia lo scontrino che la ricevuta fiscale, oltre ad adempiere ai doveri fiscali d
 
 Riepilogo
 ---------
-Lo Scontrino Fiscalee la Ricevuta Fiscale sono i due documenti di certificazione degli incassi da soggetti senza partita iva per i commercianti al dettaglio (scontrino) e per gli artigiani (ricevuta fiscale).  Il commerciante dovrà dotarsi di Registratore di Cassa mentre l’artigiano di Ricevute Fiscali con il numero progressivo prestampato.
+Lo Scontrino Fiscale e la Ricevuta Fiscale sono i due documenti di certificazione degli incassi da soggetti senza partita iva per i commercianti al dettaglio (scontrino) e per gli artigiani (ricevuta fiscale).  Il commerciante dovrà dotarsi di Registratore di Cassa mentre l’artigiano di Ricevute Fiscali con il numero progressivo prestampato.
+
+Domande Frequenti
+-----------------
+**Domanda** Vorrei chiarimenti in merito alla corretta intestazione degli scontrini fiscali rilasciati dai venditori ambulanti. In particolar modo se è obbligatorio l’indirizzo/domicilio fiscale o se basta la ragione sociale e la partita iva e luogo di riferimento della camera di commercio della società
+
+**Risposta** L’articolo 17, comma 2 del Decreto ministeriale 30.3.92, per quanto riguarda gli scontrini emessi con gli apparecchi per il commercio ambulante prevede che l’indirizzo dell’esercizio (che non esiste) sia sostituito dal numero di iscrizione al REC e la città sede della competente CCIAA. In seguito il D. Lgs. 31.3.98 n. 114, ha soppresso anche il numero REC.
+
+**Domanda** Mi occorre sapere cosa significa la parola esente scritta su scontrino fiscale emesso da una libreria per acquisto di testo scolastico.
+
+**Risposta** Probabilmente intendono esente da IVA. In realtà l’IVA c’è ma è assolta alla fonte dall’Editore quindi la libreria emette scontrino senza IVA.
+
+**Domanda** Volevo sapere se è possibile emettere ricevute fiscali direttamente da un software senza avere un  registratore di cassa o i fogli preventivamente numerati da tipografie autorizzate. L’agenzia delle entrate può rilasciare l’autorizzazione direttamente ad un commerciante per l’emissione delle ricevute fiscali?
+
+**Risposta** No l’Agenzia Entrate rilascia l’autorizzazione a soggetti che le preparano e stampano in conto terzi. Se vuoi stampare ricevute fiscali con un tuo software dovrai dotarti di moduli con numero prestampato da intermediario abilitato (tipografie abilitate).
+
+**Domanda** Mi è capitato di richiedere una ricevuta fiscale e quindi ho comunicato i miei dati societari che sono stati immessi nel software gestionale del bar-ristorante. Il risultato è stato vedermi venir fuori dalla stesso hardware che stampa scontrini la ricevuta fiscale. Stesso formato identico in tutto e per tutto allo scontrino con la differenza di avere i miei dati riportarti ma senza il numero progressivo assegnato da una tipografia autorizzata , ma semplicemente prendendo come numerazione quella progressiva degli scontrini. E’ possibile tutto ciò?
+
+**Risposta** Sì, è il misuratore fiscale che sostituisce la numerazione prestampata.
+
+**Domanda** Salve, come funziona la numerazione degli scontrini nel caso ci siano più casse, caso dei supermercati o grosse catene della ristorazione? Il numero è specifico di quella cassa?
+
+**Risposta** Sì, ogni cassa ha la sua numerazione da 1 in poi per gli scontrini per ogni giornata.
+
+**Domanda** Ho una profumeria e ho dei prodotti in conto vendita. Devo emettere scontrino fiscale per questi prodotti o segnarli solamente sull’apposito registro?
+
+**Risposta** Devi emettere scontrino fiscale regolarmente, dal tuo punto di vista è una vendita a tutti gli effetti.
+
+**Domanda** Chiedo gentilmente un’informazione: nel ns. negozio utilizziamo le ricevute fiscali autoricalcanti in duplice copia di Buffetti, l’ultimo blocchetto dispone ancora di 20 ricevute da utilizzare. Considerato che è iniziato l’anno nuovo, devo utilizzare un nuovo blocchetto partendo dal numero 1 oppure posso utilizzare il blocchetto in uso sempre inserendo la nuova numerazione?
+
+**Risposta** Puoi, anzi devi, utilizzare tutte le ricevute in tuo possesso quindi prosegui tranquillamente con il blocchetto ripartendo dalla N 1.
+
+**Domanda** Ho un dubbio: dovendo emettere delle ricevute fiscali da due punti vendita differenti ma intestati alla medesima società, si possono utilizzare contemporaneamente due blocchetti di ricevute fiscali?
+
+**Risposta** Sì senza problemi. Ti consiglio di usare due numerazioni delle ricevute per i due punti vendita tipo 1/A e 1/B rispettivamente per il negozio 1 e per il negozio 2.
+
+**Domanda** Volevo sapere se è obbligatorio il rilascio della ricevuta fiscale al cliente in originale grazie
+
+**Risposta** La risposta è sì, l’originale va sempre al cliente.
+
+**Domanda** A causa di un errore del PC è stata stampata una ricevuta fiscale sbagliata. Ho annullato il documento dal software e dopo aver riavviato il programma ho emesso nuovamente un documento. Questa nuova ricevuta ha lo stesso identico numero progressivo, ma ovviamente cambia il numero prestampato (quello con /12 per intenderci). E’ un problema? Cosa succede? Come posso provvedere?
+
+**Risposta** Basta scrivere chiaramente sulla ricevuta da annullare che è annullata e conservare tutte le copie come gli altri documenti fiscali.
 
 
 .. _Blog: http://gestionaleamica.com/Blog
