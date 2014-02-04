@@ -326,7 +326,12 @@ Riepilogo
 ---------
 Il DDT, come abbiamo potuto vedere, è un documento che ricopre molti aspetti sia fiscali che civilistici. E’ molto importante per molte aziende, come ad esempio quelle che consegnano merce più volte al mese e fanno poi fattura riepilogativa. Nella realizzazione di un DDT va posta particolare attenzione al fine di evitare sanzioni visto che è il documento che spesso viene controllato su strada dalla Guardia di Finanza.
 
-**Consiglio:** utilizzate sempre un DDT quando spostate merci, macchinari o attrezzature (salvo i casi di attrezzi specifici per il lavoro degli artigiani) perché è il miglior modo per vincere la ‘presunzione di cessione’ in caso di controlli. Le sanzioni possono anche essere salate.
+.. admonition:: Consiglio
+
+    Utilizzate sempre un DDT quando spostate merci, macchinari o attrezzature
+    (salvo i casi di attrezzi specifici per il lavoro degli artigiani) perché
+    è il miglior modo per vincere la ‘presunzione di cessione’ in caso di
+    controlli. Le sanzioni possono anche essere salate.
 
 Domande Frequenti
 -----------------
@@ -394,7 +399,17 @@ Riepilogo
 ---------
 Abbiamo analizzato in questo capitolo le tipologie di fattura usate comunemente nelle aziende sia commerciali che di servizi. Vi invito a porre particolare attenzione alla scelta del tipo di documento corretto sulla base della vostra operatività ed all’uso corretto delle aliquote iva per i vari prodotti/servizi che vendete. 
 
-**Consiglio:** poiché anche la fattura come molte altre comunicazioni aziendali è rappresentativa della vostra immagine, vi consiglio di curarne in modo attento l’aspetto grafico e gli elementi di comunicazione delle informazioni. Mi è capitato spesso di vedere aziende con carta intestata e logo bellissimi e fatture dall’aspetto poco curato e spesso proprio ‘brutte’ da vedere. Di norma non conservo una buona opinione di queste aziende. Ricordate che la fattura a volte può essere anche uno strumento di marketing per fare attività cosiddetta di ‘branding’ cioè di comunicazione di immagine, prodotti e marchi.
+.. admonition:: Consiglio
+
+    Poiché anche la fattura come molte altre comunicazioni aziendali
+    è rappresentativa della vostra immagine, vi consiglio di curarne in modo
+    attento l’aspetto grafico e gli elementi di comunicazione delle
+    informazioni. Mi è capitato spesso di vedere aziende con carta intestata
+    e logo bellissimi e fatture dall’aspetto poco curato e spesso proprio
+    ‘brutte’ da vedere. Di norma non conservo una buona opinione di
+    queste aziende. Ricordate che la fattura a volte può essere anche uno
+    strumento di marketing per fare attività cosiddetta di ‘branding’
+    cioè di comunicazione di immagine, prodotti e marchi.
 
 Domande Frequenti
 -----------------
@@ -533,7 +548,11 @@ Riepilogo
 ---------
 Il documento del Professionista per certificare fiscalmente i compensi ricevuti. Attraverso questo documento, oltre agli importi per i servizi e le prestazioni  rese, vengono anche certificate le rivalse per le casse previdenziali previste per legge, vengono aggiunti i recuperi di spese sostenute per conto del cliente (bolli, vidimazioni e altro) e viene evidenziata la ritenuta di acconto che le aziende clienti devono versare come sostituto di imposta.
 
-**Consiglio:** porre molta attenzione ai calcoli di iva e ritenuta di acconto perché, a seconda della tipologia professionale, variano, come abbiamo visto negli esempi del capitolo.
+.. admonition:: Consiglio
+
+    Porre molta attenzione ai calcoli di iva e ritenuta di acconto perché,
+    a seconda della tipologia professionale, variano, come abbiamo visto negli
+    esempi del capitolo.
 
 *****************
 Fattura Pro Forma
@@ -577,7 +596,12 @@ Riepilogo
 ---------
 Questo è lo strumento che permette al professionista di anticipare al cliente gli importi da pagare ed emettere la fattura vera e propria solo dopo aver incassato quanto richiesto. In questo modo gli obblighi fiscali relativi all’emissione di una fattura, versamento iva in primis, verranno adempiuti solo dopo aver incassato il denaro dal cliente in modo da non doversi esporre anticipando versamenti di imposte se il cliente non effettuata il pagamento in modo puntuale; è una facoltà concessa dalla legge ai professionisti.
 
-**Consiglio:** evidenziate bene che si tratta di una fattura proforma (a volte si utilizza anche la dicitura preavviso di parcella) per non rischiare di ricadere nella presunzione di emissione di fattura con tutti gli adempimenti connessi e le relative sanzioni conseguenti.
+.. admonition:: Consiglio
+
+    Evidenziate bene che si tratta di una fattura proforma (a volte si utilizza
+    anche la dicitura preavviso di parcella) per non rischiare di ricadere
+    nella presunzione di emissione di fattura con tutti gli adempimenti
+    connessi e le relative sanzioni conseguenti.
 
 Domande Frequenti
 -----------------
@@ -688,7 +712,14 @@ Riepilogo
 ---------
 **Maneggiare con cura le Note di Credito.** Si tratta di un documento che diminuisce l’ammontare dei ricavi aziendali per cui è sempre valutato con grande attenzione dagli addetti in cado di controllo fiscale, per cui bisogna sempre che ci siano valide motivazioni per la sua emissione, meglio se accompagnate da documentazione tipo l’interscambio di comunicazioni tra azienda e cliente per un reso di merce difettosa o per un reso per sostituzione della merce o quant’altro.
 
-**Consiglio:** fate davvero grande attenzione ai casi in cui la Nota di Credito può essere emessa recuperando l’iva ed ai casi in cui l’iva viene invece ‘persa’ per motivi legati alla normativa. Rileggete bene il paragrafo in cui spiego i casi in cui è ammesso emettere una Nota di Credito con iva e quando invece DEVE essere emessa con esclusione iva Art 26 e le precisazioni nel tempo fatte da Agenzia delle Entrate.
+.. admonition:: Consiglio
+
+    Fate davvero grande attenzione ai casi in cui la Nota di Credito può essere
+    emessa recuperando l’iva ed ai casi in cui l’iva viene invece
+    ‘persa’ per motivi legati alla normativa. Rileggete bene il paragrafo
+    in cui spiego i casi in cui è ammesso emettere una Nota di Credito con iva
+    e quando invece DEVE essere emessa con esclusione iva Art 26 e le
+    precisazioni nel tempo fatte da Agenzia delle Entrate.
 
 Domande Frequenti
 -----------------
