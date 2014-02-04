@@ -29,7 +29,7 @@ import sphinx_rtd_theme
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['rst2pdf.pdfbuilder']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -329,3 +329,24 @@ epub_exclude_files = ['search.html']
 
 # If false, no index is generated.
 #epub_use_index = True
+
+# -- Options for PDF output --------------------------------------------------
+# Grouping the document tree into PDF files. List of tuples
+# (source start file, target name, title, author, options).
+#
+# If there is more than one author, separate them with \\.
+# For example: r'Guido van Rossum\\Fred L. Drake, Jr., editor'
+#
+# The options element is a dictionary that lets you override
+# this config per-document.
+# For example,
+# ('index', u'MyProject', u'My Project', u'Author Name',
+# dict(pdf_compressed = True))
+# would mean that specific document would be compressed
+# regardless of the global pdf_compressed setting.
+pdf_documents = [
+ ('index', u'Guida Pratica alle Fatture', u'Guida Pratica alle Fatture', u'Stefano Gardini'),
+]
+# Language to be used for hyphenation support
+pdf_language = "it_IT"
+
