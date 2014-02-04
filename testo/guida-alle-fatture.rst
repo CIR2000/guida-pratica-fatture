@@ -397,7 +397,7 @@ Essendo una fattura conterrà quindi tutti gli elementi IVA con i relativi riepil
 
 Riepilogo
 ---------
-Abbiamo analizzato in questo capitolo le tipologie di fattura usate comunemente nelle aziende sia commerciali che di servizi. Vi invito a porre particolare attenzione alla scelta del tipo di documento corretto sulla base della vostra operatività ed all’uso corretto delle aliquote iva per i vari prodotti/servizi che vendete. 
+Abbiamo analizzato in questo capitolo le tipologie di fattura usate comunemente nelle aziende sia commerciali che di servizi. Vi invito a porre particolare attenzione alla scelta del tipo di documento corretto sulla base della vostra operatività ed all’uso corretto delle aliquote IVA per i vari prodotti/servizi che vendete. 
 
 .. admonition:: Consiglio
 
@@ -550,7 +550,7 @@ Il documento del Professionista per certificare fiscalmente i compensi ricevuti.
 
 .. admonition:: Consiglio
 
-    Porre molta attenzione ai calcoli di iva e ritenuta di acconto perché,
+    Porre molta attenzione ai calcoli di IVA e ritenuta di acconto perché,
     a seconda della tipologia professionale, variano, come abbiamo visto negli
     esempi del capitolo.
 
@@ -594,7 +594,7 @@ Al momento del pagamento da parte del cliente, o comunque al momento dell’emissi
 
 Riepilogo
 ---------
-Questo è lo strumento che permette al professionista di anticipare al cliente gli importi da pagare ed emettere la fattura vera e propria solo dopo aver incassato quanto richiesto. In questo modo gli obblighi fiscali relativi all’emissione di una fattura, versamento iva in primis, verranno adempiuti solo dopo aver incassato il denaro dal cliente in modo da non doversi esporre anticipando versamenti di imposte se il cliente non effettuata il pagamento in modo puntuale; è una facoltà concessa dalla legge ai professionisti.
+Questo è lo strumento che permette al professionista di anticipare al cliente gli importi da pagare ed emettere la fattura vera e propria solo dopo aver incassato quanto richiesto. In questo modo gli obblighi fiscali relativi all’emissione di una fattura, versamento IVA in primis, verranno adempiuti solo dopo aver incassato il denaro dal cliente in modo da non doversi esporre anticipando versamenti di imposte se il cliente non effettuata il pagamento in modo puntuale; è una facoltà concessa dalla legge ai professionisti.
 
 .. admonition:: Consiglio
 
@@ -609,7 +609,7 @@ Domande Frequenti
 
 **Risposta** La fattura proforma sì, poichè non ha implicazioni fiscali nemmeno a livello di magazzino. La fattura reale poi verrà emessa solo quando la merce sarà disponibile. E’ buona prassi per non avere un incasso anticipato rispetto all’emissione della fattura autorizzare il bonifico del cliente solo quando la merce è già disponibile. Diversamente se il cliente ti paga prima dovrai emettere una fattura di acconto che chiuderai poi con la fattura che contiene la merce.
 
-**Domanda** Sono un’agente di commercio monomandatario: poiché da qualche mese la società per cui lavoro è in seria difficoltà sta dilazionando sempre più il pagamento delle fatture provvigioni. Ad oggi abbiamo superato i 120 gg. Per limitare i danni sia in termini reddituali che di pagamento iva posso emettere anche io proforma?
+**Domanda** Sono un’agente di commercio monomandatario: poiché da qualche mese la società per cui lavoro è in seria difficoltà sta dilazionando sempre più il pagamento delle fatture provvigioni. Ad oggi abbiamo superato i 120 gg. Per limitare i danni sia in termini reddituali che di pagamento IVA posso emettere anche io proforma?
 
 **Risposta** Si lo puoi fare ed emettere poi fattura 'reale' totale o parziale solo al saldo.
 
@@ -717,8 +717,8 @@ Riepilogo
     Fate davvero grande attenzione ai casi in cui la Nota di Credito può essere
     emessa recuperando l’iva ed ai casi in cui l’iva viene invece
     ‘persa’ per motivi legati alla normativa. Rileggete bene il paragrafo
-    in cui spiego i casi in cui è ammesso emettere una Nota di Credito con iva
-    e quando invece DEVE essere emessa con esclusione iva Art 26 e le
+    in cui spiego i casi in cui è ammesso emettere una Nota di Credito con IVA
+    e quando invece DEVE essere emessa con esclusione IVA Art 26 e le
     precisazioni nel tempo fatte da Agenzia delle Entrate.
 
 Domande Frequenti
@@ -902,23 +902,23 @@ Li rivendo ai privati con IVA come mi ha detto il commercialista. Ma quando dovr
 
 **Risposta** Giusto. Sarà poi chi riceve la fattura nel paese UE che dovrà fare gli adempimenti previsti dalla legislazione del suo paese: mi risulta che ormai per tutti i paesi UE venga applicato il Reverse Charge. Tu dovrai fare la fattura mettendo i riferimenti dell’esenzione e la dicitura Reverse Charge.
 
-**Domanda** Se ad esempio a fine anno ho speso con AdWords 10’000 euro che ricevo con fattura senza iva in quanto intrastat ed ho un fatturato lordo di 20’000+ iva, pagheró quindi le tasse sull’utile di 10’000€ mentre per quanto riguarda l’iva mi toccherà versare tutta l’iva dei 20’000, ovvero 4400 quanto come spesa in detrazione non ce l’ho oppure verserò l’iva solo sulla differenza fatturato lordo- spese quindi solo su 10’000?
+**Domanda** Se ad esempio a fine anno ho speso con AdWords 10’000 euro che ricevo con fattura senza IVA in quanto intrastat ed ho un fatturato lordo di 20’000+IVA, pagheró quindi le tasse sull’utile di 10’000€ mentre per quanto riguarda l’iva mi toccherà versare tutta l’iva dei 20’000, ovvero 4400 quanto come spesa in detrazione non ce l’ho oppure verserò l’iva solo sulla differenza fatturato lordo- spese quindi solo su 10’000?
 
-**Risposta** L’IVA da versare sarà quella che si rileva dalla somma dell’imposta applicata nelle fatture quindi 4.400 Eur come dici giustamente. Ricorda che non detrai l’iva perché al fornitore non l’hai pagata qiomdi in termini complessivi nulla cambia. Se il fornitore ti avesse fatturato il servizio + iva avresti pagato a lui 12.200 euro (2.200 di iva) poi avresti versati all’Erario solo 2.200 (4.400 a debito – 2.200 a credito). Risultato identico.
+**Risposta** L’IVA da versare sarà quella che si rileva dalla somma dell’imposta applicata nelle fatture quindi 4.400 Eur come dici giustamente. Ricorda che non detrai l’iva perché al fornitore non l’hai pagata qiomdi in termini complessivi nulla cambia. Se il fornitore ti avesse fatturato il servizio + IVA avresti pagato a lui 12.200 euro (2.200 di IVA) poi avresti versati all’Erario solo 2.200 (4.400 a debito – 2.200 a credito). Risultato identico.
 
-**Domanda** Avrei una domanda sul discorso reverse change in ambito telefonia. Rivendo cellulari acquistandoli in reverse change dove se li vendo a privati devo giustamente applicare l’iva e qua ci siamo. Nel caso li vendessi a titolari di partita iva posso non applicare l’iva. La mia domanda è la seguente: in quest’ultimo caso di vendita, l’aquirente con p iva deve essere un rivenditore oppure potrebbe semplicemente acquistare il cellulare per utilizzo proprio avendolo così ad un prezzo agevolato?
+**Domanda** Avrei una domanda sul discorso reverse change in ambito telefonia. Rivendo cellulari acquistandoli in reverse change dove se li vendo a privati devo giustamente applicare l’iva e qua ci siamo. Nel caso li vendessi a titolari di partita IVA posso non applicare l’iva. La mia domanda è la seguente: in quest’ultimo caso di vendita, l’aquirente con partita IVA deve essere un rivenditore oppure potrebbe semplicemente acquistare il cellulare per utilizzo proprio avendolo così ad un prezzo agevolato?
 
 **Risposta** L’esenzione IVA non può essere applicata se il destinatario del bene è l’utilizzatore finale. Quindi anche il titolare di partita IVA se utilizzatore finale dovrà ricevere da te fattura normale con IVA. L’esenzione per Reverse Charge va applicata sol se la vendita è fatta ad altro rivenditore/distributore che userà il bene per la rivendita. In ogni caso non avrà alcun prezzo agevolato, il Reverse Charge non cambia la sostanza economica del prezzo.
 
-**Domanda** Sono un commerciante di cellulari e volevo dei chiarimenti. Se io acquisto un cellulare da un rivenditore ad € 100, fatturato in Reverse Charge, e lo vendo ad € 130 al cliente finale, andrò a pagare 28,60 € di iva, quindi andrò a guadagnare ((130-28,60)-100)= 1,40 €. E’ corretto il ragionamento?
+**Domanda** Sono un commerciante di cellulari e volevo dei chiarimenti. Se io acquisto un cellulare da un rivenditore ad € 100, fatturato in Reverse Charge, e lo vendo ad € 130 al cliente finale, andrò a pagare 28,60 € di IVA, quindi andrò a guadagnare ((130-28,60)-100)= 1,40 €. E’ corretto il ragionamento?
 
 **Risposta** Se ho capito bene i valori che segnali, vendi il cellulare a 130 euro IVA inclusa giusto? Se è così, scorporando l’IVA il valore imponibile della vendita è di 106,56 mentre il valore dell’IVA è di 23,44. Il tuo guadagno sarà quindi pari a 6,56 euro. Nei tuoi calcoli hai calcolato l’IVA su 130 eur e non hai invece applicato lo scorporo quindi poi tutto il ragionamento è sbagliato.
 
-**Domanda** Nel caso in cui io dovessi una nota di credito dal mio fornitore senza iva con art. 17, mi ritrovo a dover integrare l’iva come faccio per le fatture acquisto?
+**Domanda** Nel caso in cui io dovessi una nota di credito dal mio fornitore senza IVA con art. 17, mi ritrovo a dover integrare l’iva come faccio per le fatture acquisto?
 
 **Risposta** Certo, va trattata esattamente allo stesso modo, ovviamente a valori IVA ‘invertiti’ negli appositi registri.
 
-**Domanda** Sono un praticante commercialista che si sta cimentando per la prima volta con il metodo del Reverse Charge. Le faccio innanzitutto i miei complimenti sulla sua grande esperienza e le pongo questo quesito: ho una fattura da un fornitore tedesco di 29,95€ , composta da un imponibile di 25,17 ed iva di 4,78 (19%). Tale ammontare è stato sicuramente scaturito dalla mancata iscrizione al Vies ed alla mancata comunicazione del mio cliente. Allora in questo caso:
+**Domanda** Sono un praticante commercialista che si sta cimentando per la prima volta con il metodo del Reverse Charge. Le faccio innanzitutto i miei complimenti sulla sua grande esperienza e le pongo questo quesito: ho una fattura da un fornitore tedesco di 29,95€ , composta da un imponibile di 25,17 ed IVA di 4,78 (19%). Tale ammontare è stato sicuramente scaturito dalla mancata iscrizione al Vies ed alla mancata comunicazione del mio cliente. Allora in questo caso:
 
 1) L’Iva la imputero’ a costo, giusto?
 2) Nella documentazione cartacea devo fare una fotocopia della fattura acquisti e porla nelle fatture emesse applicando il reverse charge?
@@ -1010,11 +1010,11 @@ Sia lo scontrino che la ricevuta fiscale, oltre ad adempiere ai doveri fiscali d
 
 Riepilogo
 ---------
-Lo Scontrino Fiscale e la Ricevuta Fiscale sono i due documenti di certificazione degli incassi da soggetti senza partita iva per i commercianti al dettaglio (scontrino) e per gli artigiani (ricevuta fiscale).  Il commerciante dovrà dotarsi di Registratore di Cassa mentre l’artigiano di Ricevute Fiscali con il numero progressivo prestampato.
+Lo Scontrino Fiscale e la Ricevuta Fiscale sono i due documenti di certificazione degli incassi da soggetti senza partita IVA per i commercianti al dettaglio (scontrino) e per gli artigiani (ricevuta fiscale).  Il commerciante dovrà dotarsi di Registratore di Cassa mentre l’artigiano di Ricevute Fiscali con il numero progressivo prestampato.
 
 Domande Frequenti
 -----------------
-**Domanda** Vorrei chiarimenti in merito alla corretta intestazione degli scontrini fiscali rilasciati dai venditori ambulanti. In particolar modo se è obbligatorio l’indirizzo/domicilio fiscale o se basta la ragione sociale e la partita iva e luogo di riferimento della camera di commercio della società
+**Domanda** Vorrei chiarimenti in merito alla corretta intestazione degli scontrini fiscali rilasciati dai venditori ambulanti. In particolar modo se è obbligatorio l’indirizzo/domicilio fiscale o se basta la ragione sociale e la partita IVA e luogo di riferimento della camera di commercio della società
 
 **Risposta** L’articolo 17, comma 2 del Decreto ministeriale 30.3.92, per quanto riguarda gli scontrini emessi con gli apparecchi per il commercio ambulante prevede che l’indirizzo dell’esercizio (che non esiste) sia sostituito dal numero di iscrizione al REC e la città sede della competente CCIAA. In seguito il D. Lgs. 31.3.98 n. 114, ha soppresso anche il numero REC.
 
