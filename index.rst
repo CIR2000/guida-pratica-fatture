@@ -4,7 +4,6 @@ Guida Pratica alle Fatture
 Contenuti:
 
 .. toctree::
-   :maxdepth: 2
    :numbered:
 
    introduzione
@@ -17,3 +16,4 @@ Contenuti:
    autofattura
    reversecharge
    ricevuta
+   conclusione
