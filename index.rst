@@ -49,37 +49,37 @@ Elementi obbligatori della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 1. Generalità del venditore (cedente) complete di Partita IVA
 
-.. image:: img/ElementiFattura1.png
+.. image:: images/ElementiFattura1.png
 
 2. Generalità del cliente (cessionario) complete di Partita IVA
 
-.. image:: img/ElementiFattura2.png
+.. image:: images/ElementiFattura2.png
 
 3. Numero e data della fattura
 
-.. image:: img/ElementiFattura3.png
+.. image:: images/ElementiFattura3.png
 
 4. Descrizione dei beni o dei servizi oggetto del contratto con il cliente
 
-.. image:: img/ElementiFattura4.png
+.. image:: images/ElementiFattura4.png
 
 5. Quantità erogate dei beni o dei servizi
 
-.. image:: img/ElementiFattura5.png
+.. image:: images/ElementiFattura5.png
 
 6. Prezzo unitario
 7. Eventuali sconti applicati
 8. Importo complessivo per le quantità cedute per ogni tipologia di bene o servizio
 9. Aliquote IVA per ogni tipologia di bene o servizio
 
-.. image:: img/ElementiFattura6.png
+.. image:: images/ElementiFattura6.png
 
 10. Eventuali spese accessorie
 11. Lannotazione di Imponibile e Imposta per ogni aliquota IVA applicata
 12. La descrizione con articolo di legge per ogni eventuale esenzione IVA
 13. I totali per Imponibile, Imposta ed Importi Esenti
 
-.. image:: img/ElementiFattura7.png
+.. image:: images/ElementiFattura7.png
 
 Elementi facoltativi della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -92,7 +92,7 @@ Sulla fattura possono essere annotati anche vari elementi contrattuali (facoltat
 
 Ed ecco il risultato finale, una fattura completa pronta per essere consegnata al cliente:
 
-.. image:: img/ElementiFattura8.png
+.. image:: images/ElementiFattura8.png
 
 Determinazione della base imponibile
 ------------------------------------
@@ -171,39 +171,39 @@ Segue lelenco dei dati obbligatori affinché il Documento di Trasporto sia val
 
 1. Generalità complete di Partita IVA del venditore (cedente)
 
-.. image:: img/ElementiDDT1.png
+.. image:: images/ElementiDDT1.png
 
 2. Generalità complete di Partita IVA del cliente (cessionario)
 
-.. image:: img/ElementiDDT2.png
+.. image:: images/ElementiDDT2.png
 
 3. Numero e data del documento
 
-.. image:: img/ElementiDDT3.png
+.. image:: images/ElementiDDT3.png
 
 4. Descrizione dei beni o dei servizi oggetto del contratto con il cliente
 
-.. image:: img/ElementiDDT4.png
+.. image:: images/ElementiDDT4.png
 
 5. Quantità dei beni o servizi
 
-.. image:: img/ElementiDDT5.png
+.. image:: images/ElementiDDT5.png
 
 6. Riferimento di chi effettua il trasporto (Mittente/Destinatario/Vettore).
 
-.. image:: img/ElementiDDT6.png
+.. image:: images/ElementiDDT6.png
 
 Nel caso del vettore vanno indicati i suoi riferimenti identificativi. Se il trasporto avviene con il passaggio delle merci fra diversi Vettori è sufficiente indicare sul DDT le generalità dei primo incaricato. Per alcune merci particolari è necessario individuare anche i dati dettagliati del trasportatore come persona fisica con anche il numero di patente, come ad esempio nel caso di trasporto di carburanti, liquidi speciali, altamente infiammabili  ed altro.
 
 7. Il numero dei colli ed il loro peso (facoltativi ma consigliati soprattutto con trasporto a mezzo Vettore)
 
-.. image:: img/ElementiDDT7.png
+.. image:: images/ElementiDDT7.png
 
 8. La data in cui le merci lasciano la sede del Cedente (può essere la data del documento oppure una data diversa)
 
 Nell'immagine vediamo un DDT completo:
 
-.. image:: img/ElementiDDT8.png
+.. image:: images/ElementiDDT8.png
 
 In questo caso si è scelto di esporre già i prezzi, i totali del documento e altre informazioni non obbligatorie come la banca di appoggio. Indicare i prezzi  può essere utile, sia come promemoria per il cessionario che per velocizzare la successiva emissione della fattura di vendita (in `Amica Fatturazione`_ loperazione diventa facile e veloce e può anche essere automatizzata), ma non è obbligatorio. Anzi, in molte situazione può essere utile o necessario non esporli come ad esempio i casi in cui il DDT venga maneggiato da persone che non devono conoscere i prezzi praticati.
 
@@ -396,7 +396,7 @@ Di norma la Fattura Differita viene utilizzata per la fatturazione a fine mese d
 
 Come regola generale la Fattura Differita può essere emessa solo in riferimento a cessione di beni consegnati con apposito DDT o bolla di accompagnamento (nei casi in cui è ancora prevista) o ricevuta fiscale o scontrino opportunamente integrati con i dati IVA. Quando viene utilizzata come riepilogativa dei DDT raggruppati essa deve contenere lindicazione di numero e data del documento di trasporto o altro documento con cui è stata consegnata la merce; deve essere emessa e consegnata al cliente entro il giorno 15 del mese successivo a quello dei documenti di riferimento per i documenti di trasporto.
 
-.. image:: img/TipologiaFattura1.png
+.. image:: images/TipologiaFattura1.png
 
 Fattura Accompagnatoria
 -----------------------
@@ -404,7 +404,7 @@ La fattura accompagnatoria è un documento che possiamo definire ibrido in quant
 
 Vediamone ora un esempio in quanto si tratta del tipo di fattura più complesso, proprio a causa delle sue caratteristiche di duplice valenza.
 
-.. image:: img/TipologiaFattura2.png
+.. image:: images/TipologiaFattura2.png
 
 Essendo una fattura conterrà quindi tutti gli elementi IVA con i relativi riepiloghi per aliquota. Tuttavia, dovendo anche sostituire il DDT, conterrà gli elementi relativi al trasporto come il Vettore, il peso, il numero colli, ecc. Ovviamente gli elementi obbligatori per ognuna delle due tipologie di documenti lo sono anche per la Fattura Accompagnatoria.
 
@@ -502,7 +502,7 @@ Supponiamo che siano stati offerti servizi per un valore di 1.000,00; a questo
 
 Qui sotto vediamo la Fattura dell'Avvocato (parcella) elaborata con lausilio di `Amica Fatturazione`_. Trattandosi di un esempio abbiamo scelto un modello di fattura/parcella molto semplice ma completo ed esemplificativo. Naturalmente è possibile personalizzare la stampa secondo le proprio esigenze e preferenze.
 
-.. image:: img/FatturaProfessionisti1.png
+.. image:: images/FatturaProfessionisti1.png
 
 Il consulente informatico
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -527,7 +527,7 @@ Supponiamo che siano stati offerti servizi per un valore di 1.000,00; a questo
 
 Anche in questo caso qui sotto vediamo la Fattura del Consulente Informatico (Fattura Professionisti) elaborata con lausilio di `Amica Fatturazione`_.
 
-.. image:: img/FatturaProfessionisti2.png
+.. image:: images/FatturaProfessionisti2.png
 
 L'agente di commercio
 ^^^^^^^^^^^^^^^^^^^^^
@@ -551,7 +551,7 @@ Il terzo caso è relativo a una categoria professionale speciale, dotata di una 
 
 Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con lausilio come sempre di `Amica Fatturazione`_.
 
-.. image:: img/FatturaProfessionisti3.png
+.. image:: images/FatturaProfessionisti3.png
 
 Minimali e massimimali Enasarco
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -599,11 +599,11 @@ Compilazione della fattura pro forma
 ------------------------------------
 Tecnicamente la fattura pro forma è molto simile alla fattura che poi si andrà ad emettere al cliente. Di seguito ne vediamo un esempio realizzato col programma gestionale `Amica 10`_.  Da notare nel riquadro tipo documento la dicitura fattura pro forma; assieme alla numerazione che è indipendente da quella delle fatture ordinarie è la vera differenza con la successiva fattura di vendita).
 
-.. image:: img/FatturaProforma1.png
+.. image:: images/FatturaProforma1.png
 
 Al momento del pagamento da parte del cliente, o comunque al momento dellemissione della fattura reale, il gestionale Amica rende loperazione facile e veloce: è infatti sufficiente richiamare la fattura pro forma in una nuova fattura (ad esempio accompagnatoria) ed il gioco è fatto: la fattura definitiva è pronta senza dover rifare il lavoro. Nellesempio vediamo quanto sia semplice il processo di importazione:
 
-.. image:: img/FatturaProforma2.png
+.. image:: images/FatturaProforma2.png
 
 Riepilogo
 ---------
@@ -659,7 +659,7 @@ Alcuni esempi in cui serve emettere Nota di Debito:
 
 Ecco una Nota di Debito fatta con il programma `Amica Fatturazione`_:
 
-.. image:: img/NoteVariazione1.png
+.. image:: images/NoteVariazione1.png
 
 Nota di Credito  Variazione in diminuzione
 -------------------------------------------
@@ -719,7 +719,7 @@ Nella risoluzione viene anche precisato che, qualora il cedente o il prestatore 
 
 Vediamo infine un esempio di Nota di Credito realizzata con `Amica Fatturazione`_:
 
-.. image:: img/NoteVariazione2.png
+.. image:: images/NoteVariazione2.png
 
 Riepilogo
 ---------
@@ -838,7 +838,7 @@ Registrazione di Acquisto
 - IVA Acquisti in Dare 220 (IVA calcolata sul valore della fattura)
 - Castelletto IVA come per una normale fattura di acquisto.
 
-.. image:: img/ReverseCharge1.png
+.. image:: images/ReverseCharge1.png
  
 Registrazione di Vendita
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -847,7 +847,7 @@ Registrazione di Vendita
 - IVA Vendite in Avere 220 (IVA calcolata sul valore della fattura)
 - Castelletto IVA come per una normale fattura di vendita.
 
-.. image:: img/ReverseCharge2.png 
+.. image:: images/ReverseCharge2.png 
 
 Registrazione Contabile
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -856,7 +856,7 @@ Registrazione Contabile
 - Ricavi in Dare 1000 (Storno ricavo della registrazione n. 2)
 - Nessun castelletto IVA
  
-.. image:: img/ReverseCharge2.png 
+.. image:: images/ReverseCharge2.png 
 
 Linversione contabile (obiettivo della legge) si realizza con lemissione dellautofattura perché in tal modo è il destinatario finale a corrispondere lIVA allErario anziché il fornitore. Se non ci fosse stato Reverse Charge ci sarebbe stata una fattura con IVA e sarebbe stata pagata al fornitore: l'azienda l'avrebbe portata in detrazione ed il Fornitore lavrebbe versata allErario; siccome è stato applicato il Reverse Charge entrambe le operazioni le fa il destinatario della merce: prima si porta l'IVA in detrazione con la fattura integrata e poi la si porta a debito con lautofattura. Il risultato finale di tutto questo è che, avendo neutralizzato liva in acquisto, verrà versato lintero ammontare delliva sulla vendita.
 
@@ -989,7 +989,7 @@ Limprenditore può liberamente scegliere tra lemissione dello scontrino e l�
 
 Lo scontrino deve essere emesso quando si consegna la merce, quando si completa la prestazione o quando si incassa il corrispettivo. Di norma lo scontrino può essere digitato manualmente sul Registratore di Cassa oppure realizzato automaticamente con il collegamento a lettori di codice a barre e/o programmi gestionali che integrino le funzioni per l'emissione di scontrini. Nel programma `Amica 10`_ è possibile compilare gli scontrini in unapposita finestra, anche attraverso lettore di codice a barre, e poi procedere alla memorizzazione per lo scarico del magazzino. Collegando un registratore di cassa fiscalizzato è anche possibile stampare direttamente lo scontrino. Qui sotto la finestra di emissione scontrini di `Amica 10`_.
 
-.. image:: img/RicevuteScontrini1.png
+.. image:: images/RicevuteScontrini1.png
 
 Sanzioni per mancata emissione di scontrino fiscale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1013,7 +1013,7 @@ La ricevuta fiscale deve essere emessa in duplice esemplare utilizzando modelli 
 
 Sotto vediamo un Fac-Simile di ricevuta fatta con il programma `Amica Fatturazione`_:
 
-.. image:: img/RicevuteScontrini2.png
+.. image:: images/RicevuteScontrini2.png
 
 Basta una rapida occhiata per rendersi conto che la ricevuta fiscale è un documento molto simile alla fattura, con i prezzi indicati IVA inclusa.
 
@@ -1074,6 +1074,7 @@ Domande Frequenti
 .. _`DPR 633/72`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
 .. _Enasarco: http://enasarco.it
 .. _`Amica 10`: http://gestionaleamica.com
+.. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
 
 
 Indices and tables
