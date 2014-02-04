@@ -99,19 +99,19 @@ Determinazione della base imponibile
 Molto importante al fine di realizzare una fattura corretta dal punto di vista fiscale è la determinazione della cosiddetta Base Imponibile: si tratta del valore a cui vengono applicate le imposte (calcolo dellIVA) nelle varie aliquote.
 Riporto un esempio di base per capire meglio come si determina la base imponibile:
 
-+----------------------------------------------------------------------+------------------------+ 
-| Descrizione                                                          | Importo                | 
-+======================================================================+========================+ 
-| Personal Computer                                                    |                 900,00| 
-+----------------------------------------------------------------------+------------------------+ 
-| Software                                                             |                 200,00| 
-+----------------------------------------------------------------------+------------------------+ 
-| Installazione                                                        |                 100,00| 
-+----------------------------------------------------------------------+------------------------+ 
-| Sconto complessivo 10% (su  1200,00)                             |               - 120,00| 
-+----------------------------------------------------------------------+------------------------+ 
-| **Base Imponibile**                                                  |          ** 1.080,00**| 
-+----------------------------------------------------------------------+------------------------+ 
++---------------------------------------------+-----------------+ 
+| Descrizione                                 | Importo         | 
++=============================================+=================+ 
+| Personal Computer                           |          €900,00| 
++---------------------------------------------+-----------------+ 
+| Software                                    |          €200,00| 
++---------------------------------------------+-----------------+ 
+| Installazione                               |          €100,00| 
++---------------------------------------------+-----------------+ 
+| Sconto complessivo 10% (su €1200,00)        |         -€120,00| 
++---------------------------------------------+-----------------+ 
+| Imponibile                                  |        €1.080,00| 
++---------------------------------------------+-----------------+ 
 
 Di fatto la base imponibile è il netto sul quale applicare le imposte detratti gli sconti percentuali, gli sconti in valore assoluto e gli eventuali acconti già pagati (e per quali è già stata emessa una fattura con relativa imposta).
 
@@ -230,9 +230,9 @@ Pur non potendo essere esaustiva, ecco una tabella con le principali causali di 
 +-------------------------+----------------------------------------------------------------------------------------------------+ 
 | Conto visione           | in questo caso i beni vengono inviati al cliente per essere visionati e poi essere restituiti;     |
 |                         | nel caso non vengano restituiti è necessario emettere fattura, che comunque va emessa nel termine  |
-|                         | di un anno dallemissione del DDT.                                                                 |
+|                         | di un anno dall'emissione del DDT.                                                                 |
 +-------------------------+----------------------------------------------------------------------------------------------------+
-| Conto deposito          | i beni sono inviati presso altra destinazione (magazzino, negozio ecc) al fine di essere tenuti   |
+| Conto deposito          | i beni sono inviati presso altra destinazione (magazzino, negozio ecc.) al fine di essere tenuti   |
 |                         | in deposito per successive disponibilità.                                                          |
 +-------------------------+----------------------------------------------------------------------------------------------------+ 
 | Conto vendita           | i beni sono inviati ad un cliente senza cessione immediata; il cliente tenterà di vendere questi   |
@@ -244,7 +244,7 @@ Pur non potendo essere esaustiva, ecco una tabella con le principali causali di 
 |                         | proprio mezzo un determinato quantitativo e varietà di beni e poi inizia il giro dei clienti cui   |
 |                         | consegna immediatamente la merce che riesce a vendere.                                             |
 +-------------------------+----------------------------------------------------------------------------------------------------+ 
-| Prestito duso          | con il prestito i beni vengono inviati al fornitore per poter essere utilizzati durante le         |
+| Prestito d'uso          | con il prestito i beni vengono inviati al fornitore per poter essere utilizzati durante le         |
 |                         | lavorazioni; in questo caso la consegna non è seguita da fattura.                                  |
 +-------------------------+----------------------------------------------------------------------------------------------------+
 | Conto lavorazione       | la merce viene inviata al fornitore per essere lavorata, rimanendo di proprietà dell'azienda; al   |
@@ -252,11 +252,11 @@ Pur non potendo essere esaustiva, ecco una tabella con le principali causali di 
 |                         | consegnato un prodotto finito risultato della lavorazione di più beni.                             |
 +-------------------------+----------------------------------------------------------------------------------------------------+ 
 | Omaggio                 | quando si invia merce in omaggio è obbligatorio emettere la fattura unicamente per la rivalsa      |
-|                         | dellIVA quando previsto dalla normativa                                                           |
+|                         | dell'IVA quando previsto dalla normativa                                                           |
 +-------------------------+----------------------------------------------------------------------------------------------------+
 | Riparazione /           | per questo specifico caso è necessario indicare se si tratta di riparazione in garanzia oppure no  |
 | Riparazione in garanzia | perché, nel caso l'operazione non sia coperta da Garanzia, dovrà poi essere emessa fattura per     |
-|                         | lintervento di riparazione.                                                                       |
+|                         | l'intervento di riparazione.                                                                       |
 +-------------------------+----------------------------------------------------------------------------------------------------+
 | Reso per accredito      | in questo caso la merce resa viene trattenuta e contestualmente si emetterà una nota di credito    |
 +-------------------------+----------------------------------------------------------------------------------------------------+
