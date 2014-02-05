@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Guida Pratica alle Fatture'
-copyright = u'2014, Stefano Gardini'
+copyright = u'2014, Stefano Gardini e AmicaBooks'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -266,8 +266,8 @@ texinfo_documents = [
 # Bibliographic Dublin Core info.
 epub_title = u'Guida Pratica alle Fatture'
 epub_author = u'Stefano Gardini'
-epub_publisher = u'Stefano Gardini'
-epub_copyright = u'2014, Stefano Gardini'
+epub_publisher = u'AmicaBooks'
+epub_copyright = u'2014, Stefano Gardini e AmicaBooks'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Guida Pratica alle Fatture'
