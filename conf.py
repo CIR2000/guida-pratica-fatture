@@ -349,4 +349,3 @@ pdf_documents = [
 ]
 # Language to be used for hyphenation support
 pdf_language = "it_IT"
-
