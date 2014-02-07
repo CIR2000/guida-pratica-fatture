@@ -1,4 +1,4 @@
-Fattura Immediata, Differita, Accompagnatoria
+﻿Fattura Immediata, Differita, Accompagnatoria
 =============================================
 Dopo aver introdotto gli :doc:`Elementi Base della Fattura <elementi>` ed aver visto il :doc:`Documento di Trasporto <ddt>`, in questo capitolo analizziamo le tipologie di fattura più usate: fattura immediata, fattura differita e fattura accompagnatoria. Come al solito per gli esempi ci serviremo del software di fatturazione `Amica Fatturazione`_ che ci permette di emettere tutte le tipologie di fattura possibili e di impostare il modulo di stampa come più ci piace e come meglio si adatta alla nostra categoria merceologica. Successivamente vedremo altre tipologie, come la fattura :doc:`pro-forma <proforma>` e le :doc:`note di credito e debito <variazioni>`. 
 
@@ -35,6 +35,12 @@ Vediamone ora un esempio in quanto si tratta del tipo di fattura più complesso,
 .. image:: images/TipologiaFattura2.png
 
 Essendo una fattura conterrà quindi tutti gli elementi IVA con i relativi riepiloghi per aliquota. Tuttavia, dovendo anche sostituire il DDT, conterrà gli elementi relativi al trasporto come il Vettore, il peso, il numero colli, ecc. Ovviamente gli elementi obbligatori per ognuna delle due tipologie di documenti lo sono anche per la Fattura Accompagnatoria.
+
+Fattura di Acconto
+------------------
+La fattura di acconto è un particolare tipo di documento che si utilizza quando il cliente paga anticipatamente uno o più importi: poichè contestualmente all'incasso è obbligatorio emettere la relativa certificazione fiscale (in questo caso la fattura) viene utilizzata la Fattura di Acconto che può contenere una descrizione anche molto semplice senza aver alcun collegamento con il bene o servizio per cui è stata emessa. Questa la rende molto flessibile. Successivamente, al momento dell'acquisto reale da parte del cliente del bene prenotato e di cui ha pagato l'acconto oppure alla conclusione del servizio per cui lo stesso era stato versato, verrà fatta la fattura definitiva (Accompagnatoria/Immediata/Differita) scontando l'importo già pagato e fatturato ed inserendo i relativi riferimenti alla fattura di acconto. In questo modo nella fattura definitiva verrà riportato l'intero valore del bene, ma dall'imponibile/imposta/netto a pagare verranno detratti gli importi già pagati. Nell'immagine sotto vediamo un esempio applicato che rende il tutto di facile comprensione.
+
+.. image:: images/TipologiaFattura3.png
 
 Domande Frequenti
 -----------------
