@@ -1,5 +1,5 @@
-﻿Fatture di Base
-===============
+﻿Fattura Immediata, Differita, Accompagnatoria e di Acconto
+==========================================================
 Dopo aver introdotto gli :doc:`Elementi Base della Fattura <elementi>` ed aver visto il :doc:`Documento di Trasporto <ddt>`, in questo capitolo analizziamo le tipologie di fattura più usate: fattura immediata, fattura differita, fattura accompagnatoria e, meno usata, la fattura di acconto. Come al solito per gli esempi ci serviremo del software di fatturazione `Amica Fatturazione`_ che ci permette di emettere tutte le tipologie di fattura possibili e di impostare il modulo di stampa come più ci piace e come meglio si adatta alla nostra categoria merceologica. Successivamente vedremo altre tipologie, come la fattura :doc:`pro-forma <proforma>` e le :doc:`note di credito e debito <variazioni>`. 
 
 .. _immediata:
