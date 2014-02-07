@@ -1,6 +1,6 @@
 ﻿Fattura Immediata, Differita, Accompagnatoria
 =============================================
-Dopo aver introdotto gli :doc:`Elementi Base della Fattura <elementi>` ed aver visto il :doc:`Documento di Trasporto <ddt>`, in questo capitolo analizziamo le tipologie di fattura più usate: fattura immediata, fattura differita e fattura accompagnatoria. Come al solito per gli esempi ci serviremo del software di fatturazione `Amica Fatturazione`_ che ci permette di emettere tutte le tipologie di fattura possibili e di impostare il modulo di stampa come più ci piace e come meglio si adatta alla nostra categoria merceologica. Successivamente vedremo altre tipologie, come la fattura :doc:`pro-forma <proforma>` e le :doc:`note di credito e debito <variazioni>`. 
+Dopo aver introdotto gli :doc:`Elementi Base della Fattura <elementi>` ed aver visto il :doc:`Documento di Trasporto <ddt>`, in questo capitolo analizziamo le tipologie di fattura più usate: fattura immediata, fattura differita, fattura accompagnatoria e, meno usata, la fattura di acconto. Come al solito per gli esempi ci serviremo del software di fatturazione `Amica Fatturazione`_ che ci permette di emettere tutte le tipologie di fattura possibili e di impostare il modulo di stampa come più ci piace e come meglio si adatta alla nostra categoria merceologica. Successivamente vedremo altre tipologie, come la fattura :doc:`pro-forma <proforma>` e le :doc:`note di credito e debito <variazioni>`. 
 
 .. _immediata:
 
@@ -35,6 +35,8 @@ Vediamone ora un esempio in quanto si tratta del tipo di fattura più complesso,
 .. image:: images/TipologiaFattura2.png
 
 Essendo una fattura conterrà quindi tutti gli elementi IVA con i relativi riepiloghi per aliquota. Tuttavia, dovendo anche sostituire il DDT, conterrà gli elementi relativi al trasporto come il Vettore, il peso, il numero colli, ecc. Ovviamente gli elementi obbligatori per ognuna delle due tipologie di documenti lo sono anche per la Fattura Accompagnatoria.
+
+.. _acconto:
 
 Fattura di Acconto
 ------------------
