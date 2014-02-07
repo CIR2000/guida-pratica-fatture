@@ -14,10 +14,10 @@ Sono previste comunque dalla normativa delle eccezioni per alcune categorie di s
 Le categorie dispensate dall'emissione di fattura sono:
 
 - le agenzie di viaggio in regime speciale;
-- gli agricoltori ed i pescatori che sono in regime di esonero per i quali l'obbligo deve essere assolto da chi acquista (cessionario) attraverso l'istituto dell'autofattura;
+- gli agricoltori ed i pescatori che sono in regime di esonero per i quali l'obbligo deve essere assolto da chi acquista (cessionario) attraverso l'istituto dell':doc:`autofattura <autofattura>`;
 - coloro che sono identificati e sottoposti al regime dei 'contribuenti minimi in franchigia' in vigore dall'1.1.2007;
 - le operazioni che rientrano in regimi particolari detti 'monofase' cioè con IVA assolta alla fonte come nel caso dell' editoria, generi di monopolio, ecc.;
-- i negozianti con vendita al dettaglio che hanno però altri obblighi come l'emissione dello scontrino fiscale, della ricevuta fiscale e/o la registrazione e trasmissione (anche telematica) dei corrispettivi;
+- i negozianti con vendita al dettaglio che hanno però altri obblighi come l'emissione dello :doc:`scontrino fiscale <ricevuta>`, della :doc:`ricevuta fiscale <ricevuta>` e/o la registrazione e trasmissione (anche telematica) dei corrispettivi;
 
 La fattura può essere emessa in forma cartacea od in forma elettronica nel giorno di effettuazione dell'operazione.  E' consentita anche l'emissione di un'unica fattura per tutte le prestazioni o cessioni di beni eseguite nello stesso giorno per lo stesso cliente.
 
@@ -100,37 +100,35 @@ Con queste informazioni di base si può realizzare una fattura corretta dal punt
 
 Conservazione delle Fatture
 ---------------------------
-La conservazione dei documenti emessi deve essere fatta per 5 anni ai fini tributari; vanno invece conservate 10 anni ai fini civilistici le scritture relative sul giornale di contabilità. Per questioni di prudenza viene di norma consigliata la conservazione per 10 anni anche dei documenti.
-I termini di conservazione possono essere prorogati da apposite leggi del parlamento oppure in caso di un accertamento da parte dell'amministrazione finanziaria notificato ma non definito oppure in caso di mancata presentazione del modello Unico ed in vari altri casi particolari.
+La conservazione dei documenti emessi deve essere fatta per 5 anni ai fini tributari; vanno invece conservate 10 anni ai fini civilistici le scritture relative sul giornale di contabilità. Per questioni di prudenza viene di norma consigliata la conservazione per 10 anni anche dei documenti. I termini di conservazione possono essere prorogati da apposite leggi del parlamento oppure in caso di un accertamento da parte dell'amministrazione finanziaria notificato ma non definito oppure in caso di mancata presentazione del modello Unico ed in vari altri casi particolari.
 
 In caso di utilizzo di sistemi per l'acquisizione ottica, fotografica o altra tecnologia adeguata è possibile non conservare i documenti emessi in originale (cartaceo) a patto di essere in grado di riprodurre a semplice richiesta su carta in qualsiasi istante il documento originale. La normativa sulla conservazione elettronica dei documenti è comunque in continua evoluzione.
 
-Riepilogo
----------
-Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. Sono le conoscenze di base comuni a tutte le tipologie di fattura che bisogna sempre tenere presenti al fine di non commettere errori nella compilazione delle proprie fatture.  A seguire andremo a vedere invece i dettagli delle singole tipologie di documento che possono essere utilizzate.
-
 Domande Frequenti
 -----------------
-**Domanda** Volevo sapere se le generalità del cliente sono obbligatorie su tutte le pagine della fattura o possono essere stampate solo sull'ultima pagina, come ad esempio il totale fattura, l'imponibile ecc ecc
+1. Volevo sapere se le generalità del cliente sono obbligatorie su tutte le pagine della fattura o possono essere stampate solo sull'ultima pagina, come ad esempio il totale fattura, l'imponibile ecc.
 
-**Risposta** Le generalità del cliente devono essere riportate in ogni pagina.
+   **Risposta** Le generalità del cliente devono essere riportate in ogni pagina.
 
-**Domanda** Volevo sapere se la fattura deve contenere obbligatoriamente l'intera descrizione del DDT o si può semplicemente riportare il riferimento al documento di trasporto che verrà allegato.
+2. Volevo sapere se la fattura deve contenere obbligatoriamente l'intera descrizione del :doc:`DDT <ddt>` o si può semplicemente riportare il riferimento al documento di trasporto che verrà allegato.
 
-**Risposta** No, non deve contenere l'intera descrizione, basta il riferimento al DDT di consegna.
+   **Risposta** No, non deve contenere l'intera descrizione, basta il riferimento al DDT di consegna.
 
-**Domanda** In termini legali, nel documento occorre specificare se la fattura è immediata o accompagnatoria o differita o basta la dicitura 'fattura'?
+3. In termini legali, nel documento occorre specificare se la fattura è :ref:`immediata <immediata>`, :ref:`accompagnatoria <accompagnatoria>` o :ref:`differita <differita>` o basta la dicitura 'fattura'?
 
-**Risposta** Non c'è un obbligo specifico ma è meglio indicarlo, anche se la sola dicitura 'Fattura' è sufficiente ad identificare una fattura immediata.
+   **Risposta** Non c'è un obbligo specifico ma è meglio indicarlo, anche se la sola dicitura 'Fattura' è sufficiente ad identificare una fattura immediata.
 
-**Domanda** L'eventuale sconto applicato può essere solo uno sull'importo finale o deve essere specificato per quali beni è applicato?
+4. L'eventuale sconto applicato può essere solo uno sull'importo finale o deve essere specificato per quali beni è applicato?
 
-**Risposta** Puoi applicare uno sconto (anche diverso) per ogni articolo della fattura oppure uno 'generale' valido per tutti gli articoli presenti.
+   **Risposta** Puoi applicare uno sconto (anche diverso) per ogni articolo della fattura oppure uno generale valido per tutti gli articoli presenti.
 
-**Domanda** Sulla fattura non è obbligatorio indicare il dato del registro imprese? il numero rea, il capitale eventualmente versato?
+5. Sulla fattura non è obbligatorio indicare il dato del registro imprese? il numero rea, il capitale eventualmente versato?
 
-**Risposta** Ci sono alcuni dati obbligatori per 'tutti'. Il numero di iscrizione al registro imprese non è obbligatorio per ditte individuali così come per le stesse non esiste un capitale sociale. Di conseguenza l'obbligo di indicare certi dati è conseguente al tipo di impresa e non alla fattura in se. Infatti esistono fatture perfettamente regolari con e senza quei dati come spiegato in questa sezione.
+   **Risposta** Ci sono alcuni dati obbligatori per tutti. Il numero di iscrizione al registro imprese non è obbligatorio per ditte individuali così come per le stesse non esiste un capitale sociale. Di conseguenza l'obbligo di indicare certi dati è conseguente al tipo di impresa e non alla fattura in se. Infatti esistono fatture perfettamente regolari con e senza quei dati come spiegato in questa sezione.
 
+Riepilogo
+---------
+Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. Sono le conoscenze di base comuni a tutte le tipologie di fattura che bisogna sempre tenere presenti al fine di non commettere errori nella compilazione delle proprie fatture. A seguire andremo a vedere i dettagli delle singole tipologie di documento che possono essere utilizzate.
 
 .. _`DPR 633/72`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
 .. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione

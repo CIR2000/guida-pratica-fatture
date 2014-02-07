@@ -40,7 +40,7 @@ Segue l'elenco dei dati obbligatori affinché il Documento di Trasporto sia vali
 
 .. image:: images/ElementiDDT6.png
 
-Nel caso del vettore vanno indicati i suoi riferimenti identificativi. Se il trasporto avviene con il passaggio delle merci fra diversi Vettori è sufficiente indicare sul DDT le generalità dei primo incaricato. Per alcune merci particolari è necessario individuare anche i dati dettagliati del trasportatore come persona fisica con anche il numero di patente, come ad esempio nel caso di trasporto di carburanti, liquidi speciali, altamente infiammabili  ed altro.
+Nel caso del vettore vanno indicati i suoi riferimenti identificativi. Se il trasporto avviene con il passaggio delle merci fra diversi Vettori è sufficiente indicare sul DDT le generalità dei primo incaricato. Per alcune merci particolari è necessario individuare anche i dati dettagliati del trasportatore come persona fisica con anche il numero di patente, come ad esempio nel caso di trasporto di carburanti, liquidi speciali, altamente infiammabili ed altro.
 
 7. Il numero dei colli ed il loro peso (facoltativi ma consigliati soprattutto con trasporto a mezzo Vettore)
 
@@ -52,20 +52,22 @@ Nell'immagine vediamo un DDT completo:
 
 .. image:: images/ElementiDDT8.png
 
-In questo caso si è scelto di esporre già i prezzi, i totali del documento e altre informazioni non obbligatorie come la banca di appoggio. Indicare i prezzi  può essere utile, sia come promemoria per il cessionario che per velocizzare la successiva emissione della fattura di vendita (in `Amica Fatturazione`_ l'operazione diventa facile e veloce e può anche essere automatizzata), ma non è obbligatorio. Anzi, in molte situazione può essere utile o necessario non esporli come ad esempio i casi in cui il DDT venga maneggiato da persone che non devono conoscere i prezzi praticati.
+In questo caso si è scelto di esporre già i prezzi, i totali del documento e altre informazioni non obbligatorie come la banca di appoggio. Indicare i prezzi  può essere utile, sia come promemoria per il cessionario che per velocizzare la successiva emissione della :doc:`fattura di vendita <fattura>` (in `Amica Fatturazione`_ l'operazione diventa facile e veloce e può anche essere automatizzata), ma non è obbligatorio. Anzi, in molte situazioni può essere utile o necessario non esporli come ad esempio i casi in cui il DDT venga maneggiato da persone che non devono conoscere i prezzi praticati.
 
 Aspetti civilistici
 ^^^^^^^^^^^^^^^^^^^
-Ritengo importante ricordare che i documenti di trasporto non rispondono solo all'adempimento della normativa fiscale ma ricoprono anche necessità di carattere civilistico come ad esempio la tutela e la garanzia per Cedente e Cessionario dell'avvenuta consegna delle merci nonché per una corretta gestione amministrativa. È quindi da valutare caso per caso l'opportunità di certificare con DDT anche operazioni che sarebbero esenti per la legislazione fiscale, anche allo scopo di ottenere dalla controparte una ricevuta dell'effettiva consegna dei beni.
+Ritengo importante ricordare che i documenti di trasporto non rispondono solo all'adempimento della normativa fiscale ma ricoprono anche necessità di carattere civilistico, come ad esempio la tutela e la garanzia per Cedente e Cessionario dell'avvenuta consegna delle merci nonché per una corretta gestione amministrativa. È quindi da valutare caso per caso l'opportunità di certificare con DDT anche operazioni che sarebbero esenti per la legislazione fiscale, anche allo scopo di ottenere dalla controparte una ricevuta dell'effettiva consegna dei beni.
 
-Dopo la soppressione della Bolla di Accompagnamento, l'introduzione del Documento di Trasporto permette alle imprese di continuare ad emettere la fattura differita (di cui parleremo in seguito), che senza documento di trasporto non avrebbe più avuto senso mancando il giustificativo di consegna.
+Dopo la soppressione della Bolla di Accompagnamento, l'introduzione del Documento di Trasporto permette alle imprese di continuare ad emettere la :ref:`fattura differita <differita>`, che senza documento di trasporto non avrebbe più avuto senso mancando il giustificativo di consegna.
 
 Trasporto di merci non destinate alla vendita
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Nel caso in cui si effettuino trasporti di merci non destinate alla vendita (conto lavorazione, riparazione, comodato d'uso, ecc.) è necessario un documento di trasporto con apposita causale che dimostri, ad un eventuale contestazione dell'amministrazione, che non si tratta di una vendita 'simulata' ma di una movimentazione di merce legata ad altri fattori e che la merce in oggetto rimane di proprietà del mittente del trasporto. Diversamente l'amministrazione, sulla base dell' art. 53 del decreto IVA, può applicare la presunzione di cessione (o acquisto nel caso di merci in ingresso) ed ipotizzare una cessione senza fattura con le relative conseguenze sanzionatorie.
+Nel caso in cui si effettuino trasporti di merci non destinate alla vendita (conto lavorazione, riparazione, comodato d'uso, ecc.) è necessario un documento di trasporto con apposita causale che dimostri, ad un eventuale contestazione dell'amministrazione, che non si tratta di una vendita simulata ma di una movimentazione di merce legata ad altri fattori e che la merce in oggetto rimane di proprietà del mittente del trasporto. Diversamente l'amministrazione, sulla base dell' art. 53 del decreto IVA, può applicare la presunzione di cessione (o acquisto nel caso di merci in ingresso) ed ipotizzare una cessione senza fattura con le relative conseguenze sanzionatorie.
 
-Tabella delle principali causali del DDT
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _causale:
+
+Principali causali di trasporto
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pur non potendo essere esaustiva, ecco una tabella con le principali causali di trasporto che vengono utilizzate nei DDT e i loro principali campi di applicazione. Potrà essere un'utile strumento per la compilazione corretta delle causali e degli eventuali adempimenti connessi.
 
 +-------------------------+----------------------------------------------------------------------------------------------------+ 
@@ -117,7 +119,7 @@ Riepilogando:
 - permette di avvalersi della fatturazione differita;
 - consente di non cadere nelle presunzioni di cui all'art. 53 del D.P.R. 633/72;
 - permette di movimentare merce per motivazioni diverse dalla cessione/vendita;
-- ha valenza di 'ricevuta' ai fini civilistici.
+- ha valenza di ricevuta ai fini civilistici.
 
 Emissione e conservazione del Documento di Trasporto
 ----------------------------------------------------
@@ -125,12 +127,12 @@ Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure 
 
 .. admonition:: Consiglio
 
-    Si consiglia di conservarli assieme alla fattura in cui le merci consegnate
+    Si consiglia di conservare i DDT assieme alla fattura in cui le merci consegnate
     sono state fatturate.
 
 Approfondimento
 ---------------
-Nei prossimi paragrafi analizziamo alcuni casi particolari, come quelli in cui si rende necessario rilasciare il DDT anche in relazione all'emissione di altri documenti. Ecco il sommario degli argomenti trattati:
+Nei prossimi paragrafi analizziamo alcuni casi particolari, come quelli in cui si rende necessario rilasciare il DDT anche in relazione all'emissione di altri documenti. Ecco il sommario degli argomenti che tratteremo:
 
 1. Scontrino Fiscale
 2. Ricevuta Fiscale
@@ -141,7 +143,7 @@ Nei prossimi paragrafi analizziamo alcuni casi particolari, come quelli in cui s
 
 Documento di trasporto e scontrino fiscale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il Documento di Trasporto, se con causale di cessione beni e completo con l'ammontare dei corrispettivi, sostituisce l'emissione dello scontrino fiscale. I commercianti al minuto ed i soggetti assimilati potranno quindi scegliere, per certificare i corrispettivi, una delle seguenti modalità:
+Il Documento di Trasporto, se con causale di cessione beni e completo con l'ammontare dei corrispettivi, sostituisce l'emissione dello :ref:`scontrino fiscale <scontrino>`. I commercianti al minuto ed i soggetti assimilati potranno quindi scegliere, per certificare i corrispettivi, una delle seguenti modalità:
 
 - Emissione di scontrino fiscale
 - Emissione di fattura immediata
@@ -149,7 +151,7 @@ Il Documento di Trasporto, se con causale di cessione beni e completo con l'ammo
 
 Documento di trasporto e ricevuta fiscale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I contribuenti che sono tenuti all'emissione della Ricevuta Fiscale per la certificazione dei corrispettivi non devono compilare il Documento di Trasporto. L'emissione della ricevuta fiscale (completa dei dati identificativi del cliente) consente di procedere all'emissione della Fattura Differita e sostituisce di fatto il documento di trasporto stesso. Premesso che la Fattura Differita va emessa solo ed esclusivamente nel caso di cessione di beni, è opportuno chiarire il comportamento da seguire in caso di prestazioni di servizi che presuppongano la consegna del bene finito o lavorato.
+I contribuenti che sono tenuti all'emissione della :ref:`Ricevuta Fiscale <ricevuta>` per la certificazione dei corrispettivi non devono compilare il Documento di Trasporto. L'emissione della ricevuta fiscale (completa dei dati identificativi del cliente) consente di procedere all'emissione della :ref:`Fattura Differita <differita>` e sostituisce di fatto il documento di trasporto stesso. Premesso che la Fattura Differita va emessa solo ed esclusivamente nel caso di cessione di beni, è opportuno chiarire il comportamento da seguire in caso di prestazioni di servizi che presuppongano la consegna del bene finito o lavorato.
 
 Innanzitutto il comportamento da tenere cambia se la prestazione viene resa in un locale non aperto al pubblico o presso un' impresa, oppure in un locale aperto al pubblico, in forma ambulante o nell'abitazione di un cliente privato.
 
@@ -172,7 +174,7 @@ Nel caso di trasporto di merci per la tentata vendita ci sono due comportamenti 
 
 Documento di trasporto e i beni in conto lavorazione, riparazione e deposito
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Nel caso di consegna di beni a terzi (ovvero da parte di terzi) in conto lavorazione, deposito, comodato ovvero in dipendenza di contratti estimatori o contratti d'opera, appalto, trasporto, mandato, commissione o altra motivazione che non configura il trasferimento di proprietà, il DDT costituisce una delle prove valide per vincere la presunzione di cessione (ovvero di acquisto nel caso di ricezione merci). Per adempiere correttamente al suo scopo il DDT deve contenere la causale del trasporto e deve essere conservato da entrambe le parti.
+Nel caso di consegna di beni a terzi (ovvero da parte di terzi) in conto lavorazione, deposito, comodato ovvero in dipendenza di contratti estimatori o contratti d'opera, appalto, trasporto, mandato, commissione o altra motivazione che non configura il trasferimento di proprietà, il DDT costituisce una delle prove valide per vincere la presunzione di cessione (ovvero di acquisto nel caso di ricezione merci). Per adempiere correttamente al suo scopo il DDT deve contenere la :ref:`causale del trasporto <causale>` e deve essere conservato da entrambe le parti.
 
 Documento di trasporto e gli agenti di commercio: i campionari
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -181,6 +183,36 @@ Per la consegna del campionario all'agente la ditta mandante emetterà un DDT co
 Documento di trasporto e guardia di finanza: i controlli su strada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 I controlli dei trasporti su strada spettano esclusivamente alla Guardia di Finanza, che deve verificare la corrispondenza di quanto risultante dal DDT (o dichiarato dal conducente) con le risultanze effettive; successivamente la GdF o l'Ufficio Iva potranno verificare l'eventuale corretta fatturazione.
+
+Domande Frequenti
+-----------------
+1. Posso emettere in un unico DDT merce in conto lavorazione e vendita? In questo caso nella causale di trasporto cosa metto?
+
+   **Risposta** In questo caso è meglio fare i due DDT separati sia per chiarezza sia per gestire una causale del trasporto univoca, certa e non ambigua.
+
+2. Cortesemente i blocchi di DDT debbono essere vidimati/bollati, oppure possono essere utilizzati dopo il loro acquisto (tipo Buffetti)
+
+   **Risposta** Il DDT è redatto in carta semplice quindi nessuna vidimazione o numeri prestampati tipo le vecchie bolle di accompagnamento. I modelli Buffetti vanno benissimo.
+
+3. Una volta emesso un DDT può essere modificato a penna? Ad esempio stampo un ddt con il numero seriale di un componente e successivamente lo modifico a penna, prima del trasporto, posso farlo? Inoltre il ddt può anche essere redatto a penna? Perdonami ma non riesco a documentarmi e volevo essere sicuro su come sia regolato ad oggi il DDT.
+
+   **Risposta** Si puoi correggerlo a penna purchè la correzione sia (ovviamente) riportata su tutte le copie. Puoi anche compilarlo a penna, nessuna legge può (ad oggi) obbligarti a farlo con un PC, anche ser motivi di tempo, leggibilità e rintracciabilità elettronica è molto conveniente.
+
+4. Se una ditta produce fiori in una serra e li trasporta al luogo di vendita con un camion di proprietà, la merce deve essere accompagnata da documento di trasporto?
+
+   **Risposta** Sì il DDT per trasporto merce da due sedi della stessa azienda è comunque necessario.
+
+5. Siamo un'azienda produttrice ed effettuiamo lavorazioni per c/terzi, ricevendo merce in c/lavorazione, al momento della spedizione del prodotto finito, qual'è la giusta causale da inserire sul DDT?
+
+   **Risposta** La causale è 'Reso da c/lavorazione'.
+
+6. Sono impiegata in una ditta che utilizza DDT in tre copie per abitudine. Vorrei sapere se esiste l'obbligatorietà di pinzare la seconda copia (quella firmata dal cliente) alla relativa fattura (differita) e nel caso di un controllo fiscale cosa comporterebbe l'assenza di questa . La presenza della terza copia nel relativo blocco è però garantita.
+
+   **Risposta** No l'obbligo di allegare il DDT alla fattura non c'è, basta poter esibire il documento a richiesta. La pinzatura rappresenta una comodità gestionale (facilità di reperimento) ed anche dal punto di vista civilistico: in caso il cliente contesti la consegna della merce tu potrai esibire la sua firma di ritiro merce rintracciando immediatamente il documento di consegna (DDT).
+
+7. E' possibile indicare lo stesso numero di DDT su due o più fatture?
+
+   **Risposta** Sì se ci sono delle motivazioni valide. Faccio un esempio: DDT di conto vendita, dopo un mese fatturo alcuni articoli venduti di quel DDT, dopo due mesi fatturo altri articoli venduti di quel DDT e così via Riporterò sulle varie fatture sempre lo stesso numero DDT come riferimento.
 
 Riepilogo
 ---------
@@ -192,35 +224,6 @@ Il DDT, come abbiamo potuto vedere, è un documento che ricopre molti aspetti si
     (salvo i casi di attrezzi specifici per il lavoro degli artigiani) perché
     è il miglior modo per vincere la 'presunzione di cessione' in caso di
     controlli. Le sanzioni possono anche essere salate.
-
-Domande Frequenti
------------------
-**Domanda** Posso emettere in un unico DDT merce in conto lavorazione e vendita? In questo caso nella causale di trasporto cosa metto?
-
-**Risposta** In questo caso è meglio fare i due DDT separati sia per chiarezza sia per gestire una causale del trasporto univoca, certa e non ambigua.
-
-**Domanda** Cortesemente i blocchi di DDT debbono essere vidimati/bollati, oppure possono essere utilizzati dopo il loro acquisto (tipo Buffetti)
-
-**Risposta** Il DDT è redatto in carta semplice quindi nessuna vidimazione o numeri prestampati tipo le vecchie bolle di accompagnamento. I modelli Buffetti vanno benissimo.
-
-**Domanda** Una volta emesso un DDT può essere modificato a penna? Ad esempio stampo un ddt con il numero seriale di un componente e successivamente lo modifico a penna, prima del trasporto, posso farlo? Inoltre il ddt può anche essere redatto a penna? Perdonami ma non riesco a documentarmi e volevo essere sicuro su come sia regolato ad oggi il DDT.
-
-**Risposta** Si puoi correggerlo a penna purchè la correzione sia (ovviamente) riportata su tutte le copie. Puoi anche compilarlo a penna, nessuna legge può (ad oggi) obbligarti a farlo con un PC, anche ser motivi di tempo, leggibilità e rintracciabilità elettronica è molto conveniente.
-
-**Domanda** Se una ditta produce fiori in una serra e li trasporta al luogo di vendita con un camion di proprietà, la merce deve essere accompagnata da documento di trasporto?
-**Risposta** Sì il DDT per trasporto merce da due sedi della stessa azienda è comunque necessario.
-
-**Domanda** Siamo un'azienda produttrice ed effettuiamo lavorazioni per c/terzi, ricevendo merce in c/lavorazione, al momento della spedizione del prodotto finito, qual'è la giusta causale da inserire sul DDT?
-
-**Risposta** La causale è 'Reso da c/lavorazione'.
-
-**Domanda** Sono impiegata in una ditta che utilizza DDT in tre copie per abitudine. Vorrei sapere se esiste l'obbligatorietà di pinzare la seconda copia (quella firmata dal cliente) alla relativa fattura (differita) e nel caso di un controllo fiscale cosa comporterebbe l'assenza di questa . La presenza della terza copia nel relativo blocco è però garantita.
-
-**Risposta** No l'obbligo di allegare il DDT alla fattura non c'è, basta poter esibire il documento a richiesta. La pinzatura rappresenta una comodità gestionale (facilità di reperimento) ed anche dal punto di vista civilistico: in caso il cliente contesti la consegna della merce tu potrai esibire la sua firma di ritiro merce rintracciando immediatamente il documento di consegna (DDT).
-
-**Domanda** E' possibile indicare lo stesso numero di DDT su due o più fatture?
-
-**Risposta** Sì se ci sono delle motivazioni valide. Faccio un esempio: DDT di conto vendita, dopo un mese fatturo alcuni articoli venduti di quel DDT, dopo due mesi fatturo altri articoli venduti di quel DDT e così via Riporterò sulle varie fatture sempre lo stesso numero DDT come riferimento.
 
 .. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
 .. _`DPR 472/96`: http://www.fog.it/legislaz/dpr-96-0472.htm
