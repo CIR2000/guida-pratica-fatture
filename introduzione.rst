@@ -1,9 +1,9 @@
 Prefazione
-----------
+==========
 WIP
 
 L'autore
---------
+========
 Stefano Gardini nasce a Marina di Ravenna il 17 Aprile 1966. Nel 1991, da
 studente universitario, fonda la sua prima società, ancora oggi operativa ed
 editore di questo libro. Si laurea nel 1992 presso Università degli Studi di
