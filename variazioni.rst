@@ -102,7 +102,7 @@ Riepilogo
 ---------
 **Maneggiare con cura le Note di Credito.** Si tratta di un documento che diminuisce l'ammontare dei ricavi aziendali per cui è sempre valutato con grande attenzione dagli addetti in cado di controllo fiscale, per cui bisogna sempre che ci siano valide motivazioni per la sua emissione, meglio se accompagnate da documentazione tipo l'interscambio di comunicazioni tra azienda e cliente per un reso di merce difettosa o per un reso per sostituzione della merce o quant'altro.
 
-.. admonition:: Consiglio
+.. note::
 
     Fate davvero grande attenzione ai casi in cui la Nota di Credito può essere
     emessa recuperando l'iva ed ai casi in cui l'iva viene invece

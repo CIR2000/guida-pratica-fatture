@@ -49,7 +49,9 @@ Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a quest
 | **Netto a pagare**                                                   |          **€ 1.044,40**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: il netto a pagare è calcolato come (imponibile prestazione + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
+.. note::
+
+    il netto a pagare è calcolato come (imponibile prestazione + contributo cassa previdenziale + IVA) - ritenuta di acconto.
 
 Qui sotto vediamo la Fattura dell'Avvocato (parcella) elaborata con l'ausilio di `Amica Fatturazione`_. Trattandosi di un esempio abbiamo scelto un modello di fattura/parcella molto semplice ma completo ed esemplificativo. Naturalmente è possibile personalizzare la stampa secondo le proprio esigenze e preferenze.
 
@@ -74,7 +76,10 @@ Supponiamo che siano stati offerti servizi per un valore di €1.000,00; a quest
 | **Netto a pagare**                                                   |          **€ 1.060,80**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: il netto a pagare è calcolato come (imponibile prestazione> + contributo cassa previdenziale + IVA) - ritenuta di acconto.**
+.. note::
+
+    Il netto a pagare è calcolato come (imponibile prestazione + contributo
+    cassa previdenziale + IVA) - ritenuta di acconto.
 
 Anche in questo caso qui sotto vediamo la Fattura del Consulente Informatico (Fattura Professionisti) elaborata con l'ausilio di `Amica Fatturazione`_.
 
@@ -98,7 +103,10 @@ Il terzo caso è relativo a una categoria professionale speciale, dotata di una 
 | **Netto a pagare**                                                   |          **€ 2.072,50**|
 +----------------------------------------------------------------------+------------------------+ 
 
-**NOTA BENE: netto a pagare è calcolato come (imponibile prestazione + IVA - ritenuta Enasarco) - ritenuta di acconto.**
+.. note::
+
+    Netto a pagare è calcolato come (imponibile prestazione + IVA - ritenuta
+    Enasarco) - ritenuta di acconto. 
 
 Di nuovo vediamo la Fattura Provvigioni dell'agente di commercio elaborata con l'ausilio come sempre di `Amica Fatturazione`_.
 
@@ -112,7 +120,7 @@ Riepilogo
 ---------
 Il documento del Professionista per certificare fiscalmente i compensi ricevuti. Attraverso questo documento, oltre agli importi per i servizi e le prestazioni  rese, vengono anche certificate le rivalse per le casse previdenziali previste per legge, vengono aggiunti i recuperi di spese sostenute per conto del cliente (bolli, vidimazioni e altro) e viene evidenziata la ritenuta di acconto che le aziende clienti devono versare come sostituto di imposta.
 
-.. admonition:: Consiglio
+.. note::
 
     Porre molta attenzione ai calcoli di IVA e ritenuta di acconto perché,
     a seconda della tipologia professionale, variano, come abbiamo visto negli

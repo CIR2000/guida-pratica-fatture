@@ -8,7 +8,7 @@ Il `DPR 472/96`_ ha introdotto il Documento di Trasporto (DDT) come sostituzione
 
 Il Documento di Trasporto deve essere emesso prima della consegna diretta o dell'affidamento dei beni al trasportatore, e deve contenere l'indicazione alcuni elementi obbligatori. In alternativa può essere inviato al destinatario (via fax, via email o altro) entro il giorno stesso dell'invio della merce. 
 
-.. admonition:: Consiglio
+.. note:: 
 
     Consigliamo di accompagnare sempre le merci con il Documento di Trasporto.
 
@@ -125,7 +125,7 @@ Emissione e conservazione del Documento di Trasporto
 ----------------------------------------------------
 Il Documento di Trasporto deve accompagnare i beni durante il trasporto, oppure  essere spedito (anche via fax o altro mezzo) entro il giorno stesso dell'inizio del trasporto al cessionario. I DDT relativi ai trasporti con fatturazione differita devono essere conservati fino alla scadenza dei termini per l'accertamento.  
 
-.. admonition:: Consiglio
+.. note:: 
 
     Si consiglia di conservare i DDT assieme alla fattura in cui le merci consegnate
     sono state fatturate.
@@ -159,7 +159,7 @@ Innanzitutto il comportamento da tenere cambia se la prestazione viene resa in u
 
 2. Nel caso invece la prestazione venga resa in un locale aperto al pubblico o nell' abitazione di clienti privati non è obbligatoria l'emissione della fattura se non a richiesta del cliente e non oltre il momento di effettuazione della prestazione. In questo caso deve essere emessa la Ricevuta Fiscale al momento del suo completamento (fine lavoro).
 
-.. admonition:: Consiglio
+.. note:: 
 
     Al fine di vincere la presunzione di cessione all'art. 53 del D.P.R. 633/72
     consiglio sempre l'emissione di un DDT quando si prevede che la prestazione
@@ -218,7 +218,7 @@ Riepilogo
 ---------
 Il DDT, come abbiamo potuto vedere, è un documento che ricopre molti aspetti sia fiscali che civilistici. E' molto importante per molte aziende, come ad esempio quelle che consegnano merce più volte al mese e fanno poi fattura riepilogativa. Nella realizzazione di un DDT va posta particolare attenzione al fine di evitare sanzioni visto che è il documento che spesso viene controllato su strada dalla Guardia di Finanza.
 
-.. admonition:: Consiglio
+.. note::
 
     Utilizzate sempre un DDT quando spostate merci, macchinari o attrezzature
     (salvo i casi di attrezzi specifici per il lavoro degli artigiani) perché
