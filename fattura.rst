@@ -58,7 +58,7 @@ Riepilogo
 ---------
 Abbiamo analizzato in questo capitolo le tipologie di fattura usate comunemente nelle aziende sia commerciali che di servizi. Vi invito a porre particolare attenzione alla scelta del tipo di documento corretto sulla base della vostra operatività ed all'uso corretto delle aliquote IVA per i vari prodotti/servizi che vendete. 
 
-.. admonition:: Consiglio
+.. note::
 
     Poiché anche la fattura come molte altre comunicazioni aziendali
     è rappresentativa della vostra immagine, vi consiglio di curarne in modo

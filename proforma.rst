@@ -57,7 +57,7 @@ Riepilogo
 ---------
 Questo è lo strumento che permette al professionista di anticipare al cliente gli importi da pagare ed emettere la fattura vera e propria solo dopo aver incassato quanto richiesto. In questo modo gli obblighi fiscali relativi all'emissione di una fattura, versamento IVA in primis, verranno adempiuti solo dopo aver incassato il denaro dal cliente in modo da non doversi esporre anticipando versamenti di imposte se il cliente non effettuata il pagamento in modo puntuale; è una facoltà concessa dalla legge ai professionisti.
 
-.. admonition:: Consiglio
+.. note::
 
     Evidenziate bene che si tratta di una fattura proforma (a volte si utilizza
     anche la dicitura preavviso di parcella) per non rischiare di ricadere
