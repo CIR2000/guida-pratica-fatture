@@ -18,8 +18,8 @@ evitare più facilmente a priori.
 
 Ecco che ci viene incontro quest'ottimo ebook gratuito, scritto con stile molto
 diretto e dettagliato dall'ing. Stefano Gardini, cofondatore della società
-CIR2000 insieme a Nicola Iarocci, entrambi autori dell'ottimo software,
-`Gestionale Amica`_ ed autore del blog `Contabilità Facile`_. Grazie alla sua
+CIR2000 insieme a Nicola Iarocci. Entrambi sono autori dell'ottimo software,
+`Gestionale Amica`_  e del blog `Contabilità Facile`_. Grazie alla sua
 ventennale esperienza in materia, l'ing. Gradini è riuscito a parlare di un
 argomento molto ostico, rendendolo davvero alla portata di tutti.
 
@@ -63,10 +63,11 @@ molto scorrevole e soprattutto utile a tutti. Buona lettura e buon lavoro.
 *Antonio Maroscia*
 
 .. note::
-    Addetto paghe e consulente del lavoro, Antonio Maroscia
-    è il creatore e principale autore dell'autorevole sito `Lavoro e Diritti`_.
-    
+    Antonio Maroscia, consulente del lavoro e addetto paghe, è il creatore
+    dell'autorevole sito `Lavoro e Diritti`_ sul quale scrive di problematiche
+    fiscali, diritto del lavoro e temi affini.
 
+    
 L'autore
 ========
 Stefano Gardini nasce a Marina di Ravenna il 17 Aprile 1966. Nel 1991, da
