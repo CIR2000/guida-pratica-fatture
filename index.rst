@@ -4,7 +4,8 @@ Questa Guida Alle Fatture è dedicata ai principianti che vogliono saperne di pi
 
 Non mancheranno argomenti più avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di iscrivervi alla Newsletter_, così da non perdervi i futuri articoli sull'argomento, pubblicati anche sul nostro seguitissimo Blog_.
 
-Contenuti:
+Indice
+------
 
 .. toctree::
    :numbered:
