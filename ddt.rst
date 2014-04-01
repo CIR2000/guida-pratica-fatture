@@ -188,31 +188,31 @@ Domande Frequenti
 -----------------
 1. Posso emettere in un unico DDT merce in conto lavorazione e vendita? In questo caso nella causale di trasporto cosa metto?
 
-   **Risposta** In questo caso è meglio fare i due DDT separati sia per chiarezza sia per gestire una causale del trasporto univoca, certa e non ambigua.
+**Risposta** In questo caso è meglio fare i due DDT separati sia per chiarezza sia per gestire una causale del trasporto univoca, certa e non ambigua.
 
 2. Cortesemente i blocchi di DDT debbono essere vidimati/bollati, oppure possono essere utilizzati dopo il loro acquisto (tipo Buffetti)
 
-   **Risposta** Il DDT è redatto in carta semplice quindi nessuna vidimazione o numeri prestampati tipo le vecchie bolle di accompagnamento. I modelli Buffetti vanno benissimo.
+**Risposta** Il DDT è redatto in carta semplice quindi nessuna vidimazione o numeri prestampati tipo le vecchie bolle di accompagnamento. I modelli Buffetti vanno benissimo.
 
 3. Una volta emesso un DDT può essere modificato a penna? Ad esempio stampo un ddt con il numero seriale di un componente e successivamente lo modifico a penna, prima del trasporto, posso farlo? Inoltre il ddt può anche essere redatto a penna? Perdonami ma non riesco a documentarmi e volevo essere sicuro su come sia regolato ad oggi il DDT.
 
-   **Risposta** Si puoi correggerlo a penna purchè la correzione sia (ovviamente) riportata su tutte le copie. Puoi anche compilarlo a penna, nessuna legge può (ad oggi) obbligarti a farlo con un PC, anche ser motivi di tempo, leggibilità e rintracciabilità elettronica è molto conveniente.
+**Risposta** Si puoi correggerlo a penna purchè la correzione sia (ovviamente) riportata su tutte le copie. Puoi anche compilarlo a penna, nessuna legge può (ad oggi) obbligarti a farlo con un PC, anche ser motivi di tempo, leggibilità e rintracciabilità elettronica è molto conveniente.
 
 4. Se una ditta produce fiori in una serra e li trasporta al luogo di vendita con un camion di proprietà, la merce deve essere accompagnata da documento di trasporto?
 
-   **Risposta** Sì il DDT per trasporto merce da due sedi della stessa azienda è comunque necessario.
+**Risposta** Sì il DDT per trasporto merce da due sedi della stessa azienda è comunque necessario.
 
 5. Siamo un'azienda produttrice ed effettuiamo lavorazioni per c/terzi, ricevendo merce in c/lavorazione, al momento della spedizione del prodotto finito, qual'è la giusta causale da inserire sul DDT?
 
-   **Risposta** La causale è 'Reso da c/lavorazione'.
+**Risposta** La causale è 'Reso da c/lavorazione'.
 
 6. Sono impiegata in una ditta che utilizza DDT in tre copie per abitudine. Vorrei sapere se esiste l'obbligatorietà di pinzare la seconda copia (quella firmata dal cliente) alla relativa fattura (differita) e nel caso di un controllo fiscale cosa comporterebbe l'assenza di questa . La presenza della terza copia nel relativo blocco è però garantita.
 
-   **Risposta** No l'obbligo di allegare il DDT alla fattura non c'è, basta poter esibire il documento a richiesta. La pinzatura rappresenta una comodità gestionale (facilità di reperimento) ed anche dal punto di vista civilistico: in caso il cliente contesti la consegna della merce tu potrai esibire la sua firma di ritiro merce rintracciando immediatamente il documento di consegna (DDT).
+**Risposta** No l'obbligo di allegare il DDT alla fattura non c'è, basta poter esibire il documento a richiesta. La pinzatura rappresenta una comodità gestionale (facilità di reperimento) ed anche dal punto di vista civilistico: in caso il cliente contesti la consegna della merce tu potrai esibire la sua firma di ritiro merce rintracciando immediatamente il documento di consegna (DDT).
 
 7. E' possibile indicare lo stesso numero di DDT su due o più fatture?
 
-   **Risposta** Sì se ci sono delle motivazioni valide. Faccio un esempio: DDT di conto vendita, dopo un mese fatturo alcuni articoli venduti di quel DDT, dopo due mesi fatturo altri articoli venduti di quel DDT e così via Riporterò sulle varie fatture sempre lo stesso numero DDT come riferimento.
+**Risposta** Sì se ci sono delle motivazioni valide. Faccio un esempio: DDT di conto vendita, dopo un mese fatturo alcuni articoli venduti di quel DDT, dopo due mesi fatturo altri articoli venduti di quel DDT e così via. Riporterò sulle varie fatture sempre lo stesso numero DDT come riferimento.
 
 Riepilogo
 ---------
