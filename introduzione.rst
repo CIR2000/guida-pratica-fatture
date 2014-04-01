@@ -1,14 +1,10 @@
 Prefazione
 ==========
-<<<<<<< HEAD
-WIP
-=======
 Ad uno sguardo poco attento o superficiale, potrebbe sfuggire l'importanza di
 una fattura corretta. Quello che a prima vista sembra essere una semplice nota
 contabile, con il passare degli anni e dell'evolversi della normativa fiscale,
 è diventato un documento molto complesso, soggetto a norme sempre più
 particolari. 
->>>>>>> d1656804492e03b950ea9c7b9604f363becd4ed7
 
 Affidarsi ad un professionista e ad un software ben sviluppato è di vitale
 importanza per la buona riuscita di un'impresa e, soprattutto, per farsi
