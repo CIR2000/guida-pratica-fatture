@@ -276,7 +276,7 @@ epub_copyright = u'2014, Stefano Gardini e AmicaBooks'
 # for small screen space, using the same theme for HTML and epub output is
 # usually not wise. This defaults to 'epub', a theme designed to save visual
 # space.
-#epub_theme = 'epub'
+epub_theme = 'epub'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
@@ -293,7 +293,7 @@ epub_copyright = u'2014, Stefano Gardini e AmicaBooks'
 #epub_uid = ''
 
 # A tuple containing the cover image and cover page html template filenames.
-#epub_cover = ()
+epub_cover = ('_images/copertina.png','')
 
 # A sequence of (type, uri, title) tuples for the guide element of content.opf.
 #epub_guide = ()
@@ -326,6 +326,7 @@ epub_exclude_files = ['search.html']
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #epub_show_urls = 'inline'
+epub_show_urls = 'footnote'
 
 # If false, no index is generated.
 #epub_use_index = True
