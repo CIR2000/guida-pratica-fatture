@@ -10,7 +10,6 @@ Indice
 .. toctree::
    :numbered:
 
-   copertina
    introduzione
    elementi
    ddt
