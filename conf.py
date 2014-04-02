@@ -286,11 +286,11 @@ epub_theme = 'epub'
 #epub_language = ''
 
 # The scheme of the identifier. Typical schemes are ISBN or URL.
-#epub_scheme = ''
+epub_scheme = 'ISBN'
 
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
-#epub_identifier = ''
+epub_identifier = '9788898895007'
 
 # A unique identification for the text.
 #epub_uid = ''
