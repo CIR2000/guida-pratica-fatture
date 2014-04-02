@@ -269,6 +269,9 @@ epub_author = u'Stefano Gardini'
 epub_publisher = u'AmicaBooks'
 epub_copyright = u'2014, Stefano Gardini e AmicaBooks'
 
+# disable breadcrumbs/navgation links and default copyright footer.
+epub_theme_options = {"relbar1": False, "footer": False}
+
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Guida Pratica alle Fatture'
 
