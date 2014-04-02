@@ -332,7 +332,7 @@ epub_exclude_files = ['search.html']
 epub_show_urls = 'footnote'
 
 # If false, no index is generated.
-#epub_use_index = True
+epub_use_index = False
 
 # -- Options for PDF output --------------------------------------------------
 # Grouping the document tree into PDF files. List of tuples
