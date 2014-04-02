@@ -180,3 +180,8 @@ pdf:
 	$(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) _build/pdf
 	@echo
 	@echo "Build finished. The PDF files are in _build/pdf."
+
+mobi:
+	~/Downloads/KindleGen_Mac_i386_v2_9/kindlegen _build/epub/GuidaPraticaalleFatture.epub
+	@echo
+	@echo "Build finished. The mobi file is in _build/epub."
