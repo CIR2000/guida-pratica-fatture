@@ -329,7 +329,7 @@ epub_exclude_files = ['search.html', 'index.html']
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #epub_show_urls = 'inline'
-epub_show_urls = 'footnote'
+epub_show_urls = 'no'
 
 # If false, no index is generated.
 epub_use_index = False
