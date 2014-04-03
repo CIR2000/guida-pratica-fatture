@@ -1,11 +1,7 @@
 Introduzione
 ============
-Questa Guida Alle Fatture è dedicata ai principianti che vogliono saperne di più sulla Fattura in tutte le sue forme: cosa è, quali tipologie esistono, come è composta e, naturalmente, come si compila. Nel corso della guida passeremo in rassegna tutti i documenti di fatturazione esistenti: immediata, differita, accompagnatoria, proforma, parcella, ddt, ricevuta fiscale, autofattura, nota di variazione (credito o debito). Partiremo dalle caratteristiche comuni a tutti questi documenti per poi scendere nel dettaglio, esaminando le peculiarità di ognuna di esse.
-
-Non mancheranno argomenti più avanzati, come le regole per gli arrotondamenti. Se siete interessati ad ulteriori approfondimenti non scordate di iscrivervi alla Newsletter_, così da non perdervi i futuri articoli sull'argomento, pubblicati anche sul nostro seguitissimo blog `Contabilità Facile`_.
-
 Prefazione
-==========
+----------
 Ad uno sguardo poco attento o superficiale, potrebbe sfuggire l'importanza di
 una fattura corretta. Quello che a prima vista sembra essere una semplice nota
 contabile, con il passare degli anni e dell'evolversi della normativa fiscale,
@@ -73,9 +69,8 @@ molto scorrevole e soprattutto utile a tutti. Buona lettura e buon lavoro.
     dell'autorevole sito `Lavoro e Diritti`_ sul quale scrive di problematiche
     fiscali, diritto del lavoro e temi affini.
 
-    
 L'autore
-========
+--------
 Stefano Gardini nasce a Marina di Ravenna il 17 Aprile 1966. Nel 1991, da
 studente universitario, fonda la sua prima società, ancora oggi operativa ed
 editore di questo libro. Si laurea nel 1992 presso Università degli Studi di
@@ -98,7 +93,16 @@ Oggi si propone come autore di questo libro, una guida pratica alla
 fatturazione che riporta l’esperienza del Blog aggiornata e arricchita da
 approfondimenti, risposte alle domande più frequenti e utili consigli pratici.
 
+Aggiornamenti
+--------------
+L'autore si impegna a mantenere questo libro aggiornato nel tempo, sia
+relativamente agli inevitabili aggiornamenti normativo/fiscali che per quanto
+riguarda l'eventuale ampliamento dei contenuti e la correzione di errori.
+Potete iscrivervi alla Newsletter_ per venire informati tempestivamente via
+mail all'uscita di nuove edizioni o di nuovi titoli della collana. Vi
+consigliamo anche di seguire il nostro blog `Contabilità Facile`_.
+
+.. _Newsletter: http://eepurl.com/MIHTv
 .. _`Contabilità Facile`: http://gestionaleamica.com/Blog
 .. _`Gestionale Amica`: http://gestionaleamica.com
 .. _`Lavoro e Diritti`: http://www.lavoroediritti.com
-.. _Newsletter: http://eepurl.com/dYI1f 
