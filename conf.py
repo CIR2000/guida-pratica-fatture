@@ -291,6 +291,8 @@ epub_scheme = 'ISBN'
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
 epub_identifier = '9788898895007'
+# for mobi
+#epub_identifier = '9788898895014'
 
 # A unique identification for the text.
 #epub_uid = ''
