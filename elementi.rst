@@ -27,37 +27,37 @@ Esistono molte tipologie di Fattura. Ognuna si adatta alla tipologia richiesta d
 
 Elementi obbligatori della fattura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Generalità del venditore (cedente) complete di Partita IVA
+- Generalità del venditore (cedente) complete di Partita IVA
 
 .. image:: images/ElementiFattura1.png
 
-2. Generalità del cliente (cessionario) complete di Partita IVA
+- Generalità del cliente (cessionario) complete di Partita IVA
 
 .. image:: images/ElementiFattura2.png
 
-3. Numero e data della fattura
+- Numero e data della fattura
 
 .. image:: images/ElementiFattura3.png
 
-4. Descrizione dei beni o dei servizi oggetto del contratto con il cliente
+- Descrizione dei beni o dei servizi oggetto del contratto con il cliente
 
 .. image:: images/ElementiFattura4.png
 
-5. Quantità erogate dei beni o dei servizi
+- Quantità erogate dei beni o dei servizi
 
 .. image:: images/ElementiFattura5.png
 
-6. Prezzo unitario
-7. Eventuali sconti applicati
-8. Importo complessivo per le quantità cedute per ogni tipologia di bene o servizio
-9. Aliquote IVA per ogni tipologia di bene o servizio
+- Prezzo unitario
+- Eventuali sconti applicati
+- Importo complessivo per le quantità cedute per ogni tipologia di bene o servizio
+- Aliquote IVA per ogni tipologia di bene o servizio
 
 .. image:: images/ElementiFattura6.png
 
-10. Eventuali spese accessorie
-11. L'annotazione di Imponibile e Imposta per ogni aliquota IVA applicata
-12. La descrizione con articolo di legge per ogni eventuale esenzione IVA
-13. I totali per Imponibile, Imposta ed Importi Esenti
+- Eventuali spese accessorie
+- L'annotazione di Imponibile e Imposta per ogni aliquota IVA applicata
+- La descrizione con articolo di legge per ogni eventuale esenzione IVA
+- I totali per Imponibile, Imposta ed Importi Esenti
 
 .. image:: images/ElementiFattura7.png
 
