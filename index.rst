@@ -12,7 +12,6 @@ regole per gli arrotondamenti.
 
 .. toctree::
    :numbered:
-   :hidden:
 
    introduzione
    elementi
