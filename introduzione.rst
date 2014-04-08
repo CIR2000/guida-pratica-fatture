@@ -93,10 +93,20 @@ Oggi si propone come autore di questo libro, una guida pratica alla
 fatturazione che riporta l’esperienza del Blog aggiornata e arricchita da
 approfondimenti, risposte alle domande più frequenti e utili consigli pratici.
 
+Edizioni Digitali
+-----------------
+Le edizioni digitali di questo libro sono disponibili nelle principali librerie
+online in versione ePub e sul sito Amazon_ in versione Kindle. Tutti i  ricavi
+della vendita saranno reinvestiti in progetti di microcredito kiva.org_. 
+
+.. note::
+    Vi saremmo davvero grati se decideste di pubblicare una recensione del libro
+    su Amazon_ oppure una delle altre librerie online.
+
 Aggiornamenti
 --------------
 L'autore si impegna a mantenere questo libro aggiornato nel tempo, sia
-relativamente agli inevitabili aggiornamenti normativo/fiscali che per quanto
+relativamentesssss inevitabili aggiornamenti normativo/fiscali che per quanto
 riguarda l'eventuale ampliamento dei contenuti e la correzione di errori.
 Potete iscrivervi alla Newsletter_ per venire informati tempestivamente via
 mail all'uscita di nuove edizioni o di nuovi titoli della collana. Vi
@@ -106,3 +116,5 @@ consigliamo anche di seguire il nostro blog `Contabilità Facile`_.
 .. _`Contabilità Facile`: http://gestionaleamica.com/Blog
 .. _`Gestionale Amica`: http://gestionaleamica.com
 .. _`Lavoro e Diritti`: http://www.lavoroediritti.com
+.. _kiva.org: http://www.kiva.org/invitedby/nicolaiarocci
+.. _Amazon: http://www.amazon.it/Guida-pratica-fatture-Stefano-Gardini-ebook/dp/B00JIW7MA2/ref=sr_1_1?ie=UTF8&qid=1396944240&sr=8-1&keywords=guida+pratica+alle+fatture
