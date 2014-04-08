@@ -116,5 +116,5 @@ consigliamo anche di seguire il nostro blog `Contabilità Facile`_.
 .. _`Contabilità Facile`: http://gestionaleamica.com/Blog
 .. _`Gestionale Amica`: http://gestionaleamica.com
 .. _`Lavoro e Diritti`: http://www.lavoroediritti.com
-.. _kiva.org: http://www.kiva.org/invitedby/nicolaiarocci
+.. _kiva.org: http://www.kiva.org/invitedto/amicabooks/by/nicolaiarocci
 .. _Amazon: http://www.amazon.it/Guida-pratica-fatture-Stefano-Gardini-ebook/dp/B00JIW7MA2/ref=sr_1_1?ie=UTF8&qid=1396944240&sr=8-1&keywords=guida+pratica+alle+fatture
