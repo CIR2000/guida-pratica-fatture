@@ -10,5 +10,5 @@ Ringraziamenti
 ---------------
 Voglio ringraziare innanzi tutto tutti gli utenti del Blog_ per i tanti attestati di stima e per i tanti complimenti, ma soprattutto per le tante occasioni di approfondimento che mi hanno dato con le loro domande. Voglio infine fare un ringraziamento particolare a `Nicola Iarocci`_, mio amico da quasi trent'anni e socio da 23 che mi ha aiutato nella stesura e nella riorganizzazione delle informazioni per la realizzazione del libro, nonché nella correzione delle bozze e nell'impaginazione. Un grazie anche a tutti coloro che hanno letto il libro, spero con soddisfazione.
 
-.. _Blog: http://gestionaleamica.com/Blog
+.. _Blog: http://blog.gestionaleamica.com
 .. _`Nicola Iarocci`: http://nicolaiarocci.com

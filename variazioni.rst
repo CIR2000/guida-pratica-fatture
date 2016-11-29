@@ -112,4 +112,4 @@ Riepilogo
     precisazioni nel tempo fatte da Agenzia delle Entrate.
 
 .. _`DPR 633/72`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
-.. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
+.. _`Amica Fatturazione`: http://gestionaleamica.com/Software/Fatturazione

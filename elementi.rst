@@ -131,4 +131,4 @@ Riepilogo
 Abbiamo visto cosa è una fattura, chi è tenuto ad emetterla, quali sono gli elementi che la compongono, come si determina la base imponibile e quali sono le regole per la conservazione di questo importante documento fiscale. Sono le conoscenze di base comuni a tutte le tipologie di fattura che bisogna sempre tenere presenti al fine di non commettere errori nella compilazione delle proprie fatture. A seguire andremo a vedere i dettagli delle singole tipologie di documento che possono essere utilizzate.
 
 .. _`DPR 633/72`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
-.. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
+.. _`Amica Fatturazione`: http://gestionaleamica.com/Software/Fatturazione

@@ -225,5 +225,5 @@ Il DDT, come abbiamo potuto vedere, è un documento che ricopre molti aspetti si
     è il miglior modo per vincere la 'presunzione di cessione' in caso di
     controlli. Le sanzioni possono anche essere salate.
 
-.. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
+.. _`Amica Fatturazione`: http://gestionaleamica.com/Software/Fatturazione
 .. _`DPR 472/96`: http://www.fog.it/legislaz/dpr-96-0472.htm

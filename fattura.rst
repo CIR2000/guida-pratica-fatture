@@ -70,4 +70,4 @@ Abbiamo analizzato in questo capitolo le tipologie di fattura usate comunemente 
     strumento di marketing per fare attività cosiddetta di 'branding'
     cioè di comunicazione di immagine, prodotti e marchi.
 
-.. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
+.. _`Amica Fatturazione`: http://gestionaleamica.com/Software/Fatturazione

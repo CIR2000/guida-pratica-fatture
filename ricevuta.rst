@@ -121,4 +121,4 @@ Lo Scontrino Fiscale e la Ricevuta Fiscale sono i due documenti di certificazion
 
 .. _`Amica 10`: http://gestionaleamica.com
 .. _`DPR 633/72`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633!vig=
-.. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
+.. _`Amica Fatturazione`: http://gestionaleamica.com/Software/Fatturazione

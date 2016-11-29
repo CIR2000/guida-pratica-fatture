@@ -113,7 +113,7 @@ mail all'uscita di nuove edizioni o di nuovi titoli della collana. Vi
 consigliamo anche di seguire il nostro blog `Contabilità Facile`_.
 
 .. _Newsletter: http://eepurl.com/MIHTv
-.. _`Contabilità Facile`: http://gestionaleamica.com/Blog
+.. _`Contabilità Facile`: http://blog.gestionaleamica.com
 .. _`Gestionale Amica`: http://gestionaleamica.com
 .. _`Lavoro e Diritti`: http://www.lavoroediritti.com
 .. _kiva.org: http://www.kiva.org/invitedto/amicabooks/by/nicolaiarocci

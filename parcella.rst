@@ -128,4 +128,4 @@ Il documento del Professionista per certificare fiscalmente i compensi ricevuti.
 
 
 .. _Enasarco: http://enasarco.it
-.. _`Amica Fatturazione`: http://gestionaleamica.com/Fatturazione
+.. _`Amica Fatturazione`: http://gestionaleamica.com/Software/Fatturazione
